@@ -1,0 +1,58 @@
+[from-internal-custom]
+include => 999
+include => 1000
+include => 1001
+include => 1002
+include => 1003
+include => 1337
+include => custom-recordme
+include => demo-menu
+
+[1337]
+exten => 1337[1-9].,1,Dial(SIP/flowroute/$[EXTEN:4})
+
+[999]
+exten => 999,1,Playback(demo-congrats)
+exten => 999,2,Hangup()
+
+[1000]
+exten => 1000,1,Dial(SIP/flowroute/ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAwciqQ9BE+zEJgDSUb8kGon++eOD88Bs3FKEowjgONIbLRj+CGwrBBMulVUpN7VYybno+viCt3LQbzSOam8HVCzIHPSZB4koyASEa4YxlQVkfHnacHcKESqgxeoZkw7g5Ei4jaUmo6xQzc3+d3gJy3hsJvSO3kVE5lNdZhUe7hLYsvgJ9YSBmdQ9znaTCkEziIDD36FcDKeph0UhkFUCdIw4iisIiNCQixSgKoCm5bFCuuqTLQwasSoNd3C9YWiHJgVaSZuX6rGbHE6HO1/QIlCO/tOVz16AZd2nZ7u/HiecJ3n2ZRt+FsWYQ6O8DVjNi2tfcf/TXbrCkfnZD+Gmyaw== root@asteriskbox15038419766,300,)
+;exten => 1000,1,Dial(SIP/flowroute//1337)
+exten => 1000,2,Hangup()
+
+[1001]
+exten => 1001,1,Playback(custom/asterisk-recording)
+exten => 1001,2,Hangup()
+
+[demo-menu]
+exten => s,1,Answer(500)
+   same => n(loop),Background(press-1&or&press-2)
+   same => n,WaitExten()
+ 
+exten => 1,1,Playback(you-entered)
+   same => n,SayNumber(1)
+   same => n,Goto(s,loop)
+ 
+exten => 2,1,Playback(you-entered)
+   same => n,SayNumber(2)
+   same => n,Goto(s,loop)
+
+[1002]
+   exten => 1002,1,Goto(demo-menu,s,1)
+; exten => 1002,1,SayNumber(1)
+; exten => 1002,2,Hangup()
+
+; outgoing dialtone
+[1003]
+   exten => 1003,1,DISA(no-password,from-internal)
+
+[ivr-1-custom]
+exten => 6,1,Goto(ext-local,vmb666,1)
+
+[custom-recordme]
+exten => 5678,1,Wait(1)
+exten => 5678,2,Record(/tmp/asterisk-recording:gsm)
+exten => 5678,3,Wait(1)
+exten => 5678,4,Playback(/tmp/asterisk-recording)
+exten => 5678,5,Wait(1)
+exten => 5678,6,Hangup 

@@ -1,0 +1,17 @@
+<contacts 
+  group_name="internal-777"
+  editable="0"
+>
+  <contact
+    first_name="sipuser"
+    last_name=""
+    organization=""
+    contact_type="sip"
+    account_id="666"
+    subscribe_to="auto_hint_666"
+  >
+    <numbers>
+      <number dial="666" label="Extension" primary="1" />
+    </numbers>
+  </contact>
+</contacts>
