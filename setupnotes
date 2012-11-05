@@ -1,0 +1,69 @@
+pap2: (sip device)
+extension 666, 777
+set proxy, outbound proxy address to asterisk box IP
+ext to direct dial to 7777 dial plan: S0<:7777>
+- causes simulate inbound
+
+freepbx:
+/etc/asterisk/sip_nat.conf - extern/local ips
+/etc/asterisk/extensions_override.conf
+asterisk -r to attach
+extensions (sip devices)
+- 666, 777
+- sip show peers
+trunk
+inbound route
+- ipkall-1
+- set destination ivr
+- then incoming 7777 from sip device will go here immediately
+outbound route
+
+router:
+asterisk ports to forward
+5060 udp
+10000-20000 udp
+
+ipkall: (incoming sip and did)
+phone.ipkall.com
+update ip address in web ui 
+write from extensions_override.conf
+
+flowroute: (outgoing sip)
+no config
+
+
+asterisk feature code? to call specific number
+extensions_custom.conf
+(replace XXXDESTINATION)
+  [from-internal-custom]
+  include => 999
+  include => 1000
+
+  [999]
+  exten => 999,1,Playback(demo-congrats)
+  exten => 999,2,Hangup()
+
+  [1000]
+  exten => 1000,1,Dial(SIP/flowroute/XXXDESTINATION,300,)
+  exten => 1000,2,Hangup()
+
+
+Incoming Bandwidth              Outgoing Bandwidth
+Calls: 2        Calls: 2
+RTP: 4.69 Kbps  RTP: 4.69 Kbps
+UDP: 3.13 Kbps  UDP: 3.13 Kbps
+IP: 7.81 Kibps  IP: 7.81 Kibps
+Protocol: MGCP  Protocol: SIP
+Audio Codec: 8.00g.729a Kbps    Audio Codec: 8.00g.729a Kbps
+*MGCP overhead is disregarded!  *SIP overhead is disregarded!
+Incoming bandwidth:     47.25 Kbps
+0.05 Mbps
+5.91 KBps
+0.01 MBps       Outgoing bandwidth:     47.25 Kibps
+0.05 Mbps
+5.91 KBps
+0.01 MBps
+Total bandwidth (incoming and outgoing):                94.5 Kbps
+0.09 Mbps
+11.81 KBps
+0.01 MBps
