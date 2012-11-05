@@ -1,4 +1,4 @@
-pap2: (sip device)
+hpap2: (sip device)
 extension 666, 777
 set proxy, outbound proxy address to asterisk box IP
 ext to direct dial to 7777 dial plan: S0<:7777>
@@ -6,7 +6,7 @@ ext to direct dial to 7777 dial plan: S0<:7777>
 
 freepbx:
 /etc/asterisk/sip_nat.conf - extern/local ips
-/etc/asterisk/extensions_override.conf
+/etc/asterisk/extensions_override_freepbx.conf - external sip info
 asterisk -r to attach
 extensions (sip devices)
 - 666, 777
@@ -25,8 +25,8 @@ asterisk ports to forward
 
 ipkall: (incoming sip and did)
 phone.ipkall.com
-update ip address in web ui 
-write from extensions_override.conf
+update ip address in web ui to external ip of asterisk box
+update name of sip uri to ipkall-1 to match extensoin_override_freepbx.conf
 
 flowroute: (outgoing sip)
 no config
@@ -67,3 +67,15 @@ Total bandwidth (incoming and outgoing):                94.5 Kbps
 0.09 Mbps
 11.81 KBps
 0.01 MBps
+
+
+equipment to look for:
+ATAs
+phones
+
+requirements for a node:
+power - laptop+phone or arm+phone, how many watts?
+public access
+phone mounting
+bandwidth - 47KPBS?
+ip address - dyndns or similar
