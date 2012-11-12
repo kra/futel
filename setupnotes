@@ -1,8 +1,11 @@
-hpap2: (sip device)
+pap2: (sip device)
 extension 666, 777
 set proxy, outbound proxy address to asterisk box IP
-ext to direct dial to 7777 dial plan: S0<:7777>
+old way: ext to direct dial to 7777 dial plan: S0<:7777>
 - causes simulate inbound
+- but this takes up the inbound line
+new way: ext to direct dial to 1002
+set up 1002 extensions in extensions_custom.conf to go to ivr
 
 freepbx:
 /etc/asterisk/sip_nat.conf - extern/local ips
@@ -46,6 +49,13 @@ extensions_custom.conf
   [1000]
   exten => 1000,1,Dial(SIP/flowroute/XXXDESTINATION,300,)
   exten => 1000,2,Hangup()
+
+IVR:
+
+copy media to /var/lib/asterisk/sounds/custom
+can use subdirectory
+add with gui
+
 
 
 Incoming Bandwidth              Outgoing Bandwidth
