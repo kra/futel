@@ -15,24 +15,50 @@ extensions (sip devices)
 - 666, 777
 - sip show peers
 trunk
+- flowroute trunk
+-- XXX lots of config here, but should be in repo
+-- XXX do we need an ipkall trunk to register?
+- callcentric trunk, see below
 inbound route
 - ipkall-1
-- set destination ivr
-- then incoming 7777 from sip device will go here immediately
+-- set destination ivr
+-- then incoming 7777 from sip device will go here immediately
 outbound route
+- single route going to flowroute?
 
 router:
 asterisk ports to forward
 5060 udp
 10000-20000 udp
 
-ipkall: (incoming sip and did)
+ipkall:
+ipkall is incoming sip and did only
 phone.ipkall.com
 update ip address in web ui to external ip of asterisk box
 update name of sip uri to ipkall-1 to match extensoin_override_freepbx.conf
 
-flowroute: (outgoing sip)
-no config
+flowroute:
+flowroute is outgoing sip only
+no config at flowroute site
+
+callcentric:
+callcentric is incoming number, can also use for outgoing
+https://my.callcentric.com/how_to_start.php?pid=3&device=15&go.x=113&go.y=15&go=Continue
+no config at callcentric site?
+add SIP trunk to freepbx
+- this is needed for incoming even though it appears to only apply to outgoing!
+- outgoing settings might not be required, but registration definately is
+- use callcentric moderator 1777 moderator number, not phone number!
+- phone should now be registered at callcentric site
+edit sip_general_custom.conf
+skip outbound route, extension config for now
+add inbound route
+- accept any DID, probably want to change this
+- this just moves all incoming to desired dest, don't need to config for
+  callcentric
+
+
+
 
 
 asterisk feature code? to call specific number
