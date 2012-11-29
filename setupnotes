@@ -82,36 +82,3 @@ copy media to /var/lib/asterisk/sounds/custom
 can use subdirectory
 add with gui
 
-
-
-Incoming Bandwidth              Outgoing Bandwidth
-Calls: 2        Calls: 2
-RTP: 4.69 Kbps  RTP: 4.69 Kbps
-UDP: 3.13 Kbps  UDP: 3.13 Kbps
-IP: 7.81 Kibps  IP: 7.81 Kibps
-Protocol: MGCP  Protocol: SIP
-Audio Codec: 8.00g.729a Kbps    Audio Codec: 8.00g.729a Kbps
-*MGCP overhead is disregarded!  *SIP overhead is disregarded!
-Incoming bandwidth:     47.25 Kbps
-0.05 Mbps
-5.91 KBps
-0.01 MBps       Outgoing bandwidth:     47.25 Kibps
-0.05 Mbps
-5.91 KBps
-0.01 MBps
-Total bandwidth (incoming and outgoing):                94.5 Kbps
-0.09 Mbps
-11.81 KBps
-0.01 MBps
-
-
-equipment to look for:
-ATAs
-phones
-
-requirements for a node:
-power - laptop+phone or arm+phone, how many watts?
-public access
-phone mounting
-bandwidth - 47KPBS?
-ip address - dyndns or similar

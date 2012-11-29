@@ -1,0 +1,49 @@
+Expenses:
+
+domain/vhosting/email hosting/web page serving
+
+phone bandwidth $35-100/mo?
+phone $150
+phone mounting hardware, etc. $50-200
+phone security hardware (lights, etc)
+phone IT hardware (computer, etc)
+
+
+Requirements to host a node:
+
+power - laptop+phone or arm+phone, how many watts?
+public access
+secure phone mounting location
+bandwidth - 50KPBS bursty?
+static ip address - dyndns or similar
+
+
+Equipment to look for:
+
+ATAs
+laptops, plug boxes
+phones, backing plates, enclosures
+big old I-beams
+
+
+Bandwidth estimate, where was this from?
+
+Incoming Bandwidth              Outgoing Bandwidth
+Calls: 2        Calls: 2
+RTP: 4.69 Kbps  RTP: 4.69 Kbps
+UDP: 3.13 Kbps  UDP: 3.13 Kbps
+IP: 7.81 Kibps  IP: 7.81 Kibps
+Protocol: MGCP  Protocol: SIP
+Audio Codec: 8.00g.729a Kbps    Audio Codec: 8.00g.729a Kbps
+*MGCP overhead is disregarded!  *SIP overhead is disregarded!
+Incoming bandwidth:     47.25 Kbps
+0.05 Mbps
+5.91 KBps
+0.01 MBps       Outgoing bandwidth:     47.25 Kibps
+0.05 Mbps
+5.91 KBps
+0.01 MBps
+Total bandwidth (incoming and outgoing):                94.5 Kbps
+0.09 Mbps
+11.81 KBps
+0.01 MBps
