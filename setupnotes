@@ -35,7 +35,7 @@ ipkall:
 ipkall is incoming sip and did only
 phone.ipkall.com
 update ip address in web ui to external ip of asterisk box
-update name of sip uri to ipkall-1 to match extensoin_override_freepbx.conf
+update name of sip uri to ipkall-1 to match extension_override_freepbx.conf
 
 flowroute:
 flowroute is outgoing sip only
@@ -82,3 +82,6 @@ copy media to /var/lib/asterisk/sounds/custom
 can use subdirectory
 add with gui
 
+
+notes
+don't forget to chown/chgrp asterisk
