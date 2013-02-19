@@ -1,3 +1,80 @@
+* Start:
+
+install AsteriskNOW 2.0.2 distribution with freepbx
+update modules with gui module administration
+start/stop asterisk with /etc/init.d/asterisk
+
+* Addresses and ports:
+
+forward ports on router:
+5060-5070 udp (only 5060 is needed for 1 connection)
+10000-20000 udp
+
+edit sip_nat.conf:
+externip=<external IP>
+localnet=<ip/mask>
+nat=yet
+then restart console, or sip reload sip_nat.conf
+
+* Get callcentic DID
+https://my.callcentric.com/home.php
+
+* Setup SIP trunk for incoming route:
+
+Using callcentric DID.
+https://my.callcentric.com/how_to_start.php?pid=3&device=15&go.x=113&go.y=15&go=Continue
+No config at callcentric site.
+Disable all existing trunks.
+
+In freepbx gui, connectivity->trunks->add SIP trunk
+trunk name: callcentric
+outgoing settings:
+"""
+trunk name: calcentric
+peer details:
+context=from-pstn
+fromdomain=callcentric.com
+fromuser=<callcentric-1777-moderator-number>
+host=callcentric.com
+insecure=port,invite
+secret=<password>
+type=peer
+defaultuser=<callcentric-1777-moderator-number>
+disallowed_methods=UPDATE
+directmedia=no
+videosupport=no
+disallow=all
+allow=ulaw
+"""
+note: use callcentric moderator 1777 moderator number, not phone number!
+incoming settings: blank
+register string: <callcentric-1777-moderator-number>:<password>@callcentric.com/<callcentric-1777-moderator-number>
+
+edit sip_general_custom.conf
+context=from-pstn
+srvlookup=yes
+session-timers=refuse
+session-expires=180
+session-minse=90
+session-refresher=uas 
+
+sip show peers to verify
+phone should now be registered at callcentric site
+
+* note we skipped outbound route configuration for now
+* note we skipped adding an extension for now
+
+* Setup incoming route
+Description: from-callcentric
+Everyting else should be blank
+(callcentric says use the 1777 moderator number, do that if we want more than
+one incoming route)
+Add a destination for testing (like the clock)
+
+
+---
+old setup notes
+
 pap2: (sip device)
 extension 666, 777
 set proxy, outbound proxy address to asterisk box IP
@@ -8,7 +85,6 @@ new way: ext to direct dial to 1002
 set up 1002 extensions in extensions_custom.conf to go to ivr
 
 freepbx:
-/etc/asterisk/sip_nat.conf - extern/local ips
 /etc/asterisk/extensions_override_freepbx.conf - external sip info
 asterisk -r to attach
 extensions (sip devices)
@@ -26,10 +102,6 @@ inbound route
 outbound route
 - single route going to flowroute?
 
-router:
-asterisk ports to forward
-5060 udp
-10000-20000 udp
 
 ipkall:
 ipkall is incoming sip and did only
@@ -40,23 +112,6 @@ update name of sip uri to ipkall-1 to match extension_override_freepbx.conf
 flowroute:
 flowroute is outgoing sip only
 no config at flowroute site
-
-callcentric:
-callcentric is incoming number, can also use for outgoing
-https://my.callcentric.com/how_to_start.php?pid=3&device=15&go.x=113&go.y=15&go=Continue
-no config at callcentric site?
-add SIP trunk to freepbx
-- this is needed for incoming even though it appears to only apply to outgoing!
-- outgoing settings might not be required, but registration definately is
-- use callcentric moderator 1777 moderator number, not phone number!
-- phone should now be registered at callcentric site
-edit sip_general_custom.conf
-skip outbound route, extension config for now
-add inbound route
-- accept any DID, probably want to change this
-- this just moves all incoming to desired dest, don't need to config for
-  callcentric
-
 
 
 
