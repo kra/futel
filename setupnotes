@@ -1,6 +1,7 @@
 * Start:
 
 install AsteriskNOW 2.0.2 distribution with freepbx
+install rhel (asteriskNOW is centos 5 based)
 update modules with gui module administration
 start/stop asterisk with /etc/init.d/asterisk
 
@@ -11,14 +12,23 @@ forward ports on router:
 10000-20000 udp
 
 edit sip_nat.conf:
-externip=<external IP>
+externhost=<dyndns address>
 localnet=<ip/mask>
-nat=yet
+nat=yes
 then restart console, or sip reload sip_nat.conf
+if we have a static IP, use externip instead of externhost
+
+* dyndns client
+get a dyndns account for the box
+yum install inadyn
+edit /etc/inadyn.conf
+chkconfig --add inadyn
+chkconfig inadyn on
+
 
 * Get callcentic DID
 https://my.callcentric.com/home.php
-
+ 
 * Setup SIP trunk for incoming route:
 
 Using callcentric DID.
@@ -30,7 +40,7 @@ In freepbx gui, connectivity->trunks->add SIP trunk
 trunk name: callcentric
 outgoing settings:
 """
-trunk name: calcentric
+trunk name: callcentric
 peer details:
 context=from-pstn
 fromdomain=callcentric.com
@@ -71,25 +81,59 @@ Everyting else should be blank
 one incoming route)
 Add a destination for testing (like the clock)
 
+* Add an extension for a phone device (sip peer)
+applications->add extension->generic SIP device
+user extension 666
+display name 666
+secret <password>
+nat yes
+
+* add an extension 1002 for the phone device destination
+we do a demo IVR for testing 
+edit extensions_custom.conf
+[from-internal-custom]
+include => demo-menu
+include => 1002
+
+[demo-menu]
+exten => s,1,Answer(500)
+   same => n(loop),Background(press-1&or&press-2)
+   same => n,WaitExten()
+
+exten => 1,1,Playback(you-entered)
+   same => n,SayNumber(1)
+   same => n,Goto(s,loop)
+
+exten => 2,1,Playback(you-entered)
+   same => n,SayNumber(2)
+   same => n,Goto(s,loop)
+
+[1002]
+   exten => 1002,1,Goto(demo-menu,s,1)
+
+
+
+* Setup PAP device (linksys spa3000)
+login as admin, advanced view
+voice->line1
+nat mapping enable yes
+proxy: asterisk box IP visible to pap device
+outbound proxy: asterisk box IP visible to pap device
+user ID: SIP extention number
+password: SIP extension secret
+dial string S0<:1002>
+- this means call ext 1002
+may need to restart the device
+- asterisk console should give a message peer 666 now reachable
+- pick up the phone, get the expected destination
+
 
 ---
 old setup notes
 
-pap2: (sip device)
-extension 666, 777
-set proxy, outbound proxy address to asterisk box IP
-old way: ext to direct dial to 7777 dial plan: S0<:7777>
-- causes simulate inbound
-- but this takes up the inbound line
-new way: ext to direct dial to 1002
-set up 1002 extensions in extensions_custom.conf to go to ivr
-
 freepbx:
 /etc/asterisk/extensions_override_freepbx.conf - external sip info
 asterisk -r to attach
-extensions (sip devices)
-- 666, 777
-- sip show peers
 trunk
 - flowroute trunk
 -- XXX lots of config here, but should be in repo
