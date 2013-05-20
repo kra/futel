@@ -1,0 +1,60 @@
+*** set up asterisk on centos 6 without freepbx
+
+* install centos 6.x
+
+* setup centos
+XXX install epel?
+XXX some of this is out of date
+yum groupremove "FCoE Storage Client"
+yum groupremove "iSCSI Storage Client"
+yum groupremove "Network file system client"
+yum groupremove "Storage Availability Tools"
+yum remove audit rpcbind selinux-policy selinux-policy-targeted
+yum remove erlang rabbitmq-server
+
+yum install vim-enhanced gcc make automake libtool autoconf
+yum install mlocate lynx cvs subversion strace ltrace wget lsof tcpdump
+yum install openssh openssh-server openssh-clients
+yum install openssl-devel
+
+* add non-root user for asterisk
+adduser asterisk
+make shell /bin/false
+
+
+* build, install asterisk from source
+as asterisk
+asterisk 11.4.0
+mkdir /opt/asterisk
+chown/chgrp asterisk
+su asterisk
+./configure --prefix=/opt/asterisk --sysconfdir=/opt/asterisk
+  --localstatedir=/opt/asterisk
+make menuselect
+make install
+exit # back to root
+make config #as root
+edit /opt/asterisk/sbin/safe_asterisk ASTARGS="-U asterisk"
+XXX  install dependencies as you go
+
+* install pyst:
+  http://pyst.sourceforge.net/
+  cd /usr/local/src/pyst...
+  python setup.py install --prefix=/usr/local
+  cd /usr/lib/python2.4/site-packages/
+  ln -s /usr/local/lib/python2.4/site-packages/asterisk/ asterisk
+
+* install dyndns client
+get a dyndns account for the box
+download, build, install inadyn
+edit /etc/inadyn.conf
+add /etc/init.d/inadyn
+create links in /etc/rc.d/* (or get chkconfig to work)
+
+* Addresses and ports:
+
+forward ports on router:
+5060-5070 udp (only 5060 is needed for 1 connection)
+10000-20000 udp
+
+
