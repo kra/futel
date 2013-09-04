@@ -1,9 +1,17 @@
 * Start:
 
 install AsteriskNOW 2.0.2 distribution with freepbx
-install rhel (asteriskNOW is centos 5 based)
+install rhel (asteriskNOW is centos 5 based) (you mean epel?)
 update modules with gui module administration
 start/stop asterisk with /etc/init.d/asterisk
+yum install festival (if generating voice synth on this box)
+install pyst:
+  http://pyst.sourceforge.net/
+  cd /usr/local/src/pyst...
+  python setup.py install --prefix=/usr/local
+  cd /usr/lib/python2.4/site-packages/
+  ln -s /usr/local/lib/python2.4/site-packages/asterisk/ asterisk
+
 
 * Addresses and ports:
 
@@ -28,6 +36,9 @@ chkconfig inadyn on
 
 * Get callcentic DID
 https://my.callcentric.com/home.php
+preferences:
+enable multiple calls
+max call duration
  
 * Setup SIP trunk for incoming route:
 
@@ -38,6 +49,9 @@ Disable all existing trunks.
 
 In freepbx gui, connectivity->trunks->add SIP trunk
 trunk name: callcentric
+dialed number manipulation rules:
+(1)+prefix+NXXNXXXXXX
+(this adds a 1 if not not given, as required by callcentric)
 outgoing settings:
 """
 trunk name: callcentric
@@ -87,6 +101,7 @@ user extension 666
 display name 666
 secret <password>
 nat yes
+* repeat for other sip peers
 
 * add an extension 1002 for the phone device destination
 we do a demo IVR for testing 
@@ -112,20 +127,45 @@ exten => 2,1,Playback(you-entered)
    exten => 1002,1,Goto(demo-menu,s,1)
 
 
-
 * Setup PAP device (linksys spa3000)
 login as admin, advanced view
 voice->line1
 nat mapping enable yes
-proxy: asterisk box IP visible to pap device
-outbound proxy: asterisk box IP visible to pap device
-user ID: SIP extention number
+proxy: asterisk box IP (or hostname?) visible to pap device
+outbound proxy: asterisk box IP (or hostname?) visible to pap device
+user ID: SIP extension number
+display name: SIP extension number
 password: SIP extension secret
 dial string S0<:1002>
 - this means call ext 1002
 may need to restart the device
 - asterisk console should give a message peer 666 now reachable
 - pick up the phone, get the expected destination
+
+* setup extensions hacking/testing
+(this is all hacking)
+add ext 2000 with GUI for testing
+create custom destination to go to custom extension for testing
+assuming we created the 1002 extension in the from-internal-custom context
+in extensions_custom.conf, above
+admin->custom destinations->add custom destination
+custom destination:from-internal-custom,1002,1
+nam1e:test
+now, can e.g. set the incoming route to go to that
+
+* create agi script for hacking
+(this is all hacking)
+install test agi script in /var/lib/aserisk/agi-bin/test.agi
+send extension to that script
+[1002]
+  ;exten => 1002,1,Goto(demo-menu,s,1)
+  exten => 1002,1,AGI(test.agi)
+
+* setup callcentric outbound route
+add outbound route to-callcentric
+add dial patterns that will use route XXX 1- and local?
+set trunk sequence to callcentric trunk
+
 
 
 ---

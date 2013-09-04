@@ -14,8 +14,8 @@ Requirements to host a node:
 power - laptop+phone or arm+phone, how many watts?
 public access
 secure phone mounting location
-bandwidth - 50KPBS bursty?
-static ip address - dyndns or similar
+bandwidth - 95KBPS bursty?
+static ip address or hostname - dyndns or similar
 
 
 Equipment to look for:
@@ -23,7 +23,7 @@ Equipment to look for:
 ATAs
 laptops, plug boxes
 phones, backing plates, enclosures
-big old I-beams
+pedestals, big old I-beams
 
 
 Bandwidth estimate, where was this from?
