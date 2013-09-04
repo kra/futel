@@ -1,5 +1,11 @@
 *** set up asterisk on centos 6 without freepbx
 
+* XXX setup ec2 instance
+XXX smallest size OK?
+XXX start with root EBS - EBS base AMI?
+XXX prob will continue with root EBS, eventually more of that will be in AMI
+XXX need to include image setup below so recovery is quicker
+
 * install centos 6.x
 
 * setup centos
@@ -46,10 +52,13 @@ XXX  install dependencies as you go
 
 * install dyndns client
 get a dyndns account for the box
+XXX dyndns is bogus, get a better service.
 download, build, install inadyn
 edit /etc/inadyn.conf
 add /etc/init.d/inadyn
 create links in /etc/rc.d/* (or get chkconfig to work)
+Note that if inadyn stops working, dhcp breaks!  Try signing in to dyndns and
+restarting networking on the box if that happens.
 
 * Addresses and ports:
 
