@@ -1,47 +1,62 @@
 *** set up asterisk on centos 6 without freepbx
 
-* XXX setup ec2 instance
-XXX smallest size OK?
-XXX start with root EBS - EBS base AMI?
-XXX prob will continue with root EBS, eventually more of that will be in AMI
-XXX need to include image setup below so recovery is quicker
-
 * install centos 6.x
 
+* add users and access
+useradd -m karl -s /bin/bash -G wheel -u 666 # etc
+# uncomment wheel access in /etc/sudoers
+# edit /etc/ssh/sshd_config
+# Port
+# PermitRootLogin no
+# AllowX11Forwarding no
+# SetPermitTunnel yes
+# RSAAuthentication yes
+# PubKeyAuthentication no
+# PasswordAuthentication no
+
+* kill firewall for now, fix it later
+iptables -F
+chkconfig --del iptables
+
 * setup centos
-XXX install epel?
-XXX some of this is out of date
 yum groupremove "FCoE Storage Client"
 yum groupremove "iSCSI Storage Client"
 yum groupremove "Network file system client"
 yum groupremove "Storage Availability Tools"
 yum remove audit rpcbind selinux-policy selinux-policy-targeted
-yum remove erlang rabbitmq-server
+yum update
 
-yum install vim-enhanced gcc make automake libtool autoconf
-yum install mlocate lynx cvs subversion strace ltrace wget lsof tcpdump
+yum install man
+yum install vim-enhanced gcc gcc-g++ make automake libtool autoconf
+yum install mlocate lynx cvs git subversion strace ltrace wget lsof tcpdump
 yum install openssh openssh-server openssh-clients
 yum install openssl-devel
+yum install ncurses-devel libxml2-devel newt-devel kernel-devel sqlite-devel
+
+* install epel
+su -c 'rpm -Uvh http://download.fedoraproject.org/pub/epel/6/i386/epel-release-6-8.noarch.rpm'
 
 * add non-root user for asterisk
-adduser asterisk
-make shell /bin/false
-
+useradd -m asterisk -s /bin/false
 
 * build, install asterisk from source
 as asterisk
-asterisk 11.4.0
+asterisk 11.5.1
 mkdir /opt/asterisk
-chown/chgrp asterisk
-su asterisk
-./configure --prefix=/opt/asterisk --sysconfdir=/opt/asterisk
+chown/chgrp asterisk /opt/asterisk
+#su asterisk?
+./configure --libdir=/usr/lib64 --prefix=/opt/asterisk --sysconfdir=/opt/asterisk
   --localstatedir=/opt/asterisk
-make menuselect
+make menuselect # just do this and exit
+make
 make install
-exit # back to root
+#exit # back to root?
+make samples
 make config #as root
 edit /opt/asterisk/sbin/safe_asterisk ASTARGS="-U asterisk"
-XXX  install dependencies as you go
+
+# backup asterisk!
+tar -zc /opt/asterisk -f /opt/asterisk.tgz
 
 * install pyst:
   http://pyst.sourceforge.net/
@@ -52,18 +67,24 @@ XXX  install dependencies as you go
 
 * install dyndns client
 get a dyndns account for the box
+http://dyn.com/support/clients/linux/inadyn/
 XXX dyndns is bogus, get a better service.
 download, build, install inadyn
+cp bin/linux/inadyn /usr/local/sbin/
 edit /etc/inadyn.conf
 add /etc/init.d/inadyn
+http://pastebin.com/7jnh340e
 create links in /etc/rc.d/* (or get chkconfig to work)
 Note that if inadyn stops working, dhcp breaks!  Try signing in to dyndns and
 restarting networking on the box if that happens.
+
+* remove the firewall again? why?
+iptables -F
+chkconfig --del iptables
 
 * Addresses and ports:
 
 forward ports on router:
 5060-5070 udp (only 5060 is needed for 1 connection)
 10000-20000 udp
-
 
