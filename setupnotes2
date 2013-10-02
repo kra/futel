@@ -59,11 +59,12 @@ edit /opt/asterisk/sbin/safe_asterisk ASTARGS="-U asterisk"
 tar -zc /opt/asterisk -f /opt/asterisk.tgz
 
 * install pyst:
-  http://pyst.sourceforge.net/
+  (note that pystrix might be a more modern python AGI implemention)
+  http://pyst.sourceforge.net/ https://pypi.python.org/pypi/pyst
   cd /usr/local/src/pyst...
   python setup.py install --prefix=/usr/local
-  cd /usr/lib/python2.4/site-packages/
-  ln -s /usr/local/lib/python2.4/site-packages/asterisk/ asterisk
+  # I don't think we need to do this anymore
+  # ln -s /usr/local/lib/python2.6/site-packages/asterisk/ /usr/lib/python2.4/site-packages/
 
 * install dyndns client
 get a dyndns account for the box
@@ -76,9 +77,10 @@ add /etc/init.d/inadyn
 http://pastebin.com/7jnh340e
 create links in /etc/rc.d/* (or get chkconfig to work)
 Note that if inadyn stops working, dhcp breaks!  Try signing in to dyndns and
-restarting networking on the box if that happens.
+then restarting networking on the box if that happens.
 
-* remove the firewall again? why?
+* XXX remove the firewall again? should figire this out, or better yet, figure
+  out how we can keep it
 iptables -F
 chkconfig --del iptables
 
