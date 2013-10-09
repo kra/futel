@@ -39,6 +39,9 @@ su -c 'rpm -Uvh http://download.fedoraproject.org/pub/epel/6/i386/epel-release-6
 * add non-root user for asterisk
 useradd -m asterisk -s /bin/false
 
+* make sure hostname is in /etc/hosts
+127.0.0.1 ceres
+
 * build, install asterisk from source
 as asterisk
 asterisk 11.5.1
@@ -55,8 +58,10 @@ make samples
 make config #as root
 edit /opt/asterisk/sbin/safe_asterisk ASTARGS="-U asterisk"
 
+* set up a q&d backups for when we fuck up
 # backup asterisk!
 tar -zc /opt/asterisk -f /opt/asterisk.tgz
+# put /opt/asterisk/asterisk in a git repo, hope there are no keys in there!
 
 * install pyst:
   (note that pystrix might be a more modern python AGI implemention)
@@ -90,3 +95,50 @@ forward ports on router:
 5060-5070 udp (only 5060 is needed for 1 connection)
 10000-20000 udp
 
+edit sip.conf:
+externhost=<dyndns address>
+localnet=<ip/mask> # eg 10.0.0.0/255.255.255.0
+nat=force_rport,comedia ;yes 
+#then restart console, or sip reload sip_nat.conf
+#if we have a static IP, use externip instead of externhost
+
+* Get callcentic DID
+https://my.callcentric.com/home.php
+preferences:
+outbound simultaneous calls: multiple
+max call duration: 30 minutes (or whatever)
+
+* Setup SIP trunk for incoming route:
+#Using callcentric DID.
+#https://my.callcentric.com/how_to_start.php?pid=1
+
+# edit sip.conf
+# include a file with secrets
+#include sip_callcentric.conf
+# add general options
+# this probably prevents using other DIDs
+[general]
+context=from-callcentric
+session-timers=refuse
+[666]
+context=to-callcentric
+type=friend
+username=666
+host=dynamic
+
+# edit sip_callcentric.conf
+# DO NOT CHECK THIS IN, THIS IS THE CALLCENTRIC SECRETS FILE
+[general](+)
+register => XXX:XXX@callcentric.com
+[callcentric](+)
+defaultuser=XXX
+fromuser=XXX
+secret=XXX
+[666](+)
+secret=XXX
+
+# test with sip reload sip.conf, sip show peers
+
+* testing:
+/opt/asterisk/sbin/asterisk -r for console
+core restart gracefully
