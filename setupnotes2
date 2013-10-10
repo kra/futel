@@ -32,6 +32,7 @@ yum install mlocate lynx cvs git subversion strace ltrace wget lsof tcpdump
 yum install openssh openssh-server openssh-clients
 yum install openssl-devel
 yum install ncurses-devel libxml2-devel newt-devel kernel-devel sqlite-devel
+yum install libuuid-devel
 
 * install epel
 su -c 'rpm -Uvh http://download.fedoraproject.org/pub/epel/6/i386/epel-release-6-8.noarch.rpm'
@@ -44,7 +45,7 @@ useradd -m asterisk -s /bin/false
 
 * build, install asterisk from source
 as asterisk
-asterisk 11.5.1
+cd /usr/local/src/asterisk-11.5.1
 mkdir /opt/asterisk
 chown/chgrp asterisk /opt/asterisk
 #su asterisk?
@@ -57,6 +58,8 @@ make install
 make samples
 make config #as root
 edit /opt/asterisk/sbin/safe_asterisk ASTARGS="-U asterisk"
+
+# test with console: /opt/asterisk/sbin/asterisk -r
 
 * set up a q&d backups for when we fuck up
 # backup asterisk!
@@ -108,8 +111,7 @@ preferences:
 outbound simultaneous calls: multiple
 max call duration: 30 minutes (or whatever)
 
-* Setup SIP trunk for incoming route:
-#Using callcentric DID.
+* Setup SIP trunk for an outgoing route with callcentric DID
 #https://my.callcentric.com/how_to_start.php?pid=1
 
 # edit sip.conf
@@ -117,6 +119,8 @@ max call duration: 30 minutes (or whatever)
 #include sip_callcentric.conf
 # add general options
 # this probably prevents using other DIDs
+# XXX This assumes extension 666, does this require anything in the pap device?
+#     Are we using channel 666 for an outgoing extension?
 [general]
 context=from-callcentric
 session-timers=refuse
@@ -137,8 +141,24 @@ secret=XXX
 [666](+)
 secret=XXX
 
-# test with sip reload sip.conf, sip show peers
+# test:
+# sip reload sip.conf
+# sip show registry
+# sip show peers
 
-* testing:
+* Setup SIP trunk for an incoming route with callcentric DID
+#https://my.callcentric.com/how_to_start.php?pid=1
+
+# edit extensions.conf
+[from-callcentric]
+exten => s,1,Dial(SIP/123)
+
+[to-callcentric]
+exten => _XX,1,Dial(SIP/${EXTEN}@callcentric)
+
+# test:
+# callcentric click2dial with the callcentric web UI
+
+* general testing:
 /opt/asterisk/sbin/asterisk -r for console
 core restart gracefully
