@@ -111,6 +111,8 @@ preferences:
 outbound simultaneous calls: multiple
 max call duration: 30 minutes (or whatever)
 
+* Get callcentric free phone number
+
 * Setup SIP trunk for an outgoing route with callcentric DID
 #https://my.callcentric.com/how_to_start.php?pid=1
 
@@ -151,13 +153,16 @@ secret=XXX
 
 # edit extensions.conf
 [from-callcentric]
-exten => s,1,Dial(SIP/123)
+;exten => s,1,Dial(SIP/30000)
+exten => s,1,Playback(beep)
+exten => s,n,Hangup
 
 [to-callcentric]
 exten => _XX,1,Dial(SIP/${EXTEN}@callcentric)
 
 # test:
 # callcentric click2dial with the callcentric web UI
+# call the callcentricn number from a phone
 
 * general testing:
 /opt/asterisk/sbin/asterisk -r for console
