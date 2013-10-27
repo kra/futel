@@ -158,7 +158,7 @@ exten => s,1,Playback(beep)
 exten => s,n,Hangup
 
 [to-callcentric]
-# this does not seem to work... probably need another sip number 
+# this does not seem to work... probably need another sip number
 # to test it on
 exten => _XX,1,Dial(SIP/${EXTEN}@callcentric)
 # current contents:
