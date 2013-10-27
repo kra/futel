@@ -160,6 +160,9 @@ exten => s,n,Hangup
 [to-callcentric]
 exten => _XX,1,Dial(SIP/${EXTEN}@callcentric)
 
+# logging
+# update logger.conf
+
 # test:
 # callcentric click2dial with the callcentric web UI
 # call the callcentricn number from a phone
