@@ -158,11 +158,32 @@ exten => s,1,Playback(beep)
 exten => s,n,Hangup
 
 [to-callcentric]
+# this does not seem to work... probably need another sip number 
+# to test it on
 exten => _XX,1,Dial(SIP/${EXTEN}@callcentric)
+# current contents:
+exten => 777,1,Goto(1337,s,1) # this works, has much lag...
 
 # test:
 # callcentric click2dial with the callcentric web UI
 # call the callcentricn number from a phone
+
+# VERY basic spa-3000(basically any PAP device) setup:
+# always login as admin, set view to advanced
+# some spa settings
+sip port=5060 # any available, not sure if this needs to be set
+proxy=XXX # your server here
+outbound proxy=XXX
+use outbound proxy=yes
+register=yes
+nat mapping enable=yes
+userID=666 # example configuration above
+password=XXX_secret
+# some dial strings below:
+# straight out, dials extension automatically
+S0<:XXX> # XXX=any extension in current context
+# the default string can be useful for testing
+*xx|[3469]11|0|00|[2-9]xxxxxx|1xxx[2-9]xxxxxxS0|xxxxxxxxxxxx
 
 * general testing:
 /opt/asterisk/sbin/asterisk -r for console
