@@ -157,12 +157,19 @@ secret=XXX
 exten => s,1,Playback(beep)
 exten => s,n,Hangup
 
+[outgoingdialtone]
+; domestic call                                                                 
+; XXX get a better pattern                                                      
+exten => _1NXXNXXXXXX,1,Dial(SIP/${EXTEN}@callcentric)
+
 [to-callcentric]
 # this does not seem to work... probably need another sip number
 # to test it on
-exten => _XX,1,Dial(SIP/${EXTEN}@callcentric)
+# exten => _XX,1,Dial(SIP/${EXTEN}@callcentric)
 # current contents:
-exten => 777,1,Goto(1337,s,1) # this works, has much lag...
+#exten => 777,1,Goto(1337,s,1) # this works, has much lag...
+# outgoing dialtone
+exten => 999,1,DISA(no-password,outgoingdialtone)
 
 # logging
 # update logger.conf
@@ -173,6 +180,7 @@ exten => 777,1,Goto(1337,s,1) # this works, has much lag...
 
 # VERY basic spa-3000(basically any PAP device) setup:
 # always login as admin, set view to advanced
+# XXX need to add password on the PAP
 # some spa settings
 sip port=5060 # any available, not sure if this needs to be set
 proxy=XXX # your server here
@@ -180,13 +188,40 @@ outbound proxy=XXX
 use outbound proxy=yes
 register=yes
 nat mapping enable=yes
-userID=666 # example configuration above
+userID=666 # example configuration above in sip_callcentric.conf
 password=XXX_secret
 # some dial strings below:
 # straight out, dials extension automatically
-S0<:XXX> # XXX=any extension in current context
+# we probably want this - send user to extension 999
+S0<:999>
 # the default string can be useful for testing
-*xx|[3469]11|0|00|[2-9]xxxxxx|1xxx[2-9]xxxxxxS0|xxxxxxxxxxxx
+# this has lag
+#*xx|[3469]11|0|00|[2-9]xxxxxx|1xxx[2-9]xxxxxxS0|xxxxxxxxxxxx
+
+# now spa-3000 sends user to extension 999 as user 666
+# sip.conf says user 666 is the to-callcentric extension
+# extensions.conf says what to do when 999 called in the to-callcentric context
+
+# test:
+# pick up the pap device phone, get a dial tone provided by the pap
+# pap says you are extension 666
+# sip.conf puts us in in context 666 / to-callcentric
+# to-callcentric says what we can do - e.g. extensions dialable
+
+# start adding the IVR and destinations
+
+[to-callcentric]
+exten => 999,1,Goto(demo-menu,s,1)
+
+[demo-menu]
+   exten => s,1,Answer(500)
+   same => n(loop),Background(digits/6)
+   same => n(loop),Background(digits/6)
+   same => n(loop),Background(digits/6)
+   same => n,WaitExten()
+   same => n,Goto(2)
+   exten => 1,1,DISA(no-password,outgoingdialtone)
+   exten => 2,1,Goto(1337,s,1)
 
 * general testing:
 /opt/asterisk/sbin/asterisk -r for console
