@@ -33,7 +33,7 @@ yum install openssh openssh-server openssh-clients
 yum install openssl-devel
 yum install ncurses-devel libxml2-devel newt-devel kernel-devel sqlite-devel
 yum install libuuid-devel
-yum install festival
+yum install festival # if running festival locally
 
 * install epel
 su -c 'rpm -Uvh http://download.fedoraproject.org/pub/epel/6/i386/epel-release-6-8.noarch.rpm'
@@ -113,6 +113,7 @@ outbound simultaneous calls: multiple
 max call duration: 30 minutes (or whatever)
 
 * Get callcentric free phone number
+XXX do we need to log in to the web or call the number monthly to keep it?
 
 * Setup SIP trunk for an outgoing route with callcentric DID
 #https://my.callcentric.com/how_to_start.php?pid=1
@@ -236,6 +237,11 @@ exten => 999,1,Goto(demo-menu,s,1)
    same => n,Goto(2)
    exten => 1,1,DISA(no-password,outgoingdialtone)
    exten => 2,1,Goto(1337,s,1)
+
+* setup festival server
+# XXX this is not exactly safe
+# edit /etc/rc.d/rc.local
+sudo -u nobody festival --server &
 
 * general testing:
 /opt/asterisk/sbin/asterisk -r for console
