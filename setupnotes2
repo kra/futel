@@ -33,6 +33,7 @@ yum install openssh openssh-server openssh-clients
 yum install openssl-devel
 yum install ncurses-devel libxml2-devel newt-devel kernel-devel sqlite-devel
 yum install libuuid-devel
+yum install festival
 
 * install epel
 su -c 'rpm -Uvh http://download.fedoraproject.org/pub/epel/6/i386/epel-release-6-8.noarch.rpm'
@@ -72,7 +73,7 @@ tar -zc /opt/asterisk -f /opt/asterisk.tgz
   cd /usr/local/src/pyst...
   python setup.py install --prefix=/usr/local
   # I don't think we need to do this anymore
-  # ln -s /usr/local/lib/python2.6/site-packages/asterisk/ /usr/lib/python2.4/site-packages/
+  ln -s /usr/local/lib/python2.6/site-packages/asterisk/ /usr/lib/python2.6/site-packages/
 
 * install dyndns client
 get a dyndns account for the box
@@ -126,11 +127,16 @@ max call duration: 30 minutes (or whatever)
 [general]
 context=from-callcentric
 session-timers=refuse
+
+; context for a sip user ie pap device
 [666]
 context=to-callcentric
 type=friend
 username=666
 host=dynamic
+
+[667]
+; repeat for each sip user 
 
 # edit sip_callcentric.conf
 # DO NOT CHECK THIS IN, THIS IS THE CALLCENTRIC SECRETS FILE
@@ -140,8 +146,13 @@ register => XXX:XXX@callcentric.com
 defaultuser=XXX
 fromuser=XXX
 secret=XXX
+
+; context for a sip user ie pap device
 [666](+)
 secret=XXX
+
+[667]
+; repeat for each sip user 
 
 # test:
 # sip reload sip.conf
@@ -152,6 +163,8 @@ secret=XXX
 #https://my.callcentric.com/how_to_start.php?pid=1
 
 # edit extensions.conf
+# put secrets in extensions_secret.conf
+# include extensions_secret.conf
 [from-callcentric]
 ;exten => s,1,Dial(SIP/30000)
 exten => s,1,Playback(beep)
@@ -168,8 +181,9 @@ exten => _1NXXNXXXXXX,1,Dial(SIP/${EXTEN}@callcentric)
 # exten => _XX,1,Dial(SIP/${EXTEN}@callcentric)
 # current contents:
 #exten => 777,1,Goto(1337,s,1) # this works, has much lag...
-# outgoing dialtone
-exten => 999,1,DISA(no-password,outgoingdialtone)
+#exten => 999,1,DISA(no-password,outgoingdialtone) # outgoing dialtone
+# one extension for every sip user destination, they can be shared
+exten => 999,1,Goto(demo-menu,s,1)
 
 # logging
 # update logger.conf
@@ -183,8 +197,8 @@ exten => 999,1,DISA(no-password,outgoingdialtone)
 # XXX need to add password on the PAP
 # some spa settings
 sip port=5060 # any available, not sure if this needs to be set
-proxy=XXX # your server here
-outbound proxy=XXX
+proxy=XXX # domain name of asterisk server
+outbound proxy=XXX # same as proxy
 use outbound proxy=yes
 register=yes
 nat mapping enable=yes
