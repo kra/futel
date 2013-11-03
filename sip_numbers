@@ -1,0 +1,13 @@
+# callcentric provides up to two free incoming numbers.
+# not sure if we need to make calls to keep number.
+[callcentric]
+914-236-6071
+845-205-5004
+
+# sign up for ipkall at phone.ipkall.com
+# need callcentric URI info:
+# XXXcallcentric_user@in.callcentric.com
+# limit one number per URI.
+# have to recieve one call per 30 days.
+[ipkall]
+206-424-8840
