@@ -1,3 +1,5 @@
+voicemail setup
+
 * optionally test by adding a manual box, to make sure vm is working,
   then rmeove
 edit /opt/asterisk/asterisk/voicemail.conf
@@ -7,91 +9,7 @@ edit /opt/asterisk/asterisk/voicemail.conf
 [default]
 #include "vm_futel_users.inc"
 
-# edit vm_futels_users.inc to test and cause we probably need one in there
+# edit vm_futels_users.inc to test and cause we need one in there
+# chown it root
 [default]
-XXX => XXXX,,,,attach=no|saycid=no|envelope=no|delete=no # replace w box/pw
-
-
-
-old notes:
-
-voicemail setup:
-- voicemail.conf includes futel_vm_users.XXX
-- voicemail.conf includes other VM users XXX
-- AGM script to provision
-- dialplan to drop user into VM
-- XXX etc
-
-old old notes:
-
-voicemail strategy:
-
-create 1000 extensions
-create voicemail for each with default password
-default password: random or something
-
-voicemail.conf:
-externpass or externpassnotify
-when password is changed, write mailbox number to file
-mailboxes in use are those listed in file
-
-provision voicemail:
-find next unused mailbox
-gather password
-optionally get a greeting recording?
-create mailbox line
-optionally create the media directory and write the recording?
-voicemail reload
-tell user mailbox and password
-send user to beginning of mailbox voicemail
-if we didn't get the greeting, press 0 for them to have them set it up?
-
-another provision voicemail idea:
-find next unused mailbox by looking for the voiceail dir for ext
-create new voicemail dir and copy it in
-collect the password somehow and edit it in with script
-
-futel phone IVR:
-to leave VM, press foo
-to access your VM box, press bar
-drive user to appropriate VM option
-
-incoming phone IVR:
-to leave VM, press foo
-
-
-Set up conf:
-voicemail.conf #include vm_futel_users.inc
-vm_futel_users.inc has mailbox lines
-
-To add mailbox, write line /etc/asterisk/voicemail.conf
-to change password in conf file:
-2000 => 2001,2000,,,attach=no|saycid=no|envelope=no|delete=no
-box is 2000 pw is 2001
-then reload "voicemail reload"
-
-
-
-
-
-
-shared voicemail
-
-requirements:
-- menu option to select mailbox for reading voicemail, accessible anywhere
-- menu option to select mailbox for leaving voicemail, accessible anywhere
-- menu option to create mailbox, accessible at futel phones only
--- script chooses next available mailbox
--- user enters and repeats password
--- script tells user mailbox number
--- script tells user to check voicemail the normal way
-- admin interface
--- creation date, last access date for each mailbox
-
-implementation:
-- create mailboxes 1-9999 with a random or default or whatever password
-- text file has list of assigned mailboxes
-- create mailbox script:
--- gets next available mailbox from text file
--- collects input and assigns password
--- outputs mailbox number
+999 => XXXX,,,,attach=no|saycid=no|envelope=no|delete=no # replace w password
