@@ -241,11 +241,16 @@ exten => 999,1,Goto(demo-menu,s,1)
 * setup festival server
 # XXX this is not exactly safe
 # edit /etc/rc.d/rc.local
-sudo -u nobody festival --server &
+su -s /bin/bash nobody -c '/usr/bin/festival --server &'
 
 * setup firewall
 # XXX should do this earlier
 # XXX will need more ports for iax2 later - asterisk to asterisk
+# XXX subscribe to bugtraq for asterisk
+
+service add iptables
+
+chkconfig --add iptables
 
 *filter
 :INPUT DROP [4:524]
