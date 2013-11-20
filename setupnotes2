@@ -245,6 +245,19 @@ sudo -u nobody festival --server &
 
 * setup firewall
 # XXX should do this earlier
+# clear all
+iptables -F
+# let ssh in
+iptables -A INPUT -p tcp --dport 42422 -j ACCEPT
+# close everything
+iptables -P INPUT DROP
+iptables -P FORWARD DROP
+iptables -P OUTPUT ACCEPT
+# allow localhost
+iptables -A INPUT -i lo -j ACCEPT
+# allow established connections
+iptables -A INPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
+
 # callcentric
 iptables -A INPUT -p udp -m udp -s 204.11.192.0/24 --dports 5060:5080,10000:20000 -j ACCEPT
 iptables -A INPUT -p udp -m udp -s 66.193.176.35 --dport 5060:5080,10000:20000 -j ACCEPT
