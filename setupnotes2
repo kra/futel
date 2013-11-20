@@ -243,6 +243,17 @@ exten => 999,1,Goto(demo-menu,s,1)
 # edit /etc/rc.d/rc.local
 sudo -u nobody festival --server &
 
+* setup firewall
+# XXX should do this earlier
+callcentric 5060-5070
+204.11.192.0/24 
+66.193.176.35
+66.193.176.54
+66.193.176.58
+# ipkall 5060-5070
+66.54.140.47
+# XXX 10k-2k for rtp for everyone
+
 * general testing:
 /opt/asterisk/sbin/asterisk -r for console
 core restart gracefully
