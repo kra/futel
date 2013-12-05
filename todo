@@ -1,0 +1,18 @@
+items todo in addition to any XXX comments
+
+record prompts
+
+organize incoming numbers:
+- VM number goes to VM IVR
+- incoming number rings phone (need 1 per phone)
+- incoming number is reported as originating number to callee
+
+backups
+- what to backup?
+- daily?
+
+operator queue - see multiple-receivers
+
+outgoing calls
+- add 1 if legit but missing 1
+- do we need a better domestic pattern?
