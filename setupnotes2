@@ -1,4 +1,21 @@
-*** set up asterisk on centos 6 without freepbx
+*** set up asterisk on centos 6 box
+
+** acquire external services
+
+* Get callcentic DID
+https://my.callcentric.com/home.php
+preferences:
+outbound simultaneous calls: multiple
+max call duration: 30 minutes (or whatever)
+
+* Get callcentric free phone number
+XXX do we need to log in to the web or call the number monthly to keep it?
+
+* get a dyndns account for the box
+http://dyn.com/support/clients/linux/inadyn/
+XXX dyndns is bogus, get a better service.
+
+** set up box
 
 * install centos 6.x
 
@@ -44,6 +61,30 @@ useradd -m asterisk -s /bin/false
 * make sure hostname is in /etc/hosts
 127.0.0.1 ceres
 
+* install dyndns client
+download, build, install inadyn
+cp bin/linux/inadyn /usr/local/sbin/
+edit /etc/inadyn.conf
+add /etc/init.d/inadyn
+http://pastebin.com/7jnh340e
+create links in /etc/rc.d/* (or get chkconfig to work)
+Note that if inadyn stops working, dhcp breaks!  Try signing in to dyndns and
+then restarting networking on the box if that happens.
+
+* install pyst:
+  (note that pystrix might be a more modern python AGI implemention)
+  http://pyst.sourceforge.net/ https://pypi.python.org/pypi/pyst
+  cd /usr/local/src/pyst...
+  python setup.py install --prefix=/usr/local
+  # I don't think we need to do this anymore
+  ln -s /usr/local/lib/python2.6/site-packages/asterisk/ /usr/lib/python2.6/site-packages/
+
+* setup festival server
+# XXX this is not exactly safe
+# edit /etc/rc.d/rc.local
+su -s /bin/bash nobody -c '/usr/bin/festival --server &'
+# XXX add to chkconfig to start on boot?
+
 * build, install asterisk from source
 as asterisk
 cd /usr/local/src/asterisk-11.5.1
@@ -61,83 +102,38 @@ make config #as root
 edit /opt/asterisk/sbin/safe_asterisk ASTARGS="-U asterisk"
 
 # test with console: /opt/asterisk/sbin/asterisk -r
+# core restart gracefully
 
 * set up a q&d backups for when we fuck up
-# backup asterisk!
+# XXX should do backups for real
 tar -zc /opt/asterisk -f /opt/asterisk.tgz
-# put /opt/asterisk/asterisk in a git repo, hope there are no keys in there!
-
-* install pyst:
-  (note that pystrix might be a more modern python AGI implemention)
-  http://pyst.sourceforge.net/ https://pypi.python.org/pypi/pyst
-  cd /usr/local/src/pyst...
-  python setup.py install --prefix=/usr/local
-  # I don't think we need to do this anymore
-  ln -s /usr/local/lib/python2.6/site-packages/asterisk/ /usr/lib/python2.6/site-packages/
-
-* install dyndns client
-get a dyndns account for the box
-http://dyn.com/support/clients/linux/inadyn/
-XXX dyndns is bogus, get a better service.
-download, build, install inadyn
-cp bin/linux/inadyn /usr/local/sbin/
-edit /etc/inadyn.conf
-add /etc/init.d/inadyn
-http://pastebin.com/7jnh340e
-create links in /etc/rc.d/* (or get chkconfig to work)
-Note that if inadyn stops working, dhcp breaks!  Try signing in to dyndns and
-then restarting networking on the box if that happens.
 
 * XXX remove the firewall again? should figire this out, or better yet, figure
   out how we can keep it
 iptables -F
 chkconfig --del iptables
 
-* Addresses and ports:
-
-forward ports on router:
+* forward ports on router if necessary:
 5060-5070 udp (only 5060 is needed for 1 connection)
 10000-20000 udp
 
+* clone the git repo into /opt/asterisk/asteris
+git clone git@github.com:kra/futel-ceres-opt-asterisk-asterisk.git
+* clone the git repo into var/lib/asterisk/agi-bin
+git clone git@github.com:lboom/futel-ceres-opt-asterisk-var-lib-asterisk-agi-bin.git
+
 edit sip.conf:
+# XXX some of this should be in unchecked-in config
 externhost=<dyndns address>
 localnet=<ip/mask> # eg 10.0.0.0/255.255.255.0
 nat=force_rport,comedia ;yes 
 #then restart console, or sip reload sip_nat.conf
 #if we have a static IP, use externip instead of externhost
 
-* Get callcentic DID
-https://my.callcentric.com/home.php
-preferences:
-outbound simultaneous calls: multiple
-max call duration: 30 minutes (or whatever)
-
-* Get callcentric free phone number
-XXX do we need to log in to the web or call the number monthly to keep it?
-
 * Setup SIP trunk for an outgoing route with callcentric DID
 #https://my.callcentric.com/how_to_start.php?pid=1
 
-# edit sip.conf
-# include a file with secrets
-#include sip_callcentric.conf
-# add general options
-# this probably prevents using other DIDs
-# XXX This assumes extension 666, does this require anything in the pap device?
-#     Are we using channel 666 for an outgoing extension?
-[general]
-context=from-callcentric
-session-timers=refuse
-
-; context for a sip user ie pap device
-[666]
-context=to-callcentric
-type=friend
-username=666
-host=dynamic
-
-[667]
-; repeat for each sip user 
+# [more sip.conf as in repo]
 
 # edit sip_callcentric.conf
 # DO NOT CHECK THIS IN, THIS IS THE CALLCENTRIC SECRETS FILE
@@ -160,39 +156,18 @@ secret=XXX
 # sip show registry
 # sip show peers
 
-* Setup SIP trunk for an incoming route with callcentric DID
-#https://my.callcentric.com/how_to_start.php?pid=1
+# edit extensions_secret.conf
 
 # edit extensions.conf
-# put secrets in extensions_secret.conf
-# include extensions_secret.conf
-[from-callcentric]
-;exten => s,1,Dial(SIP/30000)
-exten => s,1,Playback(beep)
-exten => s,n,Hangup
 
-[outgoingdialtone]
-; domestic call                                                                 
-; XXX get a better pattern                                                      
-exten => _1NXXNXXXXXX,1,Dial(SIP/${EXTEN}@callcentric)
-
-[to-callcentric]
-# this does not seem to work... probably need another sip number
-# to test it on
-# exten => _XX,1,Dial(SIP/${EXTEN}@callcentric)
-# current contents:
-#exten => 777,1,Goto(1337,s,1) # this works, has much lag...
-#exten => 999,1,DISA(no-password,outgoingdialtone) # outgoing dialtone
-# one extension for every sip user destination, they can be shared
-exten => 999,1,Goto(demo-menu,s,1)
-
-# logging
-# update logger.conf
+# more [extensions.conf as in repo]
+# XXX get a better outgoing pattern
 
 # test:
 # callcentric click2dial with the callcentric web UI
-# call the callcentricn number from a phone
+# call the callcentric number from a phone
 
+# set up PAP device
 # VERY basic spa-3000(basically any PAP device) setup:
 # always login as admin, set view to advanced
 # XXX need to add password on the PAP
@@ -223,29 +198,5 @@ S0<:999>
 # sip.conf puts us in in context 666 / to-callcentric
 # to-callcentric says what we can do - e.g. extensions dialable
 
-# start adding the IVR and destinations
-
-[to-callcentric]
-exten => 999,1,Goto(demo-menu,s,1)
-
-[demo-menu]
-   exten => s,1,Answer(500)
-   same => n(loop),Background(digits/6)
-   same => n(loop),Background(digits/6)
-   same => n(loop),Background(digits/6)
-   same => n,WaitExten()
-   same => n,Goto(2)
-   exten => 1,1,DISA(no-password,outgoingdialtone)
-   exten => 2,1,Goto(1337,s,1)
-
-* setup festival server
-# XXX this is not exactly safe
-# edit /etc/rc.d/rc.local
-su -s /bin/bash nobody -c '/usr/bin/festival --server &'
-
-* general testing:
-/opt/asterisk/sbin/asterisk -r for console
-core restart gracefully
-
-* setup security etc
-# see ops doc
+# perform ops doc actions
+* perform voicemail doc actions

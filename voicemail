@@ -5,9 +5,7 @@ voicemail setup
 edit /opt/asterisk/asterisk/voicemail.conf
 667 => 6666,,,,attach=no|saycid=no|envelope=no|delete=no
 
-* change default to include the futel uesrs
-[default]
-#include "vm_futel_users.inc"
+[voicemail.conf includes vm_futel_users.inc]
 
 # edit vm_futels_users.inc to test and cause we need one in there
 # chown it root
