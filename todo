@@ -11,8 +11,15 @@ backups
 - what to backup?
 - daily?
 
-operator queue - see multiple-receivers
-
 outgoing calls
 - add 1 if legit but missing 1
 - do we need a better domestic pattern?
+
+operator queue
+- more simultanous callees to deal with callcentric's limit of two
+-- a queue or round robin?
+-- or just dial with timeout, then try next two?
+- better way for an operator to add/remove themselves
+- avoid phone off causing immediate pickup and send to voicemail
+-- callee must press 1 to connect?
+-- caller gets dumped to conference, operators get calls or texts?
