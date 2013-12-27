@@ -104,9 +104,29 @@ edit /opt/asterisk/sbin/safe_asterisk ASTARGS="-U asterisk"
 # test with console: /opt/asterisk/sbin/asterisk -r
 # core restart gracefully
 
-* set up a q&d backups for when we fuck up
-# XXX should do backups for real
-tar -zc /opt/asterisk -f /opt/asterisk.tgz
+* set up backups
+eurydice: mkdir /opt/futel/backups /opt/futel/ssh
+eurydice: create backup key /opt/futel/ssh/id_rsa id_rsa.pub
+ceres: adduser backup
+ceres: usermod -a -G asterisk backup
+ceres: add key to backup's ~/.ssh/authorized_keys
+# XXX would be better to make backup's shell rsync or something
+# XXX backup user can't see /var/log/messages, /etc, /home
+eurydice: /etc/cron.daily/backup-ceres
+"""
+#!/bin/sh
+# back up futel directories of interest with rsync
+
+REMOTEDIR=/opt/asterisk
+KEYFILE=/opt/futel/ssh/id_rsa
+SSHCMD="ssh -i $KEYFILE -p 42422"
+USER=backup
+HOST=futel2.dyndns.org
+DATE=`date "+%Y-%m"`
+LOCALDIR=/opt/futel/backups/$DATE
+
+rsync -avcR --delete -e "$SSHCMD" $USER@$HOST:$REMOTEDIR $LOCALDIR
+"""
 
 * XXX remove the firewall again? should figire this out, or better yet, figure
   out how we can keep it
