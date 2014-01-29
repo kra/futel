@@ -1,13 +1,12 @@
 items todo in addition to any XXX comments
 
-record prompts
-
 remove all the asterisk default stuff
+- don't make samples
 
-organize incoming numbers:
-- VM number goes to VM IVR
-- incoming number rings phone (need 1 per phone)
-- incoming number is reported as originating number to callee
+monitoring - know when the box goes down
+
+be able to ring phone
+get incoming number to ring phone
 
 outgoing calls
 - add 1 if legit but missing 1
