@@ -3,18 +3,6 @@ general ops and security tasks
 XXX subscribe to bugtraq asterisk feed
 XXX logwatch
 
-
-* set up backups
-eurydice: mkdir /opt/futel/backups /opt/futel/ssh
-eurydice: create backup key /opt/futel/ssh/id_rsa id_rsa.pub
-ceres: adduser backup
-ceres: usermod -a -G asterisk backup
-ceres: add key to backup's ~/.ssh/authorized_keys
-# XXX would be better to make backup's shell rsync or something
-# XXX backup user can't see /var/log/messages, /etc, /home
-eurydice: write scripts/backup-ceres as /etc/cron.daily/backup-ceres
-
-
 * setup firewall
 # assumes that we turned iptables off before, if it matters
 # XXX should do this earlier
@@ -28,4 +16,24 @@ write scritps/iptables to /etc/sysconfig/iptables
 or see scripts/iptables.sh for how to generate it
 
 then service iptables save
+
+* set up backups
+eurydice: mkdir /opt/futel/backups /opt/futel/ssh
+eurydice: create backup key /opt/futel/ssh/id_rsa id_rsa.pub
+ceres: adduser backup
+ceres: usermod -a -G asterisk backup
+ceres: add key to backup's ~/.ssh/authorized_keys
+# XXX would be better to make backup's shell rsync or something
+# XXX backup user can't see /var/log/messages, /etc, /home
+eurydice: write scripts/backup-ceres as /etc/cron.daily/backup-ceres
+
+* set up monitoring
+create a pingdom account at my.pingdom.com
+create a pingdom check for futel2.dyndns.org port 42422
+# XXX this will probably generate spurious auth logs, maybe just open up a
+#     ping port
+# XXX this just tells us the box is up, we could publish a http status page for
+#     pingdom, or a monitor user with a shell that runs a status command and
+#     ssh access, although pingdom can't use that
+
 
