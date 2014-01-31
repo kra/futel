@@ -1,11 +1,19 @@
-general ops and security notes
+general ops and security tasks
 
 XXX subscribe to bugtraq asterisk feed
 XXX logwatch
-XXX backups!
-    make tarballs and ssh them somewhere in a cron?
-    rsync?
-    what directories need to be kept?
+
+
+* set up backups
+eurydice: mkdir /opt/futel/backups /opt/futel/ssh
+eurydice: create backup key /opt/futel/ssh/id_rsa id_rsa.pub
+ceres: adduser backup
+ceres: usermod -a -G asterisk backup
+ceres: add key to backup's ~/.ssh/authorized_keys
+# XXX would be better to make backup's shell rsync or something
+# XXX backup user can't see /var/log/messages, /etc, /home
+eurydice: write scripts/backup-ceres as /etc/cron.daily/backup-ceres
+
 
 * setup firewall
 # assumes that we turned iptables off before, if it matters
@@ -16,60 +24,8 @@ service add iptables
 
 chkconfig --add iptables
 
-edit /etc/sysconfig/iptables:
+write scritps/iptables to /etc/sysconfig/iptables
+or see scripts/iptables.sh for how to generate it
 
-*filter
-:INPUT DROP [4:524]
-:FORWARD DROP [0:0]
-:OUTPUT ACCEPT [1547:458027]
--A INPUT -i lo -j ACCEPT
--A INPUT -s 24.22.37.138/32 -j ACCEPT
--A INPUT -m state --state RELATED,ESTABLISHED -j ACCEPT
--A INPUT -p tcp -m tcp --dport 42422 -j ACCEPT
--A INPUT -s 204.11.192.0/24 -p udp -m udp --dport 5060:5080 -j ACCEPT
--A INPUT -s 204.11.192.0/24 -p udp -m udp --dport 10000:20000 -j ACCEPT
--A INPUT -s 66.193.176.35/32 -p udp -m udp --dport 5060:5080 -j ACCEPT
--A INPUT -s 66.193.176.35/32 -p udp -m udp --dport 10000:20000 -j ACCEPT
--A INPUT -s 66.193.176.54/32 -p udp -m udp --dport 5060:5080 -j ACCEPT
--A INPUT -s 66.193.176.54/32 -p udp -m udp --dport 10000:20000 -j ACCEPT
--A INPUT -s 66.193.176.58/32 -p udp -m udp --dport 5060:5080 -j ACCEPT
--A INPUT -s 66.193.176.58/32 -p udp -m udp --dport 10000:20000 -j ACCEPT
--A INPUT -s 66.54.140.46/32 -p udp -m udp --dport 5060:5080 -j ACCEPT
--A INPUT -s 66.54.140.47/32 -p udp -m udp --dport 5060:5080 -j ACCEPT
--A INPUT -s 66.54.140.46/32 -p udp -m udp --dport 10000:20000 -j ACCEPT
--A INPUT -s 66.54.140.47/32 -p udp -m udp --dport 10000:20000 -j ACCEPT
-COMMIT
-
-# how to set up that file
-
-# clear all
-iptables -F
-
-# allow localhost
-iptables -A INPUT -i lo -j ACCEPT
-iptables -A INPUT --src futel2.dyndns.org -j ACCEPT
-# allow established connections
-iptables -A INPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
-# let ssh in
-iptables -A INPUT -p tcp --dport 42422 -j ACCEPT
-
-# close everything
-iptables -P INPUT DROP
-iptables -P FORWARD DROP
-iptables -P OUTPUT ACCEPT
-
-# callcentric
-iptables -A INPUT -p udp -m udp -s 204.11.192.0/24 --dport 5060:5080 -j ACCEPT
-iptables -A INPUT -p udp -m udp -s 204.11.192.0/24 --dport 10000:20000 -j ACCEPT
-iptables -A INPUT -p udp -m udp -s 66.193.176.35 --dport 5060:5080 -j ACCEPT
-iptables -A INPUT -p udp -m udp -s 66.193.176.35 --dport 10000:20000 -j ACCEPT
-iptables -A INPUT -p udp -m udp -s 66.193.176.54 --dport 5060:5080 -j ACCEPT
-iptables -A INPUT -p udp -m udp -s 66.193.176.54 --dport 10000:20000 -j ACCEPT
-iptables -A INPUT -p udp -m udp -s 66.193.176.58 --dport 5060:5080 -j ACCEPT
-iptables -A INPUT -p udp -m udp -s 66.193.176.58 --dport 10000:20000 -j ACCEPT
-# ipkall
-iptables -A INPUT -p udp -m udp -s 66.54.140.46,66.54.140.47 --dport 5060:5080 -j ACCEPT
-iptables -A INPUT -p udp -m udp -s 66.54.140.46,66.54.140.47 --dport 10000:20000 -j ACCEPT
-
-# then service iptables save
+then service iptables save
 

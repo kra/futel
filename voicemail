@@ -1,13 +1,11 @@
 voicemail setup
 
-* optionally test by adding a manual box, to make sure vm is working,
-  then rmeove
-edit /opt/asterisk/asterisk/voicemail.conf
-667 => 6666,,,,attach=no|saycid=no|envelope=no|delete=no
-
 [voicemail.conf includes vm_futel_users.inc]
 
 # edit vm_futels_users.inc to test and cause we need one in there
 # chown it root
+# replace XXXX with password
 [default]
-999 => XXXX,,,,attach=no|saycid=no|envelope=no|delete=no # replace w password
+999 => XXXX,,,,attach=no|saycid=no|envelope=no|delete=no 
+
+# test by using it
