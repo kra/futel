@@ -1,10 +1,14 @@
 # how to set up /etc/sysconfig/iptables on ceres
+# do this and then service iptables save
 
 # clear all
 iptables -F
 
 # allow localhost
 iptables -A INPUT -i lo -j ACCEPT
+# allow from each asterisk box and client
+# XXX this gets resolved, want it to be hostname based
+# XXX should instead have a VPN!
 iptables -A INPUT --src futel2.dyndns.org -j ACCEPT
 # allow established connections
 iptables -A INPUT -m state --state ESTABLISHED,RELATED -j ACCEPT
