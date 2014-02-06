@@ -12,7 +12,7 @@ service add iptables
 
 chkconfig --add iptables
 
-write scritps/iptables to /etc/sysconfig/iptables
+write scrips/iptables to /etc/sysconfig/iptables
 or see scripts/iptables.sh for how to generate it
 
 then service iptables save

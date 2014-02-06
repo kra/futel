@@ -170,9 +170,10 @@ secret=XXX
 # VERY basic spa-3000(basically any PAP device) setup:
 # always login as admin, set view to advanced
 # XXX need to add password on the PAP
+# make sure DHCP feature is turned off, why why why
 primary ntp server north-america.pool.ntp.org
 # some spa settings
-sip port=5060 # any available, not sure if this needs to be set
+sip port=5060 # any available, not sure if this needs to be set, can share?
 proxy=XXX # domain name of asterisk server
 outbound proxy=XXX # same as proxy
 use outbound proxy=yes
