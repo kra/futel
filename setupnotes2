@@ -2,15 +2,18 @@
 
 ** acquire external services
 
+* external:
 * Get callcentic DID
 https://my.callcentric.com/home.php
 preferences:
 outbound simultaneous calls: multiple
 max call duration: 30 minutes (or whatever)
 
+* external:
 * Get callcentric free phone number
 XXX do we need to log in to the web or call the number monthly to keep it?
 
+* external:
 * get a dyndns account for the box
 http://dyn.com/support/clients/linux/inadyn/
 XXX dyndns is bogus, get a better service.
@@ -112,6 +115,7 @@ edit /opt/asterisk/sbin/safe_asterisk ASTARGS="-U asterisk"
 iptables -F
 chkconfig --del iptables
 
+* external:
 * forward ports on router if necessary:
 5060-5070 udp (only 5060 is needed for 1 connection)
 10000-20000 udp
@@ -121,18 +125,13 @@ git clone git@github.com:kra/futel-ceres-opt-asterisk-asterisk.git
 * clone the git repo into var/lib/asterisk/agi-bin
 git clone git@github.com:lboom/futel-ceres-opt-asterisk-var-lib-asterisk-agi-bin.git
 
-edit sip.conf:
-# XXX some of this should be in unchecked-in config
-externhost=<dyndns address>
-localnet=<ip/mask> # eg 10.0.0.0/255.255.255.0
-nat=force_rport,comedia ;yes 
-#then restart console, or sip reload sip_nat.conf
+* edit sip.conf to match repo
+might need tweaking for externhost, localnet
+# then restart console, or sip reload sip_nat.conf
 #if we have a static IP, use externip instead of externhost
 
 * Setup SIP trunk for an outgoing route with callcentric DID
 #https://my.callcentric.com/how_to_start.php?pid=1
-
-# [more sip.conf as in repo]
 
 # edit sip_callcentric.conf
 # DO NOT CHECK THIS IN, THIS IS THE CALLCENTRIC SECRETS FILE
@@ -157,15 +156,12 @@ secret=XXX
 
 # edit extensions_secret.conf
 
-# edit extensions.conf
-
-# more [extensions.conf as in repo]
-# XXX get a better outgoing pattern
-
+* external:
 # test:
 # callcentric click2dial with the callcentric web UI
 # call the callcentric number from a phone
 
+* external:
 # set up PAP device
 # VERY basic spa-3000(basically any PAP device) setup:
 # always login as admin, set view to advanced
@@ -193,6 +189,7 @@ S0<:999>
 # sip.conf says user 666 is the to-callcentric extension
 # extensions.conf says what to do when 999 called in the to-callcentric context
 
+* external:
 # test:
 # pick up the pap device phone, get a dial tone provided by the pap
 # pap says you are extension 666

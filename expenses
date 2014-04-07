@@ -9,8 +9,22 @@ hardware
 - phones $XXX
 - pedestal $100
 - various telephony supplies $XXX
+- phone @oscar $100
+- pedestal and lg enclosure @oscar $200
+- concrete etc to mount pedestal @oscar $250
 
 services/ongoing
 callcentric
 - $5 2013-11
 - $5 2013-04
+Digital Ocean
+$28/mo prod & stage & vpnbox crashbox
+internet service at oskar $0/mo
+internet service at tishbite's $0/mo
+
+VPN
+- Linksys WRT54GL and tomato $25-30?
+- provider
+-- DO droplet $7/mo
+-- https://www.giganews.com/signup/ $5/mo 5GB/mo
+

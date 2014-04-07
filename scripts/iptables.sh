@@ -7,6 +7,7 @@ iptables -F
 # allow localhost
 iptables -A INPUT -i lo -j ACCEPT
 # allow from each asterisk box and client
+# XXX can we narrow these ports?
 # XXX this gets resolved, want it to be hostname based
 # XXX should instead have a VPN!
 iptables -A INPUT --src futel2.dyndns.org -j ACCEPT
