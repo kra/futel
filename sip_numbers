@@ -9,5 +9,8 @@
 # XXXcallcentric_user@in.callcentric.com
 # limit one number per URI.
 # have to recieve one call per 30 days.
+# ipkall is simply forwarding
+# does not operate as a voip provider, needs to forward to URI.
+# no way for asterisk to determine if this number was called.
 [ipkall]
 206-424-8840

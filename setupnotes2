@@ -17,6 +17,7 @@ XXX do we need to log in to the web or call the number monthly to keep it?
 * get a dyndns account for the box
 http://dyn.com/support/clients/linux/inadyn/
 XXX dyndns is bogus, get a better service.
+	dyndns is going away... 04/07/14
     NameCheap is the futel.net registrar, they have something.
     DigitalOcean uses static IPs, so we only have to update if we start up
     a droplet.
@@ -67,15 +68,7 @@ useradd -m asterisk -s /bin/false
 * make sure hostname is in /etc/hosts
 127.0.0.1 ceres
 
-* install dyndns client
-download, build, install inadyn
-cp bin/linux/inadyn /usr/local/sbin/
-edit /etc/inadyn.conf
-add /etc/init.d/inadyn
-http://pastebin.com/7jnh340e
-create links in /etc/rc.d/* (or get chkconfig to work)
-Note that if inadyn stops working, dhcp breaks!  Try signing in to dyndns and
-then restarting networking on the box if that happens.
+XXX VPN setup? no more inadyn
 
 * install pyst:
   (note that pystrix might be a more modern python AGI implemention)
