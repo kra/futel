@@ -1,21 +1,6 @@
 general ops and security tasks
 
-XXX external: subscribe to bugtraq asterisk feed
 XXX logwatch
-
-* setup firewall
-# assumes that we turned iptables off before, if it matters
-# XXX should do this earlier
-# XXX will need more ports for iax2 later - asterisk to asterisk
-
-service add iptables
-
-chkconfig --add iptables
-
-write scrips/iptables to /etc/sysconfig/iptables
-or see scripts/iptables.sh for how to generate it
-
-then service iptables save
 
 * set up backups
 
@@ -29,7 +14,6 @@ ceres: usermod -a -G asterisk backup
 ceres: add key to backup's ~/.ssh/authorized_keys
 # XXX would be better to make backup's shell rsync or something
 # XXX backup user can't see /var/log/messages, /etc, /home
-
 
 * external: set up monitoring
 create a pingdom account at my.pingdom.com

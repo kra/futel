@@ -16,6 +16,10 @@ operator queue
 -- callee must press 1 to connect?
 -- caller gets dumped to conference, operators get calls or texts?
 
+better monitoring than ping
+log backups
+metrics - calls made, calls received, other usage
+
 real busy signal when phone is called when busy
 
-better monitoring than ping
+
