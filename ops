@@ -9,12 +9,6 @@ eurydice: mkdir /opt/futel/backups /opt/futel/ssh
 eurydice: create backup key /opt/futel/ssh/id_rsa id_rsa.pub
 eurydice: write scripts/backup-ceres as /etc/cron.daily/backup-ceres
 
-ceres: adduser backup
-ceres: usermod -a -G asterisk backup
-ceres: add key to backup's ~/.ssh/authorized_keys
-# XXX would be better to make backup's shell rsync or something
-# XXX backup user can't see /var/log/messages, /etc, /home
-
 * external: set up monitoring
 create a pingdom account at my.pingdom.com
 create a pingdom check for futel2.dyndns.org port 42422

@@ -3,10 +3,6 @@ items todo in addition to any XXX comments
 remove all the asterisk default stuff
 - don't make samples
 
-outgoing calls
-- add 1 if legit but missing 1
-- do we need a better domestic pattern?
-
 operator queue
 - more simultanous callees to deal with callcentric's limit of two
 -- a queue or round robin?
