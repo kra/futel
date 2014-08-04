@@ -1,0 +1,18 @@
+Action: login
+Username: manageruser
+Secret:
+
+Action: Originate
+Channel: SIP/667
+Application: ConfBridge
+Data: 800
+Timeout: 60000
+Async: 1
+
+Action: Originate
+Channel: SIP/668
+Application: ConfBridge
+Data: 800
+Timeout: 60000
+Async: 1
+
