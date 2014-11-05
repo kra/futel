@@ -1,0 +1,47 @@
+set up ddwrt as wireless client
+
+wireless security tab
+set up for network
+
+basic wireless
+mode client bridge
+mode mixed
+network name: wireless network name
+save now
+
+basic setup
+local ip address: pick one (or dhcp?)
+gateway: router (not needed?)
+turn off dhcp server?
+save now
+
+
+set up tomato as wireless client
+basic:network
+WAN type DHCP
+LAN DHCP server yes
+Wireless
+enable, mode wireless client, network mode mixed, SSID/security as upstream
+save, reboot
+
+
+flash rasp
+dd bs=4M if=...img of=mmcblk0 or whatever
+
+
+/sys/class/gpio
+echo 17 >/sys/class/gpio/export
+ls /sys/class/gpio/gpio17/value
+
+
+geiger counter
+
+plug in
+lsusb
+see eg bus 002 device 00
+Bus 001 Device 008: ID 0403:6001 Future Technology Devices International, Ltd FT232 USB-Serial (UART) IC
+sudo cat /dev/ttyUSB0 
+
+
+http://mightyohm.com/blog/2012/02/tutorial-geiger-counter-data-logging/
+
