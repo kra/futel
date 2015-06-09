@@ -20,24 +20,12 @@ bandwidth - 95KBPS bursty?
 static ip address or hostname - dyndns or similar
 
 
-Bandwidth estimate, where was this from?
+Bandwidth requirements
+max in use 115 KBPS up/down
+typical in use 86 KBPS up 110 KBPS down
+max idle 9 KBPS up/down
+typical idle 1 KBPS up/down
 
-Incoming Bandwidth              Outgoing Bandwidth
-Calls: 2        Calls: 2
-RTP: 4.69 Kbps  RTP: 4.69 Kbps
-UDP: 3.13 Kbps  UDP: 3.13 Kbps
-IP: 7.81 Kibps  IP: 7.81 Kibps
-Protocol: MGCP  Protocol: SIP
-Audio Codec: 8.00g.729a Kbps    Audio Codec: 8.00g.729a Kbps
-*MGCP overhead is disregarded!  *SIP overhead is disregarded!
-Incoming bandwidth:     47.25 Kbps
-0.05 Mbps
-5.91 KBps
-0.01 MBps       Outgoing bandwidth:     47.25 Kibps
-0.05 Mbps
-5.91 KBps
-0.01 MBps
-Total bandwidth (incoming and outgoing):                94.5 Kbps
-0.09 Mbps
-11.81 KBps
-0.01 MBps
+Power requirements
+in use 12 W 0.2 A
+idle 10.5 W 0.2 A
