@@ -15,8 +15,7 @@ oskar site
 - electrical, telecommunications hardware, supplies $85
 - installation hardware, supplies $20
 - graphics $85
-- internet service $0
-- electricity $0
+- electricity $9
 r2d2 site
 - router $15
 - ATA, router $25
@@ -25,6 +24,7 @@ r2d2 site
 ToorCamp
 - gas, wear, etc $100
 - two tickets $360
+Total $1864
 
 income 2014
 - toorcamp art grant $300
@@ -32,11 +32,11 @@ income 2014
 - DigitalOcean credit $50
 - Elijah St. Clair donation: ToorCamp ticket $180
 - Karl Anderson donation: ToorCamp ticket $180
-- Karl Anderson hardware donation: $0
-- Karl Anderson money donation: $0
+- Karl Anderson money donation: $114
 - Elijah St Clair hardware donation: ATA $5
 - Elijah St Clair hardware donation: desktop cordless phone $10
 - Elijah St Clair hardware donation: router $25
+Total $1864
 
 expenses 2015
 - stickers, flyers, cards $93
@@ -55,14 +55,17 @@ oskar site
 - electrical, telecommunications hardware, supplies $29
 - internet service $0
 - electricity $0
+Total $1238
 
 income 2015
 - DigitalOcean credit $110
 - Patreon income $31.80
+- Karl Anderson money donation $1016.20
 - Brian Richardson hardware donation: router $25
 - Dee Branham hardware donation: router $25
 - Dee Branham hardware donation: power supply $5
 - Dee Branham hardware donation: bar payphone $25
+Total $1238
 
 expenses 2016
 ctrlh site
