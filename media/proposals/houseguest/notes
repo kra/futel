@@ -1,5 +1,9 @@
 Tasks
 
+up to 5 phone booths prepared
+up to 4 pedestals prepared
+up to 10 payphones prepared
+
 extensions provisioned
 routers provisioned
 ATAs provisioned
@@ -24,6 +28,7 @@ line riff payload unassisted with operator joining mid-payload
 line riff menu with operator assistance, briefing, debriefing
 
 operator-assisted menus implemented
+current operator duty roster can be edited in an error-resistant way
 operator gets cueues of where user is in menu
 initial pickup summons operator, goes to operator-assisted menu if operator available
 operator attending call able to perform oracle actions when payload reached
