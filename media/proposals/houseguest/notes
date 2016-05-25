@@ -20,6 +20,11 @@ auto-longmont random effects triggered by user sounds
 auto-longmont payload with operator input
 auto-longmont payload unassisted with operator joining mid-payload
 auto-longmont menu with operator assistance, briefing, debriefing
+auto-longmont works with multiple simultaneous calls
+auto-longmont incorporates sounds from user
+auto-longmont saves sounds for current/later users
+auto-longmont allows operator to combine current user input
+
 
 line riff non-interactive implemented
 line riff random effects triggered by user sounds
