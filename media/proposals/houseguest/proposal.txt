@@ -5,13 +5,13 @@ Introduction
 
 Street furniture makes public space livable. Some obvious examples are benches, shelters, and decorations, but machines and amenities like water fountains, lights, and kiosks are also part of our urban furniture. Payphones have almost vanished from this landscape as cell phones have become common, and this absence is unfortunate, because payphones offer a unique opportunity for people to interact with their urban environment and with each other.
 
-We propose to bring back this opportunity by installing a bank of five phone booths in Pioneer Square. The payphones in these booths will provide an instrument for interfacing with several interactive audio installations, some featuring live collaboration with remote operators, some involving algorithmic responses that react to the user and change for future users based on how they are responded to, and some just being entertaining or informative. While our creative works will delight the curious, the phones will also provide free domestic telephone calls and directories of useful numbers, linking communication, art, and public service.
-
+We propose to bring back this opportunity by installing a bank of five phone booths in Pioneer Square. The payphones in these booths will provide an instrument for interfacing with several interactive audio installations. Some of these will feature live collaboration with remote operators, some will involve algorithmic responses that react to the user and change for future users based on how they are responded to, and some will just be entertaining or informative. While our creative works will delight the curious, the phones will also provide free domestic telephone calls and directories of useful numbers, linking communication, art, and public service.
+n
 Description
 
 On picking up a handset, the user will be connected with an operator, who will help them navigate and choose features to experience. Operators can also answer questions and provide conversation at their discretion. During periods of high demand, if an operator is not available, the user will be able to navigate the voice menu unassisted, with the option to select an operator when one becomes available.
 
-Three interactive audio pieces augmented by live human operators will be prominently featured. "Communication Beyond The Veil" will combine users' live and past interactions with digital signal processing and operators' personalized tuning to produce a modern intuitive oracle. In "Auto-Longmont", callers will learn something, if they can only understand themselves. "Line Riff" will turn a conversation into a jam session with an experienced electronic artist. Other options will include algorithmic responsive audio zines, a curated list of external phone-based art pieces, interesting numbers to call, and, of course, free domestic telephone calls at all times.
+Three interactive audio pieces augmented by live human operators will be prominently featured. "Communication Beyond The Veil" will combine live and previous user interactions with digital signal processing and personalized tuning by operators to produce a modern intuitive oracle. In "Auto-Longmont", callers will learn something, if they can only understand themselves. "Line Riff" will turn a conversation into a jam session with an experienced electronic artist. Other options will include algorithmic responsive audio zines, a curated list of external phone-based art pieces, interesting numbers to call, and, of course, free domestic telephone calls at all times.
 
 Operators will perform their parts remotely using cell phones and computers with telecommunications software. Working in shifts, operators will utilize a phone bank system similar to a small scale telethon or pledge drive setup. Chat room back channels will keep operators and maintainers informed about the health of the service and the ways it is being used. Operators will have experience fielding calls from previous and ongoing public telephone installations.
 
@@ -19,9 +19,9 @@ The hardware in Pioneer Square will be ordinary, rugged payphones and phone boot
 
 Timeline
 
-June 24th, or night of June 23: installation
-June 24-26: telephones are active, with live operators available
-June 26, or morning of June 27: removal
+July 8, or night of July 7: installation
+July 8-10: telephones are active 24 hours a day, with live operators available
+July 10, or morning of July 11: removal
 
 Budget
 
@@ -45,4 +45,3 @@ Production Needs
 The installation will use standard 110 volt household current, consuming approximately 150 watts. The installation will use a wired or wireless internet connection, using 250 KBPS during peak usage. If an internet connection is not available, we will provide a wireless internet connection.
 
 The installation will consist of several phone booths anchored to a plywood and metal base, supplied by power cables under rubber trip hazard protection.
-
