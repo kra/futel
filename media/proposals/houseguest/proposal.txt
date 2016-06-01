@@ -5,8 +5,8 @@ Introduction
 
 Street furniture makes public space livable. Some obvious examples are benches, shelters, and decorations, but machines and amenities like water fountains, lights, and kiosks are also part of our urban furniture. Payphones have almost vanished from this landscape as cell phones have become common, and this absence is unfortunate, because payphones offer a unique opportunity for people to interact with their urban environment and with each other.
 
-We propose to bring back this opportunity by installing a bank of five phone booths in Pioneer Square. The payphones in these booths will provide an instrument for interfacing with several interactive audio installations. Some of these will feature live collaboration with remote operators, some will involve algorithmic responses that react to the user and change for future users based on how they are responded to, and some will just be entertaining or informative. While our creative works will delight the curious, the phones will also provide free domestic telephone calls and directories of useful numbers, linking communication, art, and public service.
-n
+We propose to bring back this opportunity by installing a bank of five phone booths and two clusters of payphone enclosures on pedestals in Pioneer Square. The payphones in these booths will provide an instrument for interfacing with several interactive audio installations. Some of these will feature live collaboration with remote operators, some will involve algorithmic responses that react to the user and change for future users based on how they are responded to, and some will just be entertaining or informative. While our creative works will delight the curious, the phones will also provide free domestic telephone calls and directories of useful numbers, linking communication, art, and public service.
+
 Description
 
 On picking up a handset, the user will be connected with an operator, who will help them navigate and choose features to experience. Operators can also answer questions and provide conversation at their discretion. During periods of high demand, if an operator is not available, the user will be able to navigate the voice menu unassisted, with the option to select an operator when one becomes available.
@@ -15,7 +15,7 @@ Three interactive audio pieces augmented by live human operators will be promine
 
 Operators will perform their parts remotely using cell phones and computers with telecommunications software. Working in shifts, operators will utilize a phone bank system similar to a small scale telethon or pledge drive setup. Chat room back channels will keep operators and maintainers informed about the health of the service and the ways it is being used. Operators will have experience fielding calls from previous and ongoing public telephone installations.
 
-The hardware in Pioneer Square will be ordinary, rugged payphones and phone booths, which can remain in operation unattended and are armored to withstand public abuse. All installations can be situated anywhere in Pioneer Square reachable by a protected electric cable.
+The hardware in Pioneer Square will be rugged payphones and phone booths, which can remain in operation unattended and are armored to withstand public use. All installations can be situated anywhere in Pioneer Square reachable by a protected electric cable.
 
 Timeline
 
