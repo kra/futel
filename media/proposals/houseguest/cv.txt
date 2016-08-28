@@ -65,7 +65,7 @@ C.H.U.N.K. 666: To Head The Moronic Dictum, pamphlet, 2001.
 
 Alex Norman, artist and developer: Bio
 
-Alex Norman is a software engineer and audio/visual tinkerer. With a focus on audio and music, he has authored and contributed to several open source software projects. Alex is also a member and developer of the Church of Robotron, a post robot-apocalypse interactive audio/visual installation experience.
+Alex Norman is a software engineer and audio/visual tinkerer. With a focus on audio and music, he has authored and contributed to several open source software projects. Alex is also a member and developer of the Church of Robotron, a post robot-apocalypse interactive audio/visual installation experience, and has fielded hours of calls as a Futel operator.
 
 Jason Plumb, artist and developer: Bio
 
@@ -73,7 +73,7 @@ Jason Plumb is a software engineer and sound artist, and a member and developer 
 
 Elijah St Clair, developer and operations: Bio
 
-Elijah St Clair is a bicycle courier and DevOps engineer, and a member and developer of the Church of Robotron, a post robot-apocalypse interactive audio/visual installation experience.
+Elijah St Clair is a bicycle courier and DevOps engineer, and a member and developer of the Church of Robotron, a post robot-apocalypse interactive audio/visual installation experience, and has fielded hours of calls as a Futel operator.
 
 Debbie Wager, artist and designer: Bio
 
