@@ -13,6 +13,7 @@ Futel: The Telephone Of The Future, Curiosity Club, April, 2015.
 Futel: Operators Are Sometimes Standing By, Portland Creative Coders, August,
 2105.
 Interview, Karaoke Research Council season 1 episode 3, January, 2016.
+Futel Activity Report, ToorCamp, June, 2016.
 Publications:
 Party Line, pamphlet, March, 2016.
 
@@ -29,10 +30,7 @@ March, 2015.
 
 Church Of Robotron
 2012-2015
-As part of an art and technology group, I participated in creating installations
-which presented a cautionary message about machine
-superiority and human error in the form of a travelling revival and
-immersive testing experience.
+As part of an art and technology group, I participated in creating multimedia installations which presented a cautionary message about machine superiority and human error in the form of a travelling revival and immersive testing experience.
 Exhibits:
 ToorCamp, Neah Bay, Washington, July, 2012.
 Diode Gallery, September-October, 2014.
@@ -69,7 +67,7 @@ Alex Norman is a software engineer and audio/visual tinkerer. With a focus on au
 
 Jason Plumb, artist and developer: Bio
 
-Jason Plumb is a software engineer and sound artist, and a member and developer of the Church of Robotron, a post robot-apocalypse interactive audio/visual installation experience.
+Jason Plumb is a hacker, engineer, sound/noise artist, and a member and developer of the Church of Robotron.  He has helped organize DorkbotPDX ("People doing strange things with electricity") for nearly a decade. Though experimentation, failure, and iteration, Jason creates generative/algorithmic audio/visuals, subversive user interfaces, and experiences that challenge cybernetic limits.
 
 Elijah St Clair, developer and operations: Bio
 
