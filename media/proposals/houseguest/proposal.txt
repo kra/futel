@@ -1,27 +1,33 @@
-Futel
-Houseguest Residency Proposal
+Project Title
+FUTEL: An Immobile Phone Company
 
-Introduction
+Project Description
+If the Pioneer Courthouse Square is Portland’s living room, FUTEL would be the haunted land line that came with the house. FUTEL no-pay payphones are a community-building communication tool, a pop-up public service, and an interactive audio-visual love letter to public infrastructure of the past and present.
 
-Street furniture makes public space livable. Some obvious examples are benches, shelters, and decorations, but machines and amenities like water fountains, lights, and kiosks are also part of our urban furniture. Payphones have almost vanished from this landscape as cell phones have become common, and this absence is unfortunate, because payphones offer a unique opportunity for people to interact with their urban environment and with each other.
+Cellphones and smart tech have made telephones more personal than ever, but their convenience comes at a cost. The constant availability of connection and data has impacted interactions in the social sphere and reduced our awareness of the environment around us. Meanwhile public telephones are disappearing, taking their low-cost access to conversation and resources with them. Much like Benson Bubblers or the Square’s amphitheater seating, payphones provide comfort and enjoyment to a wide range of community members. 
 
-We propose to bring back this opportunity by installing a bank of five phone booths and two clusters of payphone enclosures on pedestals in Pioneer Square. The payphones in these booths will provide an instrument for interfacing with several interactive audio installations. Some of these will feature live collaboration with remote operators, some will involve algorithmic responses that react to the user and change for future users based on how they are responded to, and some will just be entertaining or informative. While our creative works will delight the curious, the phones will also provide free domestic telephone calls and directories of useful numbers, linking communication, art, and public service.
+This FUTEL project will install five payphone booths and two clusters of pedestal-mounted payphones on the floor of the plaza. They would be available for use by any passerby curious enough to pick up a receiver. On picking up, the user will be connected with a live operator who will guide them in their discovery of the FUTEL service, whether choosing features to experience or simply placing a call to someone they want to talk to. At their discretion, operators can answer questions and provide conversation. If an operator is not available during periods of high demand, the user will be able to navigate the voice menu unassisted, with the option to talk to an operator when one becomes available. 
 
-Description
+The booths will feature two interactive audio pieces, created specifically for this residency and augmented by collaboration with live trained operators. "Communication Beyond The Veil" will combine live and previous user interactions with digital signal processing to create a simulated conversation, providing a creative journey guided by an operator taking on the role of a modern intuitive or spiritual oracle who can help callers find out what they want to hear. In "Auto-Longmont", callers will learn something if they can only understand themselves, as their words are warped, combined, and echoed back to them.
 
-On picking up a handset, the user will be connected with an operator, who will help them navigate and choose features to experience. Operators can also answer questions and provide conversation at their discretion. During periods of high demand, if an operator is not available, the user will be able to navigate the voice menu unassisted, with the option to select an operator when one becomes available.
+Operators will perform their parts remotely using cell phones and computers with telecommunications software. Working in shifts, they will employ a phone bank system similar to a small telethon or pledge drive. Chat room back channels will keep operators and maintainers informed about the health of the service and the ways it is being used. Operators will receive training, and will have previous experience fielding calls from previous and ongoing public telephone installations.
 
-Three interactive audio pieces augmented by live human operators will be prominently featured. "Communication Beyond The Veil" will combine live and previous user interactions with digital signal processing and personalized tuning by operators to produce a modern intuitive oracle. In "Auto-Longmont", callers will learn something, if they can only understand themselves. "Line Riff" will turn a conversation into a jam session with an experienced electronic artist. Other options will include algorithmic responsive audio zines, a curated list of external phone-based art pieces, interesting numbers to call, and, of course, free domestic telephone calls at all times.
+The phones will additionally provide access to interactive audio installations. Some of these pieces will offer informative recordings about local and remote topics, and others will be based on algorithmic responses that react to the user and change fo future iterations with subsequent callers. These creative works will reward exploration, incorporate users’ feedback, play with expectations of the medium, and deepen Portland’s legacy of surprising art hidden in plain sight. Other sound art available to the caller will include audio zines, a curated list of external phone-based art pieces, interesting numbers to call, and, of course, free domestic telephone calls whenever Pioneer Courthouse Square is open, hosted by FUTEL.
 
-Operators will perform their parts remotely using cell phones and computers with telecommunications software. Working in shifts, operators will utilize a phone bank system similar to a small scale telethon or pledge drive setup. Chat room back channels will keep operators and maintainers informed about the health of the service and the ways it is being used. Operators will have experience fielding calls from previous and ongoing public telephone installations.
+The installation in Pioneer Square will consist of several phone booths anchored to a plywood and metal base, supplied by power cables under rubber trip hazard protection. The hardware will be rugged payphones and phone booths, which can remain in operation unattended, be activated and deactivated to match the hours of Pioneer Square, and are armored to withstand public use. All equipment can be situated anywhere in Pioneer Square reachable by a protected electric cable. The installation will use standard 110 volt household current, consuming approximately 150 watts during peak usage. The installation can use either a wired or wireless internet connection, using 250 KBPS during peak usage. If an internet connection is not available, we will provide a wireless internet connection.
 
-The hardware in Pioneer Square will be rugged payphones and phone booths, which can remain in operation unattended and are armored to withstand public use. All installations can be situated anywhere in Pioneer Square reachable by a protected electric cable.
+Current and previous FUTEL installations have been in place in three quadrants of Portland since July 2014, and have proven interesting and useful to the public, with peak usage of over 100 outgoing calls a day, and daily exploration of artistic and informational sound exhibits and curated outgoing numbers. Pioneer Courthouse Square’s heavy and diverse pedestrian traffic makes it an ideal site for engaging public art that blends public services with user generated installation. 
+
+FUTEL’s prior user-collaborative projects have also focused on promoting communication and unexpected connection via seemingly ordinary payphones. The FUTEL Wildcard Line encourages participation that can vary from earnest communication to a call and response that has spanned months in the form of an audio digest. The FUTEL Voice Conference has provided serendipitous conversation for the random community of people curious enough to call it. And the FUTEL Operator Services have provided both useful information and creative wisdom to any caller who asked for it. All of these efforts have been available, and have been used, at all hours from one of several public phones, and have welcomed users into the normally intimate process of creative work via the familiar intimacy of a phone booth.
+
+While technology can be alienating and isolating, FUTEL phones can connect community members with resources, working artists, and loved ones. They represent a rare chance to appreciate art privately while in public, or to make art out of something as personal as a phone call. The physical space they take up speaks to a past, real or imagined, where making a phone call on the go meant lingering in one place as a guest in your environment. 
+
 
 Timeline
 
-July 8, or night of July 7: installation
-July 8-10: telephones are active 24 hours a day, with live operators available
-July 10, or morning of July 11: removal
+October 28, or night of October 27: installation
+October 28-30: telephones are active whenever Pioneer Square is open, with live operators available
+October 30, or morning of October 31: removal
 
 Budget
 
@@ -36,12 +42,16 @@ Operator wages $3000
 Designer wages $500
 4 artist/developer stipends $10000
 
-Availability
+Brief Collaborator Bios
 
-The installation will be public and available for the entire period from installation to removal.
+Alex Norman, artist and developer
+Alex Norman is a software engineer and audio/visual tinkerer. With a focus on audio and music, he has authored and contributed to several open source software projects. Alex is also a member and developer of the Church of Robotron, an interactive multimedia installation, and has fielded hours of calls as a Futel operator.
 
-Production Needs
+Jason Plumb, artist and developer
+Jason Plumb is a hacker, engineer, sound/noise artist, and a member and developer of the Church of Robotron, an interactive multimedia installation.  He has helped organize DorkbotPDX ("People doing strange things with electricity") for nearly a decade. Though experimentation, failure, and iteration, Jason creates generative/algorithmic audio/visuals, subversive user interfaces, and experiences that challenge cybernetic limits.
 
-The installation will use standard 110 volt household current, consuming approximately 150 watts. The installation will use a wired or wireless internet connection, using 250 KBPS during peak usage. If an internet connection is not available, we will provide a wireless internet connection.
+Elijah St Clair, developer and operations
+Elijah St Clair is a bicycle courier and DevOps engineer, and a member and developer of the Church of Robotron, an interactive multimedia installation, and has fielded hours of calls as a Futel operator.
 
-The installation will consist of several phone booths anchored to a plywood and metal base, supplied by power cables under rubber trip hazard protection.
+Debbie Wager, artist and designer
+Debbie Wager is a graphic and UI designer. Along with a focus in user interface design such as mobile apps, websites, and interactive exhibits and kiosks, she has also produced graphic materials for ChickTech, a local organization dedicated to increasing the number of women and girls pursuing technology-based careers, and the Church of Robotron, an interactive multimedia installation.
