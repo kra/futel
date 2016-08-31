@@ -12,8 +12,8 @@ https://www.youtube.com/watch?v=Jw5OtRhOwO0
 Description of Open Source Bridge presentation on Futel, June 5, 2014
 http://opensourcebridge.org/sessions/1322
 
-C.H.U.N.K. website
-http://dclxvi.org/chunk
-
 Church of Robotron website
 http://churchofrobotron.com
+
+C.H.U.N.K. website
+http://dclxvi.org/chunk
