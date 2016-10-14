@@ -112,6 +112,8 @@ Budget Form Upload *
 
 Budget Narrative (100 words max.) *
 
+Our largest expense is the physical installation materials such as payphones and enclosures, which we get used from salvage sources, as well as concrete, wiring, and other hardware. Installation labor and incidental expenses such as fuel is donated. Our next expense is cloud computing services, mostly virtual computer time purchased from DigitalOcean. These numbers are based on our operating expenses in 2016, during which two to four installations were operational 24 hours a day.
+
 
 Anything else? (optional)
 
