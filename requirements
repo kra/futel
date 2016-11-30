@@ -1,25 +1,3 @@
-Expenses:
-
-domain/vhosting/email hosting/web page serving
-domain/email $15/yr?  Prob can get for $10/yr
-web hosting free with github
-
-phone bandwidth $35-100/mo?
-phone $150
-phone mounting hardware, etc. $50-200
-phone security hardware (lights, etc)
-phone IT hardware (computer, etc)
-
-
-Requirements to host a node:
-
-power - laptop+phone or arm+phone, how many watts?
-public access
-secure phone mounting location
-bandwidth - 95KBPS bursty?
-static ip address or hostname - dyndns or similar
-
-
 Bandwidth requirements
 max in use 115 KBPS up/down
 typical in use 86 KBPS up 110 KBPS down
@@ -32,7 +10,7 @@ idle 10.5 W 0.2 A
 
 installation notes
 
-We're always into hosting any publicly accessible phone. A phone needs a place to securely mount it, and a phone line going to the box inside your house. The box inside your house is small, and needs internet and power. If you want a light on your phone, you'll need to get power to that too. We'll cover the expenses, you help with the installation labor. You can get a free landline in your house if you want.
+We're always into hosting any publicly accessible phone. A phone needs a place to securely mount it, and a phone line going to the box a secure location. The box is small, and needs internet and power. If you want a light on your phone, you'll need to get power to that too. We'll cover the expenses, you help with the installation labor. You can get a free landline in your house if you want.
 
 We have three kinds of phones right now:
 
