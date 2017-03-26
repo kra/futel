@@ -1,9 +1,9 @@
 Phone types
 
-pedestal payphone http://futelco.tumblr.com/post/139410635789
-wall payphone http://futelco.tumblr.com/post/140123644519
-vandal-resistant phone on a 4x4 http://futelco.tumblr.com/post/139036965579
-various panel, wall, and desk phones
+Pedestal payphone http://futelco.tumblr.com/post/139410635789
+Wall payphone http://futelco.tumblr.com/post/140123644519
+Vandal-resistant phone on a 4x4 http://futelco.tumblr.com/post/139036965579
+Various panel, wall, and desk phones
 
 Phone features
 
@@ -15,18 +15,18 @@ Interactive audio art
 
 Customizations
 
+Location-specific features
 Custom menus
-time-based usage restrictions
+Time-based usage restrictions
 - call length limit
 - emergency calls only
 - passcode access
 
 Bandwidth requirements
-max in use 115 KBPS up/down
-typical in use 86 KBPS up 110 KBPS down
-max idle 9 KBPS up/down
-typical idle 1 KBPS up/down
+Max 115 KBPS, typical 86 KBPS in use
+Max 9 KBPS, typical 1 KBPS idle
 
 Power requirements
-in use 12 W 0.2 A
-idle 10.5 W 0.2 A
+12 watts 0.2 amps in use
+10.5 watts 0.2 amps idle
+
