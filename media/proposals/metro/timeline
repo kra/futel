@@ -1,40 +1,96 @@
-hours
+Phase: setup
 
-acquire, refurbish hardware for 3 new sites
-3 admin hours
-6 installer hours
-install hardware at 3 new sites
-18 installer hours
+Milestones:
+Village Coalition proposal drafted
+Meetins, correspondance with Village Coalition steering committee underway, alignment on goals, capabilities reached
+Correspondance with ISP and service donors underway, technical reqiurements for donation gathered
 
-implement expansion of general futel features for new sites
-1 software dev hours
-design local features
-4 artistic hours
-implement local features
-16 software dev hours
-design artistic features
-4 artistic hours
-implement support for artistic features
-16 software dev hours
+Deliverables:
+Letters of support
+Village Coalition draft proposal outlining goals
+Site plans and other technical information for ISP donation facilitation
 
-workshop at 3 sites to train VC reps, design artistic content
-6 artistic hours
+Timeline:
+Month 1
 
-workshop
-6 artistic hours (VC reps)
-6 artist hours (Futel)
-create artistic content
-many artistic hours (VC reps)
-edit artistic content
-9 artistic hours (VC reps)
-12 artistic hours (Futel)
-(3 sites, 1-3 VC reps per site, I imagine VC income would be artistic stipend
-received per site or per rep, stipend received and distributed to reps by VC?)
+Funds:
+$500 half admin
 
-various design
-4 designer hours
++ admin hours
+
+Phase: hardware installation
+
+Milestones:
+Hardware for 3 new sites acquired, refurbished
+Basic phones installed at each of 3 sites
+Payphones installed at each of 3 sites
+
+Deliverables:
+Working basic phone installations at each of 3 sites
+Working payphone installations at each of 3 sites
+
+Timeline:
+Month 2
+
+Funds:
+$2850 all hardware
+$900 all installer
+$500 half admin
+$500 promotion
+$965 half umbrella
+$5715 total
+
+45 installer hours
++ admin hours
+
+Phase: feature implementation
+
+Milestones:
+Local phone features designed, implemented
+Local artistic features designed, implemented
+Continued network service reliability and improvements implemented
+
+Deliverables:
+New local phone features accessible from phone installations
+New artistic phone features accessible from phone installations
+
+Timeline: Months 2-3
+
+Funds:
+$5000 all software dev
+$5000 total
+
+100 software dev hours
+8 artistic hours
++ admin hours
+
+Phase: Content generation and distribution
+
+Milestones:
+Training, orientation workshops concluded
+Content created or curated by Village Coalition members
+Editing workshops concluded
+Finished content completed
+Content made availalable and otherwise distributed
+
+Deliverables:
+Content available from Futel network
+Content available on websites and other distribution channels
+
+Timeline: Months 4-12
+
+Funds:
+$1800 all artistic
+$500 all designer
+$1800 all workshop
+$750 all service
+$300 all maintenance
+$1400 all existinng network
+$965 half umbrella
+$7515 total
+
+100+ artistic hours
+20 designer hours
 
 note:
 additional installer hours donated by ISP, Personal Telco Project
-Debbie Wager hasn't committed, but she always contributes and I've
-included her in past very small token stipends along with the rest of us
