@@ -1,33 +1,53 @@
+1. intro and overview
+
 what is futel
-- public phones
-- r2d2 phone
-- incoming
+- free payphones
+-- domestic calls
+- voicemail
+- directories of useful numbers and social service numbers
+- directories of interesting numbers
+- interactive art
+- human operators
+- free phone service
+-- R2D2
+- incoming line
 - irc bot
 
-what do public phones provide for free
-- calls
-- voicemail
-- directory of social service numbers
-- directory of fun numbers and audio art
-- directory of interesting destinations
-- live human operator
+2. motivation
 
 why futel
-- quick origin story overview
 - quick history overview
-- people use it despite naysayers
+- quick origin story overview
 
-how do we know it is useful
+3. evaluation
+
+why evaluation
+- I can never tell if an idea is stupid
+- costs money and time
+- needs validation of some kind
+
+how do we know it is successful
 - success metrics
 - failure metrics
 
 what is success
-- usage
-- interaction
+- usage quantity
+- usage quality
+-- interaction
+- positive feedback
+-- interest
+-- publicity
 - benefit to operators
--- this is not warm fuzzies
--- skill growth, CV, drinks
--- must avoid burnout
+-- accomplishment
+-- skillz
+-- creative resume builder
+-- notariety, social accomplishment
+--- recognition for building something meaningful
+--- drinks
+--- example, career plan for this could involve dropping out and scamming off the art community
+-- seriously, this is not warm fuzzies
+--- not going to get rich giving away phone calls
+--- must avoid burnout, get contributors
 
 what is failure
 - outages
@@ -47,4 +67,29 @@ cheap to give away
 -- unexpected
 -- stimulating for operators
 
+4. extrapolation
+
 maybe we can extrapolate this idea
+- we can evaluate a project
+- we can think about what is valuable in a project
+- we can iterate off of that
+
+what is valuable about this
+- best lesson for me has been what the constraints give us
+-- I feel art is made of constraints
+-- lotta constraints when your medium is the payphone
+- constraints give us accessibility
+-- simple interface is accessible
+--- everyone can use a phone (TDD donations sought)
+-- rugged hardware is accesible
+-- easy connection to large existing network is accessible
+--- no apps, no devices, no social networks, no ID
+
+let's riff on this
+- what is useful and interesting
+- what can we provide
+- what is accessible
+
+process
+- basic idea or function or desire
+- 
