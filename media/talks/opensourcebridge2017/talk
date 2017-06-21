@@ -1,16 +1,22 @@
+todo
+images for later sections
+intro add duo logo and shoutout for bringing me
+
 1. intro and overview
+
+who am I
+- Karl
 
 what is futel
 - free payphones
-- blend in with subtle differences
 - domestic calls
 - voicemail
+- incoming line
 - directories of useful numbers and social service numbers
 - directories of interesting numbers
 - human operators
 - free phone service
 -- R2D2
-- incoming line
 - irc bot
 
 2. motivation
@@ -33,6 +39,25 @@ why evaluation
 - I can never tell if an idea is stupid
 - costs money and time
 - everything needs validation of some kind
+
+what are the aspects of the service which are fundamental
+- useful
+-- wide range of users
+- cheap to give away
+-- gives us freedom - few restrictions
+- simple
+-- lets us present it to anyone - interface
+-- gives us freedom - public devices
+- accessible
+-- simple interface
+--- most people can use a phone (TDD donations sought)
+-- rugged hardware
+--- we can leave it out all night for anyone
+-- easy connection to large existing network
+--- no apps, no devices, no social networks, no ID
+- interesting and fun
+-- anachronistic, unexpected
+-- stimulating for operators
 
 how do we know it is successful
 - success metrics
@@ -59,28 +84,9 @@ what is success
 --- must avoid burnout, get contributors
 
 what is failure
-- outages
 - resource intensive - time, money
 - hassle
-
-what are the aspects of the service which are fundamental
-- useful
--- wide range of users
-- cheap to give away
--- gives us freedom - few restrictions
-- simple
--- lets us present it to anyone - interface
--- gives us freedom - public devices
-- accessible
--- simple interface
---- most people can use a phone (TDD donations sought)
--- rugged hardware
---- we can leave it out all night for anyone
--- easy connection to large existing network
---- no apps, no devices, no social networks, no ID
-- interesting and fun
--- anachronistic, unexpected
--- stimulating for operators
+- outages
 
 4. extrapolation
 
@@ -94,6 +100,7 @@ what is valuable about this
 -- I feel art is made of constraints
 -- gotta fight
 - constraints give us accessibility
+
 
 let's riff on this
 - what is useful and interesting
