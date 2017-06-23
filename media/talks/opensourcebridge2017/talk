@@ -14,6 +14,8 @@ what is futel
 - incoming line
 - directories of useful numbers and social service numbers
 - directories of interesting numbers
+- voice conference
+- wildcard line
 - human operators
 - free phone service
 -- R2D2
@@ -48,8 +50,7 @@ what are the aspects of the service which are fundamental
 - simple
 -- lets us present it to anyone - interface
 -- gives us freedom - public devices
-- accessible
--- simple interface
+-- accessible
 --- most people can use a phone (TDD donations sought)
 -- rugged hardware
 --- we can leave it out all night for anyone
@@ -101,14 +102,3 @@ what is valuable about this
 -- I feel art is made of constraints
 -- gotta fight
 - constraints give us accessibility
-
-
-let's riff on this
-- what is useful and interesting
-- what can we provide
-- what is accessible
-
-process of extrapolation
-- basic idea or function or desire
-- values of that idea, why is it desirable
-- qualities that help us express those values and achieve desire
