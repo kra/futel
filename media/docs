@@ -1,4 +1,14 @@
-Futel is a combination of a social service and arts organization. We install publicly accessible payphones which provide free telephone calls and  voicemail at all hours. We also provide free phone service to Right To Dream Too, a homeless encampment and advocacy organization in downtown Portland. We also develop interactive audio art pieces which are accessible from our public phones, incoming lines, and occasional gallery installations. Recent funding has come from the Regional Arts and Culture Council and the Precipice Fund.
+Mission statement:
+
+Futel is a social service and arts organization. We install publicly accessible payphones which provide free telephone calls and voicemail at all hours. We also provide free phone service to houseless support and advocacy organizations, and develop interactive audio art pieces which are accessible from our public phones, incoming lines, and occasional gallery installations.
+
+Org bio:
+
+Futel is a 501(c)(3) organization founded by a bicycle courier and a software engineer. We installed our first public payphone in August 2014, and have continued to expand our services with the support of many volunteers and contributos. Recent funding has come from the Regional Arts and Culture Council and the Precipice Fund.
+
+Technical details:
+
+Futel operates on two substrates. We develop our services using open source VOIP and security software, and deploy them on cloud servers. Users interface with these with a motley collection of repuprosed payphones and obsolete used IT hwardware. The human glue that keeps this all together is a network of live operators and troubleshooters.
 
 
 Taglines
@@ -14,3 +24,7 @@ An Immobile Phone Company
 
 付徒劳
 "to pay is futile", pronounced "futalo"
+
+grant ideas
+
+http://oregonhumanities.org/programs/public-program-grants/
