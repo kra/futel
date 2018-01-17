@@ -1,0 +1,91 @@
+- 0: intro
+
+- 1: what is futel?
+-- we are providing free telephony services to the public
+
+- 2: first, some background: phreakers
+-- hacker subculture exploiting the phone system
+-- manipulated the phone network
+--- free calls
+--- just to do it - routing calls, exploiting equipment
+-- parasites, exploiting the technology of the man
+-- stealing from the war machine
+-- or just to get free stuff
+   also noble if you think society is evil
+-- all sorts of justifications for theft of services
+--- everybody hates the phone company!
+    and back then, it was just The Phone Company, Ma Bell, AT&T
+-- but mainly, exploring technology, hacking for the sake of hacking.
+   We live inside a machine!
+-- fun to make the machines do things!
+-- nowadays, phreaker culture has pretty much evaporated into hacker culture,
+   there's more to hack out there!  But people still collect and abuse
+   equipment.
+
+- 3: what is futel?
+-- we are two developers and several contributors
+-- we are a phone company!
+-- we are sticking phones in public places and not charging for them
+-- services, all free, include
+--- domestic calls
+--- voicemail
+--- operator on call and other human communication
+--- one-touch dialing to the mayor
+--- random payphone ringing
+--- art, interactive things to do
+---- radiation meter
+---- planned audio/communication artist features, audio zines, algorithmic art
+-- we are not phreaking in that we're not manipulating someone else's
+   infratructure
+-- we aren't even hacking in a black or white hat sense
+   we're not tresspassing on anyone's network
+-- we're buying service and giving it away, we're customers!  Sorry, boring!
+-- but we are social hackers.
+   How will people use this?
+   How can we help and confuse people?
+-- Really, we just miss phones.
+-- but also, we're living in a time of awesome individual geek power
+--- a small group of nerds with a little money and time can create things that
+    used to take a lot of infrastructure
+--- it makes you want to do something!
+--- if we had more common sense, we'd be rich, instead, we're deploying
+    a phone network
+-- I should mention a little about how we do it
+--- we run an asterisk VOIP server on a cheap cloud box
+--- we have little SIP boxes we get used for cheap
+--- SIP boxes talk to Linksys routers with open source firmware on them
+
+30 mins
+
+5: why is futel? motivation for starting a phone company
+-- motivation: discover and illustrate meaning behind tech of everyday life
+--- gotta be public, gotta be urban, gotta be accessible
+---- we don't just deploy at festivals, we're on the streets
+-- motivation: fascination with public kiosks and interactive street hardware
+   the Finn
+-- zines
+--- audiozines, the Apology Line
+--- participatory technology
+-- motivation: clinton street cadillacs, lawnmower guy
+--- connectivity is something that's cheap for us to provide
+-- motivation: turn discards into useful or interesting things
+--- why? because the world is fucked up and we don't necessarily belong here
+    no better way to reinforcd that than to wallow in trash
+--- why? skillz
+-- motivation: keep temporarily obsolete technology alive
+--- why? probably won't be obsolete forever
+--- why? skillz
+- motivation: build something that allows people to be sincere
+- motivation: must keep busy
+-- I personally get real down when I'm idle
+-- I never can tell when a project is going to be realistic, and I tend to
+   find myself deep in it when it's too late to back out
+-- but I want to emphasize that there is one core reason for Futel, and that
+   is to provide phone service to anyone who might want it
+
+6: conclusion
+- we are starting a phone company because we don't really have a choice
+- would you like to participate?
+-- operator posts, phone locations, artist in residence program
+-- hardware: everything shown here
+-- name addresses
