@@ -1,0 +1,37 @@
+Item                    Total   Notes
+Oral History Events		
+Permits	                500	
+Pyramid Transport	1400	$200/trip x 7
+Catering	        1200	$300 x 4
+Event marketing	        1000	$250 x 4
+Awning rental	        600	$150 x 4
+		
+Podcasting Gear		
+Zoom recorders	        400	$200 x 2
+microphones bundles 	520	$130 x 4
+headphones	        300	$50 x 6
+amps	                60	$30 x 2
+IdeaPads               	540	$270 x 2
+monitor speaker	        150	
+Cable and accessories	50	$25 x 2
+case	                150	
+		
+Futel Phone Network		
+Desk Phones	        300	$150 x 2
+Phone Booths	        1600	$800 x 2
+Installation	        300	$20/hr x 15
+Network Maintenance	600	$100/site x 6
+Network Service	        1050	$175/site x 6
+		
+Admin & Stipends		
+VC Admin	        3750
+Workshop fees	        1200	6 x $200
+VC Artist Fees	        1800	6 x $300
+Futel Programing	2000	$20/hr x 100
+Design	                500	$20/hr x 25
+Promotion	        500	
+Futel Admin	        1000	$20/hr x 50
+Audio Editing	        800	$20/hr x 40
+Umbrella Fee	        2500
+		
+Total	24770
