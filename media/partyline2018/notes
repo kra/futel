@@ -1,62 +1,60 @@
-I broke out the prepared statements as courier text, and labeled them
+add image: https://github.com/kra/futel/blob/master/media/images/2x2_sticker_handy.pdf
 
-futel
-prepared statement
-ideological orientation
+add rant as 1st page after inside front cover?
 
-..
-..
-teleological orientation
-
-ok?
-
-There are 3 more pages to fill (24) or one to cut (20).
+note new filler images if needed:
+https://github.com/kra/futel/blob/master/media/partyline2018/images/korea-hotline-clocks2.jpg
+https://github.com/kra/futel/blob/master/media/partyline2018/images/korea-hotline-yellow.jpg
 
 ——
-cover: chainmail bikini warrior is meant to be front cover image
+Add page for front cover:
+Front cover: title and Jim Belushi image (f14cdae996fbdf09c131baec88682ff0.png)
 
-2: needs illustration since that was moved to cover
-* fixed
-4: bad line spacing in grants paragraph? Last line is lower?
+Party Line
+<image>
 
-* yup- fixed
+inside front cover: edit text by adding one line:
 
-4/5: bad grouping to put 2 lines on page 5. Put image from page at bottom of page 4, shrink to take up half page? Whitepsace gutters or flow text around. Increase space between paragraphs, have whitespace at bottom of page 5, or add another image to account for smaller filler image? Something like that. Also see next.
+Party Line
+the signal lives in darkness
 
-6: this is a duplicate of the year in review paragraph. Use this instead of the year in review pararagraph? Remove this page. Continue using image of girl as filler, allowing shrinking of current year in review filler image
+Issue 3, Spring 2018
+2017 Review Edition
 
-* I put the payphone image right under the title, split the text onto the second page, adn bumped up the “Airport phones” image and caption to fill the space.
+<image>
 
-7: should this article be in a smaller font, maybe make it 1 page smaller?
-* two column format shaved a page off
-9: maybe slightly more space between filler image and text?
-* check
-10: more space between filler image and text
-* check
-11: should this article be in a smaller font, maybe make it 1 or 2 pages smaller?
-* I did it as two columns and it removed a whole page but kept it 10pt. chunk 666 photos added, all movie stills removed
+<addresses>
 
-11: more space between filler image and text
-* check
-11: should URL be moved to footer of article? Or should this just have "reprinted from markmaynard.com"?
-* reads “reprinted from markmaynard.com”
+inside front cover: image slightly crowds text, esp. at bottom
 
-12: 1st sentence of image description should be below its image, instead of both sentences below 2nd image with "bottom:"
-* couldn’t figure this out/ maybe fixed it?
+4: add a little more space between image/caption and text
 
-13: prepared statement should be italicized or otherwise emphasized
-* courier new block text
-14: more space between filler image and text
-* check
-17: more space between filler image and text
-* check
-18: prepared statement should be italicized or otherwise emphasized
-* courier new block text
+5: edit title: "Broadband Payphone Calling"
+5: minor: text is a little crowded, maybe shrink bottom image/number a little and add space between text/bottom image and text/header
 
-23: are you credited here? 
-* the printing press is physical plant
+7: missing text between columns? "2017-08-25 Caller asked for the
+number of a medical clinic, which I... asked for the number of the same clin-
+ic. I supplied it again. Caller repeated it
+to me with one digit wrong, and hung
+up."
 
-misc: another illustration is hopefully incoming
-misc: rant is hopefully incoming
-* Sounds good-  after condensing articles we are at 18 pages. need to fill two, currently blank in the back. 
+9: edit image caption: "Futel’s Karl Anderson tests equipment at 209 Pearl Street in Ypsilanti the day after answering the above questions"
 
+Futel’s Karl Anderson tests equipment at 209 Pearl Street in Ypsilanti the day after
+
+11: edit statement title:
+"""
+Prepared Statement
+Ideological Orientation
+"""
+
+13: edit image caption: "Old friends Dug Song and Karl Anderson
+hack their way into the Landline Creative Labs communications backbone"
+
+16: edit statement title:
+"""
+Prepared Statement
+Teleological Orientation
+"""
+
+back cover: remove phone number
