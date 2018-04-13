@@ -1,8 +1,8 @@
 # One minute intro
 
-[website] (http://futel.net/)
+[website](http://futel.net/)
 
-[cv] (https://github.com/kra/futel/blob/master/media/proposals/cv.txt)
+[cv](https://github.com/kra/futel/blob/master/media/proposals/cv.txt)
 
 For XOXO, I propose a talk and/or an installation.
 
@@ -53,7 +53,7 @@ communication network during XOXO and beyond.
 
 details to be determined by funding
 
-[flyer] (https://github.com/kra/futel/blob/master/media/public_telephones.pdf)
+[flyer](https://github.com/kra/futel/blob/master/media/public_telephones.pdf)
 
 * locations
   * Obvious and visible, eg pedestals or booths near trafficked areas
