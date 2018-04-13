@@ -16,7 +16,7 @@ Now that we are finally living in the cyberpunk dystopia promised in the 80s, we
 A talk with speaker and slides, ideally 30-60 minutes.
 For previous experience, including 9 talks:
 
-[talks] (https://github.com/kra/futel/blob/master/media/proposals/cv.txt#L20)
+[talks](https://github.com/kra/futel/blob/master/media/proposals/cv.txt#L20)
 
 ### Outline
 
@@ -28,21 +28,17 @@ sustainable?
 * intro and overview
   * what is futel
   * what does futel offer
-
 * motivation
   * why futel
   * goals
-
 * evaluation
   * why evaluation
   * what are the aspects of the service which are fundamental
-
 * extrapolation
   * how can we apply these ideas to technological art projects
   * what makes a project successful
   * how can we use our powers for good
   * how can we be effective without falling into the trap of analysis paralysis
-
 
 # Installation
 
