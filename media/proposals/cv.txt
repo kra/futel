@@ -14,9 +14,10 @@ Sidewalk, SE Taylor Street, Portland, November 2016 to present.
 Alley, NE Killingsworth Street, Portland, January 2018 to present.
 Alley, Pearl Street, Ypsilanti, Michigan, March 2018 to present.
 Exhibits:
-ToorCamp, Neah Bay, Washington, July 2014.
+Futel Interactive Installation, ToorCamp, Neah Bay, Washington, July 2014.
 Futel: Communication From Beyond The Veil, AFRU gallery, February 2016.
-ToorCamp, Orcas Island, Washington, July 2016.
+Futel Interactive Installation, ToorCamp, Orcas Island, Washington, July 2016.
+Futel Interactive Installation, Teardown, May 2018
 Presentations:
 Futel: The Future Of The Past Of Telephony, Open Source Bridge, June 2014.
 Futel: The Telephone Of The Future, Curiosity Club, April 2015.
@@ -26,7 +27,8 @@ Futel Activity Report, ToorCamp, June 2016.
 Futel: An Immobile Phone Company, i3Detroit, October 2016.
 Futel: The Network We Deserve, Open Source Bridge, June 2017.
 King Solomon’s Mines: The Greatest Salvage Treasure Revealed In The Vault Of The Payphone, Decon + Reuse '17, September, 2017
-Futel: Telecommunications Colossus of the Modern Age, DonutJS, February, 2018
+Futel: Telecommunications Colossus of the Modern Age, DonutJS, February 2018
+Futel: A Technology So Advanced We Leave It Out On The Street All Night, Teardown, May 2018
 Audio Publications:
 Wildcard Line Episode 1, call-in discussion, November 2016.
 Wildcard Line Episode 2, call-in discussion, May 2017.
