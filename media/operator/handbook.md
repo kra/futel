@@ -13,13 +13,13 @@ Operator calls and messages will arrive with the CallerID number of the phone th
 - NE Killingsworth Alley: 503-928-8465
 - Pearl St, Ypsilanti: 734-547-6651
 
-Rarely, calls will arrive with the CallerID of a nonpublic Futel number, Glitches and psychic resonance may cause unexpected connections to be formed with your operating device.
+Calls may arrive with the CallerID of a nonpublic Futel number. Feel free to respond to any call with an operator menu, but be sure to ask for the caller's location if needed. On rare occasions, glitches and psychic resonance may cause unexpected connections to be formed with your device and with other tools you use to communicate, so operate with care.
 
 # Answering Operator Calls
 
 An incoming operator call will present a menu with an option to accept it. Do not accept operator calls unless you are able to provide operator assistance. If the menu ends before you can accept a call, or if you accept a call and you are not connected, the caller may have disconnected, or another operator may have beat you to it.
 
-Answer an operator call with an introduction which indicates your ability, such as "Operator", "Futel, this is Jimmy",  or "Hello". 
+Answer an operator call with an introduction which indicates your ability, such as "Operator", "Futel, this is Jimmy",  or "Hello!"
 
 # Operator Duties
 
