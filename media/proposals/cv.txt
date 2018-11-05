@@ -4,7 +4,9 @@ Curriculum Vitae
 
 Futel
 August 2014 to present
+
 Futel is a telephone company and audio art installation, with installations at several publicly available locations. As director, I do everything that needs doing, including creative direction, content creation, project management, development, operations, outreach, and fundraising.
+
 Installations:
 Sidewalk, SE Clinton Street, Portland, June 2014 to present.
 Right To Dream Too, NW Third and Burnside, Portland, January 2015 to present.
@@ -13,11 +15,13 @@ Sidewalk, N Interstate Avenue, Portland, February 2016 to July 2016.
 Sidewalk, SE Taylor Street, Portland, November 2016 to present.
 Alley, NE Killingsworth Street, Portland, January 2018 to present.
 Alley, Pearl Street, Ypsilanti, Michigan, March 2018 to present.
+
 Exhibits:
 Futel Interactive Installation, ToorCamp, Neah Bay, Washington, July 2014.
 Futel: Communication From Beyond The Veil, AFRU gallery, February 2016.
 Futel Interactive Installation, ToorCamp, Orcas Island, Washington, July 2016.
 Futel Interactive Installation, Teardown, May 2018
+
 Presentations:
 Futel: The Future Of The Past Of Telephony, Open Source Bridge, June 2014.
 Futel: The Telephone Of The Future, Curiosity Club, April 2015.
@@ -30,15 +34,18 @@ King Solomon’s Mines: The Greatest Salvage Treasure Revealed In The Vault Of T
 Futel: Telecommunications Colossus of the Modern Age, DonutJS, February 2018
 Futel: A Technology So Advanced We Leave It Out On The Street All Night, Teardown, May 2018
 Futel: The Payphone, Devolved, The Circle Of HOPE, July 2018
+
 Audio Publications:
 Wildcard Line Episode 1, participatory audio, November 2016.
 Wildcard Line Episode 2, participatory audio, May 2017.
 Wildcard Line Episode 3, participatory audio, November 2017.
 Wildcard Line Episode 4, participatory audio, June 2017.
+
 Print Publications:
 Party Line #1, pamphlet, March 2016.
 Party Line #2, pamphlet, March 2017.
 Party Line #3, pamphlet, March 2018.
+
 Major Grants:
 ToorCamp Art Grant, July 2014.
 Awesome Portland, September 2014.
@@ -51,7 +58,9 @@ Twilio.org Impact Access, March 2018.
 
 Church Of Robotron
 2012 to 2015
+
 The Church of Robotron is an ongoing collaborative series of immersive, interactive multimedia installations which present a cautionary message about machine superiority and human error. Effects include kinetic sculptures, whistles, percussion, vibration, ozone generators, electrical discharges, simulated fires, and projected video of the current and previous participants, and live performances, all triggered by audience interaction. Installations are customized for the space and opportunity, and can include unattended public interaction at all hours performed by the audience touching a plate glass window or manipulating a ruggedized control.
+
 Exhibits:
 ToorCamp, Neah Bay, Washington, July 2012.
 Diode Gallery, September to October 2014.
@@ -66,13 +75,16 @@ ToorCamp Art Grant, July 2012.
 
 C.H.U.N.K. 666
 1992 to present
+
 C.H.U.N.K. 666 turns salvaged bicycles into working human powered vehicles and then destroys them in public gladiatorial contests. As cofounder and ongoing participant, I have led creative direction, fabricated custom vehicles, built sets, organized public events and festivals, created content, and led outreach and fundraising.
+
 Events:
 Chunkathlons, Portland, yearly 1999 through 2005.
 Mutant Bike Construction Workshop, Portland, 2002.
 Chunkathlon, Brooklyn, NY, 2003.
 Mutant Bike Construction Workshop, Brooklyn, NY, 2003.
 Mutant Bike Proving Grounds, Vancouver, BC, 2008.
+
 Presentations:
 Aquachoppers of C.H.U.N.K. 666, Research Club, September 2011.
 Aquachoppers of C.H.U.N.K. 666, Dorkbot PDX, October 2011.
@@ -86,7 +98,9 @@ C.H.U.N.K. 666: To Head The Moronic Dictum, pamphlet, 2001.
 
 Solo and Choral Performances
 2014 to 2017
+
 I sang in choral and solo performances.
+
 Performances:
 Like a Sun That Pours Forth Light but Never Warmth, solo aria for a dance performance by Allie Hankins, Conduit Dance, October 2014.
 CHOIR, choir accompaniment for a dance performance by Takahiro Yamamoto, July 2015.
