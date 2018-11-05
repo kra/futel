@@ -11,50 +11,50 @@ Installations:
 Sidewalk, SE Clinton Street, Portland, June 2014 to present.
 Right To Dream Too, NW Third and Burnside, Portland, January 2015 to present.
 Sidewalk, NE Ainsworth Street, Portland, February 2016 to present.
-Sidewalk, N Interstate Avenue, Portland, February 2016 to July 2016.
 Sidewalk, SE Taylor Street, Portland, November 2016 to present.
 Alley, NE Killingsworth Street, Portland, January 2018 to present.
 Alley, Pearl Street, Ypsilanti, Michigan, March 2018 to present.
+Sidewalk, N Interstate Avenue, Portland, February 2016 to July 2016.
 
 Exhibits:
-Futel Interactive Installation, ToorCamp, Neah Bay, Washington, July 2014.
-Futel: Communication From Beyond The Veil, AFRU gallery, February 2016.
-Futel Interactive Installation, ToorCamp, Orcas Island, Washington, July 2016.
 Futel Interactive Installation, Teardown, May 2018
+Futel Interactive Installation, ToorCamp, Orcas Island, Washington, July 2016.
+Futel: Communication From Beyond The Veil, AFRU gallery, February 2016.
+Futel Interactive Installation, ToorCamp, Neah Bay, Washington, July 2014.
 
 Presentations:
-Futel: The Future Of The Past Of Telephony, Open Source Bridge, June 2014.
-Futel: The Telephone Of The Future, Curiosity Club, April 2015.
-Futel: Operators Are Sometimes Standing By, Portland Creative Coders, August 2105.
-Interview, Karaoke Research Council season 1 episode 3, January 2016.
-Futel Activity Report, ToorCamp, June 2016.
-Futel: An Immobile Phone Company, i3Detroit, October 2016.
-Futel: The Network We Deserve, Open Source Bridge, June 2017.
-King Solomon’s Mines: The Greatest Salvage Treasure Revealed In The Vault Of The Payphone, Decon + Reuse '17, September, 2017
-Futel: Telecommunications Colossus of the Modern Age, DonutJS, February 2018
-Futel: A Technology So Advanced We Leave It Out On The Street All Night, Teardown, May 2018
 Futel: The Payphone, Devolved, The Circle Of HOPE, July 2018
+Futel: A Technology So Advanced We Leave It Out On The Street All Night, Teardown, May 2018
+Futel: Telecommunications Colossus of the Modern Age, DonutJS, February 2018
+King Solomon’s Mines: The Greatest Salvage Treasure Revealed In The Vault Of The Payphone, Decon + Reuse '17, September, 2017
+Futel: The Network We Deserve, Open Source Bridge, June 2017.
+Futel: An Immobile Phone Company, i3Detroit, October 2016.
+Futel Activity Report, ToorCamp, June 2016.
+Interview, Karaoke Research Council season 1 episode 3, January 2016.
+Futel: Operators Are Sometimes Standing By, Portland Creative Coders, August 2105.
+Futel: The Telephone Of The Future, Curiosity Club, April 2015.
+Futel: The Future Of The Past Of Telephony, Open Source Bridge, June 2014.
 
 Audio Publications:
-Wildcard Line Episode 1, participatory audio, November 2016.
-Wildcard Line Episode 2, participatory audio, May 2017.
-Wildcard Line Episode 3, participatory audio, November 2017.
 Wildcard Line Episode 4, participatory audio, June 2017.
+Wildcard Line Episode 3, participatory audio, November 2017.
+Wildcard Line Episode 2, participatory audio, May 2017.
+Wildcard Line Episode 1, participatory audio, November 2016.
 
 Print Publications:
-Party Line #1, pamphlet, March 2016.
-Party Line #2, pamphlet, March 2017.
 Party Line #3, pamphlet, March 2018.
+Party Line #2, pamphlet, March 2017.
+Party Line #1, pamphlet, March 2016.
 
 Major Grants:
-ToorCamp Art Grant, July 2014.
-Awesome Portland, September 2014.
-Regional Arts and Culture Council, December 2015.
-Precipice Fund, December 2016.
-Awesome Ann Arbor, June 2017.
-Free Geek Hardware Grant, May 2017.
-Personal Telco Project Hardware Grant, May 2017.
 Twilio.org Impact Access, March 2018.
+Personal Telco Project Hardware Grant, May 2017.
+Free Geek Hardware Grant, May 2017.
+Awesome Ann Arbor, June 2017.
+Precipice Fund, December 2016.
+Regional Arts and Culture Council, December 2015.
+Awesome Portland, September 2014.
+ToorCamp Art Grant, July 2014.
 
 Church Of Robotron
 2012 to 2015
@@ -62,14 +62,17 @@ Church Of Robotron
 The Church of Robotron is an ongoing collaborative series of immersive, interactive multimedia installations which present a cautionary message about machine superiority and human error. Effects include kinetic sculptures, whistles, percussion, vibration, ozone generators, electrical discharges, simulated fires, and projected video of the current and previous participants, and live performances, all triggered by audience interaction. Installations are customized for the space and opportunity, and can include unattended public interaction at all hours performed by the audience touching a plate glass window or manipulating a ruggedized control.
 
 Exhibits:
-ToorCamp, Neah Bay, Washington, July 2012.
-Diode Gallery, September to October 2014.
-AFRU Gallery, February 2015.
 XOXO 1010 Art Show, September 2015.
+AFRU Gallery, February 2015.
+Diode Gallery, September to October 2014.
+ToorCamp, Neah Bay, Washington, July 2012.
+
 Publications:
 Doctrine And Documentation, pamphlet, 2014.
+
 Presentations:
 The Church Of Robotron, Dorkbot PDX, 2013.
+
 Major Grants:
 ToorCamp Art Grant, July 2012.
 
@@ -79,22 +82,23 @@ C.H.U.N.K. 666
 C.H.U.N.K. 666 turns salvaged bicycles into working human powered vehicles and then destroys them in public gladiatorial contests. As cofounder and ongoing participant, I have led creative direction, fabricated custom vehicles, built sets, organized public events and festivals, created content, and led outreach and fundraising.
 
 Events:
-Chunkathlons, Portland, yearly 1999 through 2005.
-Mutant Bike Construction Workshop, Portland, 2002.
-Chunkathlon, Brooklyn, NY, 2003.
-Mutant Bike Construction Workshop, Brooklyn, NY, 2003.
 Mutant Bike Proving Grounds, Vancouver, BC, 2008.
+Chunkathlons, Portland, yearly 1999 through 2005.
+Mutant Bike Construction Workshop, Brooklyn, NY, 2003.
+Chunkathlon, Brooklyn, NY, 2003.
+Mutant Bike Construction Workshop, Portland, 2002.
 
 Presentations:
-Aquachoppers of C.H.U.N.K. 666, Research Club, September 2011.
-Aquachoppers of C.H.U.N.K. 666, Dorkbot PDX, October 2011.
 Aquachoppers of C.H.U.N.K. 666, Curiosity Club, April 2013.
+Aquachoppers of C.H.U.N.K. 666, Dorkbot PDX, October 2011.
+Aquachoppers of C.H.U.N.K. 666, Research Club, September 2011.
+
 Publications:
-Nowtopia (interview in anthology), edited by Chris Carlson, 2008.
 Taking The Lane (story in anthology), edited by Elly Blue, 2014.
-C.H.U.N.K. 666: Preparing for the Carmageddon, pamphlet, 1997.
-C.H.U.N.K. 666: Heat Shield of the Celestial Chariot, pamphlet, 1999.
+Nowtopia (interview in anthology), edited by Chris Carlson, 2008.
 C.H.U.N.K. 666: To Head The Moronic Dictum, pamphlet, 2001.
+C.H.U.N.K. 666: Heat Shield of the Celestial Chariot, pamphlet, 1999.
+C.H.U.N.K. 666: Preparing for the Carmageddon, pamphlet, 1997.
 
 Solo and Choral Performances
 2014 to 2017
@@ -102,6 +106,6 @@ Solo and Choral Performances
 I sang in choral and solo performances.
 
 Performances:
-Like a Sun That Pours Forth Light but Never Warmth, solo aria for a dance performance by Allie Hankins, Conduit Dance, October 2014.
-CHOIR, choir accompaniment for a dance performance by Takahiro Yamamoto, July 2015.
 CHOIR, choir accompaniment for a dance performance by Takahiro Yamamoto, March 2015.
+CHOIR, choir accompaniment for a dance performance by Takahiro Yamamoto, July 2015.
+Like a Sun That Pours Forth Light but Never Warmth, solo aria for a dance performance by Allie Hankins, Conduit Dance, October 2014.
