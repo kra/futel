@@ -1,0 +1,9 @@
+Replacing a payphone handset and cable.
+
+Remove upper case cover as described in "Mounting a payphone onto an enclosure."
+Detach plug and socket between handset cable and board.
+Detach handset cable anchor from upper case cover.
+Uninstall handset cable from upper case cover.
+Install handset cable to upper case cover.
+Attach plug and socket between handset cable and board.
+Install upper case cover as described in "Mounting a payphone onto an enclosure."
