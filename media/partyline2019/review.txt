@@ -1,7 +1,10 @@
-2018 in review
-- Twilio.org Impact Corps Program grant
--- Futel’s operations have received support from the Twilio.org Impact Corps program. Thanks!
+ 2018 in review
+- Wildcard Line episode 4 was released
+-- Contribute to the Wildcard Line from any Futel phone!
+- Party Line #3 published
+-- Find back issues of Party Line at Microcosm Publishing.
 - Talks
 -- Futel staff brought the message to the people at Donut.js with "Futel: Telecommunications Colossus of the Modern Age", at Teardown: Portland 2018 with "Futel: A Technology So Advanced We Leave It Out On The Street All Night", with "Futel: The Payphone, Devolved" at The Circle Of HOPE, and with an interview on the Opposable Thumbs podcast.
-- Wildcard Line episode 4 was released
-- continued service XXX add stats
+- Twilio.org Impact Corps Program grant
+-- Futel’s operations have received support from the Twilio.org Impact Corps program. Thanks!
+- continued service XXX add number of phones, stats
