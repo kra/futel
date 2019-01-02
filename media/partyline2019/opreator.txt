@@ -1,6 +1,4 @@
-XXX calls to be added
-
-Seven operators logged over 75 calls in 2018, and as usual, they ranged from boring to exciting and amusing to annoying. Here is a sample of logged calls, with some sensitive and many less interesting examples removed.
+Seven operators logged over 82 calls in 2018, and as usual, they ranged from boring to exciting and amusing to annoying. Here is a sample of logged calls, with some sensitive and many less interesting examples removed.
 
 2018-01-08 15:36
 Caller wanted to make a call. I told them to hang up and dial 1.
@@ -49,7 +47,7 @@ Searched for a phone number for an individual.
 2018-06-01 7:59
 Caller wanted the number for Multnomah County pretrial supervision, but decided that I was taking to long to find it and hung up.
 2018-06-01 15:39
-Caller needed number for DHS, wanted to be transfered. Informed them that it was not possible for me to transfer them and gave them the number. They called back 1 minute later asking for it again because they forgot it.
+Caller needed number for DHS, wanted to be transferred. Informed them that it was not possible for me to transfer them and gave them the number. They called back 1 minute later asking for it again because they forgot it.
 2018-06-05 09:55
 Caller wanted to place a collect call. I informed them that all calls to the US and Canada are free. Caller was thankful and hung up to make a call.
 2018-06-06 18:42
@@ -79,7 +77,7 @@ Caller wanted the incoming number to use for voicemail. Caller also asked what t
 2018-07-18 7:42
 Two individual's passed the phone between them and each asked what Futel was, provided a short explanation
 2018-08-06 13:30
-Caller asked to be connected to Sissiphus Gardens, I told them to use the directory.
+Caller asked to be connected to Sissyphus Gardens, I told them to use the directory.
 2018-08-06 13:40
 Caller asked for the number of the phone, I supplied it. Caller said they had a question about setting up voicemail, said something  unintelligible, and hung up.
 2018-08-08 13:20
@@ -122,21 +120,35 @@ Caller asked for the number of a bakery in Manzanita, which I supplied.
 Caller asked how to place a call, I instructed them.
 2018-10-11 14:35
 Child was playing with the phone.
+2018-10-13 18:01
+Caller sought the number for Wilsonville Womens’ Prison. I provided the number.
 2018-10-15 15:00
 Caller said they "wanted to make a prank call". I acknowledged. Caller said a weak joke, I made a snarky reply and hung up.
+2018-11-01 11:04
+Caller was seeking the Portland district attorney’s office. I provided the number.
+2018-11-01 11:30 Mathew
+Caller who had previously called seeking the district attorney’s office was now seeking a personal injury lawyer in a Portland suburb, but unsure of the spelling of their name. With search engine assistance I was able to identify the lawyer’s name and number.
+2018-11-01 11:51
+Caller wanted to thank Futel for our service, and had successfully reached their lawyer.
 2018-11-01 16:16
 Caller asked for the number to Ride to Care. I supplied it and informed them that it was also in the directory.
+2018-11-18 11:54
+Caller informed me that the Ypsi phone was fixed and had a new handset.
 2018-11-22 20:00
 "I was wondering what this line was for." "You called the operator, do you need an operator?" "It depends on what this is for." "If you think of a reason, call back, maybe an operator can help you."
+2018-11-26 18:10
+Callers had questions about what Futel was about and why. I explained aspects of Futel’s ambitions for telephonic domination to several parties including impressionable youth.
 2018-11-29 10:09
 Caller talked about the Israeli army and hung up mid-sentence.
 2018-12-03 09:39
 Caller wanted to know who I was, I told them I was the operator. They didn't believe me at first.  They said they were having all kinds of problems with the phone, were trying to dial an 800 number.  I told them hang up & dial 1 for outside line, etc.
 2018-12-12 12:05
-Caller complaine that their cellphone has been bolted to the ground.
+Caller complained that their cellphone has been bolted to the ground.
 2018-12-12 20:00
 Caller asked for a residential number, which I was unable to provide.
 2018-12-13 17:02
-Caller asked for the number for Washingon County Probation and Parole, which I provided.
+Caller asked for the number for Washington County Probation and Parole, which I provided.
+2018-12-23 09:29
+Caller was seeking a nearby microwave to re-heat lunch. I informed caller that as a Portland resident I didn’t have access to that information. Caller was understanding and wished me a merry Christmas.
 2018-12-23 11:41
 Caller asked how to call Lance. I told them to hang up, enter 3 for the directory, and listen for his listing. Caller thanked me and hung up, after which I remembered that his listing was now "the Druid of Sissyphus Gardens".
