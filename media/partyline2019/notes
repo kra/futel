@@ -13,6 +13,7 @@ map: map.txt
 rant XXX
 
 longmont: longmont.txt
+	full page
 
 new phones: phones.txt
 
