@@ -1,4 +1,4 @@
-Seven operators logged over 82 calls in 2018, and as usual, they ranged from boring to exciting and amusing to annoying. Here is a sample of logged calls, with some sensitive and many less interesting examples removed.
+Seven operators logged over 83 calls in 2018, and as usual, they ranged from boring to exciting and amusing to annoying. Here is a sample of logged calls, with some sensitive and many less interesting examples removed.
 
 2018-01-08 15:36
 Caller wanted to make a call. I told them to hang up and dial 1.
@@ -152,3 +152,6 @@ Caller asked for the number for Washington County Probation and Parole, which I 
 Caller was seeking a nearby microwave to re-heat lunch. I informed caller that as a Portland resident I didn’t have access to that information. Caller was understanding and wished me a merry Christmas.
 2018-12-23 11:41
 Caller asked how to call Lance. I told them to hang up, enter 3 for the directory, and listen for his listing. Caller thanked me and hung up, after which I remembered that his listing was now "the Druid of Sissyphus Gardens".
+2018-12-30 13:56
+After I introduced myself, the caller said, "Hello, operator, my name is Chase, and I'm looking to speck with... you!" I waited for them to continue fulfilling their desire, but they hung up after 30 seconds. I called back, but the line was busy.
+
