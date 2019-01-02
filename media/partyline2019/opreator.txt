@@ -1,3 +1,5 @@
+XXX calls to be added
+
 Seven operators logged over 75 calls in 2018, and as usual, they ranged from boring to exciting and amusing to annoying. Here is a sample of logged calls, with some sensitive and many less interesting examples removed.
 
 2018-01-08 15:36
