@@ -7,4 +7,15 @@
 -- Futel staff brought the message to the people at Donut.js with "Futel: Telecommunications Colossus of the Modern Age", at Teardown: Portland 2018 with "Futel: A Technology So Advanced We Leave It Out On The Street All Night", with "Futel: The Payphone, Devolved" at The Circle Of HOPE, and with an interview on the Opposable Thumbs podcast.
 - Twilio.org Impact Corps Program grant
 -- Futel’s operations have received support from the Twilio.org Impact Corps program. Thanks!
-- continued service XXX add number of phones, stats
+- Most importantly, we continued to provide service to our eight phones and incoming line, including:
+12952 outgoing calls placed
+589 calls to the incoming line
+410 Church Of Robotron sermons played
+192 episodes of the Wildcard Line played
+144 attempts to use the Payphone Shotgun
+118 calls to the Futel Voice Conference
+86 calls to local mayors using their directory entries
+66 calls to the Druid of Sissyphus Gardens
+54 contributions to the Wildcard Line of various levels of intent
+
+
