@@ -4,7 +4,7 @@
 - Party Line #3 published
 -- Find back issues of Party Line at Microcosm Publishing.
 - Talks
--- Futel staff brought the message to the people at Donut.js with "Futel: Telecommunications Colossus of the Modern Age", at Teardown: Portland 2018 with "Futel: A Technology So Advanced We Leave It Out On The Street All Night", with "Futel: The Payphone, Devolved" at The Circle Of HOPE, and with an interview on the Opposable Thumbs podcast.
+-- Futel staff brought the message to the people at Donut.js with "Futel: Telecommunications Colossus of the Modern Age", at Teardown: Portland 2018 with "Futel: A Technology So Advanced We Leave It Out On The Street All Night", at The with "Futel: The Payphone, Devolved" at HOPE 12, and on the Opposable Thumbs podcast with an interview.
 - Twilio.org Impact Corps Program grant
 -- Futel’s operations have received support from the Twilio.org Impact Corps program. Thanks!
 - Most importantly, we continued to provide service to our eight phones and incoming line, including:
