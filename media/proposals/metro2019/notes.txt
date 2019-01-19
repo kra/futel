@@ -1,12 +1,19 @@
-1. Fiscal agent (if different than the lead organization)
+0. Title
+
+Working Title Sharita Towne's Black Spatial Imaginaries with Futel
+
+1. Fiscal agent (if mdifferent than the lead organization)
+
 Umbrella
 
 2. What is the community challenge or opportunity this project addresses? (*max. 1,000)
 
-- Provide artistic opportunities with radical accessibility
+Economic forces threaten Black presence and ownership of public space. Futel, as an organization deidcated to interactive communication projects with radical accessibility, will partner with Sharita Towne and several organizations to provide an opportunity to learn about, experience, and grow Black presence in several locations throughout Portland.
+
 - Provide communication and networking services
 - Address issues related to gentrification and urban development
 - Provide community history
+- Preserve the past and support the present
 
 3. List partner organizations that will be a part of making the project happen.
 
@@ -27,17 +34,13 @@ Umbrella
 
 4. What will you do? Describe your project. (*max. 2,500)
 
-Futel is an organization dedicated to the revitalization of the telephone as a public good. Our growing network combines salvaged phone booths with internet voice transmission, allowing for the custom programming of push-button menus and the integration of art projects such as poetry and interactive games. We have maintained a telephone at Right2Dream Too since 2015, and we have 5 free public payphones in Portland and one in Ypsilanti, Michigan.
+Futel will install two new public kiosks, and update our six existing kiosks, to provide an instance of the Black Spatial Imaginaries project with Sharita Towne. The kiosks will remain in operation for at least one year.
 
-- Partner artist will provide artistic contribution
--- name of partner artist and theme of contribution
-- Futel will install, maintain, and provision two new public installations.
-- Futel will provide development and operational support for partner artist
--- Futel will implement platform to realize artistic project
--- Futel will provide advice and guidance to help artist effectively use medium
-- Open Signal will provide production and other services and consulting?
+Futel's growing network combines salvaged phone booths with internet voice transmission, allowing for the custom programming of push-button menus and the integration of art projects such as poetry and interactive games. We have maintained a telephone at Right2Dream Too since 2015, and we have six free public payphones in Portland and one in Ypsilanti, Michigan. The integration of Black Spatial Imaginaries will augment Futel's existing interactive audio content.
 
-In addition, Futel will continue to maintain and provision our existing six public installations and public phone numbers, which can also be used to access these features.
+In addition to using our kiosks to site the project, Futel will provide development, operational support, and guidance to help Sharita Towne effectively use the medium of our installations.
+
+Open Signal will provide production, consulting, and other services.
 
 All installations will also provide existing Futel features, including free telephone and communication services and interactive audio art.
 
@@ -51,14 +54,11 @@ purposes only; the address does not need to be the exact location. Enter multipl
 
 6. How will communities of color be involved? Are there leadership roles for people of color? What about other historically marginalized communities? (*max. 1,500)
 
--
+As the creator of Black Spatial Imaginaries, which will be the primary focus of the two new installations, Sharita Towne will have artistic leadership over the project. In addition, Black Spatial Imaginaries involves and addresses the issues of communities of color.
 
 7. How will the project make people feel more connected to each other and the place(s) where it will happen? (*max 1,500) 
 
-- by giving neighbors a basic utility
-- by providing a platform for dialogue and storytelling
-- by helping neighbors tell their stories
-- by joining in the celebration of community histories
+In addition to supporting neighbors of our installations with a basic communications utility, Futel provides a platform for dialogue and storytelling. We hope to help people join in the celebration of community histories
 
 8. How do you think you'll be able to tell if the project had an impact? For instance, what would change? (*max 1,000) 
 
