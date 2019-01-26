@@ -17,20 +17,23 @@ Economic forces threaten Black presence and ownership of public space. Futel, as
 
 3. List partner organizations that will be a part of making the project happen.
 
-- Open Signal
--- public installation hosting
--- artist facilitation
--- production and other services and consulting?
-- Black Hat Books
--- public installation hosting
-- Twilio
--- donation of telecommunications services
-- TechSoup
--- provision of subsidized telecommunication services and equipment
-- Personal Telco Project
--- operational support and IT hardware
-- Umbrella
--- fiscal sponsor
+Open Signal
+Public installation hosting, artist facilitation, production and other services, and consulting.
+
+Black Hat Books
+Public installation hosting.
+
+Twilio
+Donated telecommunications services.
+
+TechSoup
+Subsidized telecommunication services and equipment.
+
+Personal Telco Project
+Operational support and IT hardware.
+
+Umbrella
+Fiscal sponsor.
 
 4. What will you do? Describe your project. (*max. 2,500)
 
@@ -88,14 +91,54 @@ N/A
 Budget
 
 Category Metro funds Other funds Total
+XXX "Other Funds" is very preliminary and covers what we don't get paid for
 
-Professional and artistic (creative) services $9000  $5000 $14000
+Professional and artistic (creative) services $9000  $5000 $15000
 Equipment materials and supplies              $3000  $2000 $5000
 Promotional costs and printing                $1000  $0    $1000
 Permitting and fees                           $0     $0    $0
 Indirect or overhead costs**                  $0     $2000 $2000
 Other (describe in budget narrative)          $7000  $0    $7000
-Total                                         $20000 $9000 $29000
+Total                                         $20000 $9000 $30000
+
+
+Budget Narrative
+
+Professional and artistic (creative) services
+Sharita Towne stipend $5000
+Futel creative stipend $5000
+Futel admin $20/hr x 50 $1000
+Futel design $20/hr x 50 $1000
+XXX Open Signal? Other stipend? $3000
+total $15000
+
+Equipment materials and supplies
+
+Payphones, enclosures, hardware x2 $2000
+IT equipment, hardware x2 $500
+XXX various materials? $2500
+total $5000
+
+Promotional costs and printing
+XXX various promotional? $1000
+total $1000
+
+Permitting and fees
+total $0
+
+Indirect overhead costs
+XXX gas money type expenses? $2000
+total $2000
+
+Other (describe in budget narrative)
+Umbrella Fee $2500?
+Network and cloud computing services $1000
+Maintenance and repair of public component $500
+XXX $3000
+total $7000
+
+
+
 
 Document uploads
 Documents Requested *
