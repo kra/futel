@@ -1,6 +1,6 @@
 0. Title
 
-Working Title Sharita Towne's Black Spatial Imaginaries with Futel
+Working Title Sidewalk Voices
 
 1. Fiscal agent (if mdifferent than the lead organization)
 
@@ -8,19 +8,16 @@ Umbrella
 
 2. What is the community challenge or opportunity this project addresses? (*max. 1,000)
 
-Economic forces threaten Black presence and ownership of public space. Futel, as an organization deidcated to interactive communication projects with radical accessibility, will partner with Sharita Towne and several organizations to provide an opportunity to learn about, experience, and grow Black presence in several locations throughout Portland.
+Economic forces threaten Black presence and ownership of public space. Futel, as an organization deidcated to interactive communication projects with radical accessibility, will partner with Sharita Towne, Open Signal, and the Alberta Abbey to provide an opportunity to learn about, experience, and grow Black presence at several locations throughout Portland.
 
-- Provide communication and networking services
-- Address issues related to gentrification and urban development
-- Provide community history
-- Preserve the past and support the present
+The artistic and practical goals of this project are to address issues related to gentrification and urban development, link locations to history, provide a mouthpiece for local voices , and provide communication and networking services.
 
 3. List partner organizations that will be a part of making the project happen.
 
 Open Signal
 Public installation hosting, artist facilitation, production and other services, and consulting.
 
-Black Hat Books
+Alberta Abbey
 Public installation hosting.
 
 Twilio
@@ -37,15 +34,17 @@ Fiscal sponsor.
 
 4. What will you do? Describe your project. (*max. 2,500)
 
-Futel will install two new public kiosks, and update our six existing kiosks, to provide an instance of the Black Spatial Imaginaries project with Sharita Towne. The kiosks will remain in operation for at least one year.
+Futel will install two or more new installations. These will use salvaged payphones and payphone enclosures and be accessible to the public at all hours.
 
-Futel's growing network combines salvaged phone booths with internet voice transmission, allowing for the custom programming of push-button menus and the integration of art projects such as poetry and interactive games. We have maintained a telephone at Right2Dream Too since 2015, and we have six free public payphones in Portland and one in Ypsilanti, Michigan. The integration of Black Spatial Imaginaries will augment Futel's existing interactive audio content.
+The installations will feature new interactive audio programs, curated by local artist Sharita Towne, which will feature local personalities talking about issues important to local Black presence and culture, both economic and cultural.
 
-In addition to using our kiosks to site the project, Futel will provide development, operational support, and guidance to help Sharita Towne effectively use the medium of our installations.
+Two installations will be installed on the exeriors of Open Signal and the Alberta Abbey. Up to two additional locations will be installed as they are identified.
 
-Open Signal will provide production, consulting, and other services.
+All installations will also be usable as free working public telephones, and will provide other features common to Futel installations, including voicemail, communication services, and interactive audio art.
 
-All installations will also provide existing Futel features, including free telephone and communication services and interactive audio art.
+In addition to using our kiosks to site the project, Futel will provide development, operational support, and guidance to help Sharita Towne effectively use the medium of our installations. Open Signal will provide production, consulting, and other services.
+
+Content developed for this project will also be available from Futel's exisiting public installations. Futel's growing network combines salvaged phone booths with internet voice transmission, allowing for the custom programming of push-button menus and the integration of art projects such as poetry and interactive games. We have maintained a telephone at Right2Dream Too since 2015, and we have six free public payphones in Portland and one in Ypsilanti, Michigan. The integration of Sidewalk Voices will augment Futel's existing interactive audio content.
 
 5. Where will the project happen? Is there anything you want to share about this place/these places? (*max 1,000)
 
@@ -53,22 +52,21 @@ IMPORTANT: Begin with an address, and use this format: 1234 NE Main Street, Your
 purposes only; the address does not need to be the exact location. Enter multiple addresses if applicable.)
 
 - Open Signal, 2766 NE Martin Luther King Jr Blvd, Portland, OR 97212
-- Black Hat Books, 2831 NE Martin Luther King Jr Blvd, Portland, OR 97212
+- Alberta Abbey, 126 NE Alberta St, Portland, OR 97211
 
 6. How will communities of color be involved? Are there leadership roles for people of color? What about other historically marginalized communities? (*max. 1,500)
 
-As the creator of Black Spatial Imaginaries, which will be the primary focus of the two new installations, Sharita Towne will have artistic leadership over the project. In addition, Black Spatial Imaginaries involves and addresses the issues of communities of color.
+As the curator of Sidewalk Voices, which will be the primary focus of the two new installations, Sharita Towne will have artistic leadership over the project. In addition, Sidewalk Voices will involve and address the issues of communities of color.
 
 7. How will the project make people feel more connected to each other and the place(s) where it will happen? (*max 1,500) 
 
-In addition to supporting neighbors of our installations with a basic communications utility, Futel provides a platform for dialogue and storytelling. We hope to help people join in the celebration of community histories
+In addition to supporting the neighbors of our installations with a basic communications utility, this project will provide a platform for dialogue and storytelling. We hope to help people join in the celebration of community histories
 
 8. How do you think you'll be able to tell if the project had an impact? For instance, what would change? (*max 1,000) 
 
-- metrics documenting use of features
-- participation in interactive features
-
 While Futel does not collect any personal information other than that supplied voluntarily by the users, we are able to collect data, allowing us to determine which locations and features are being utilized.
+
+The most important indicator of the project's impact will be participation in its interactive features. This will include commentary and other interaction collected from the phones themselves, and the level and enthusiasm of the commitment by local people in providing content, for example interviews and oral history.
 
 9. Each grant cycle, a number of shared themes emerge from community members' applications. Would you be interested in participating in a small group conversation with planners, decision-makers and other applicants? 
 
@@ -76,9 +74,11 @@ Yes.
 
 10. Is there anything else you want to share? (*max 1,500)
 
-Not so long ago, the phone booth was a common feature of our social landscape. But as privately-owned smartphones have become ubiquitous, public payphones have disappeared, along with their functionality and the sense of a shared utility. For the most vulnerable in our community, a telephone can be a lifeline, providing access to services, job opportunities and contact with family and friends.
+Futel believes in democratizing communication, applying a hacker spirit and a mix of old and new technology. We are excited to have found a way to continue to integrate local community voices with our program.
 
-Futel believes in democratizing communication, applying a hacker spirit and a mix of old and new technology. Inspired by models of DIY publishing and distribution such as zines, file sharing, and ham radio, we want our network to be useful for both making calls and making art. Podcasting, oral history and storytelling are a natural direction for our projects. Our network already provides audio art with public interactions, including our podcast Wildcard Line, which features contributions from users of public Futel phones.
+Inspired by models of DIY publishing and distribution such as zines, file sharing, and ham radio, we want our network to be useful for both making calls and making art. Podcasting, oral history and storytelling are a natural direction for our projects. Our network already provides audio art with public interactions, including our podcast Wildcard Line, which features contributions from users of public Futel phones.
+
+Not so long ago, the phone booth was a common feature of our social landscape. But as privately-owned smartphones have become ubiquitous, public payphones have disappeared, along with their functionality and the sense of a shared utility. For the most vulnerable in our community, a telephone can be a lifeline, providing access to services, job opportunities and contact with family and friends.
 
 9. How can your project help people in the Southwest Corridor be ready to play a role in how this area will grow
 and change in the coming years? (*max 1,500)
@@ -91,54 +91,57 @@ N/A
 Budget
 
 Category Metro funds Other funds Total
-XXX "Other Funds" is very preliminary and covers what we don't get paid for
 
-Professional and artistic (creative) services $9000  $5000 $15000
-Equipment materials and supplies              $3000  $2000 $5000
-Promotional costs and printing                $1000  $0    $1000
-Permitting and fees                           $0     $0    $0
-Indirect or overhead costs**                  $0     $2000 $2000
-Other (describe in budget narrative)          $7000  $0    $7000
-Total                                         $20000 $9000 $30000
-
+Professional and artistic (creative) services $
+Equipment materials and supplies              $
+Promotional costs and printing                $
+Permitting and fees                           $
+Indirect or overhead costs**                  $
+Other (describe in budget narrative)          $
+Total                                         $
 
 Budget Narrative
 
 Professional and artistic (creative) services
+
+Metro funds
 Sharita Towne stipend $5000
 Futel creative stipend $5000
-Futel admin $20/hr x 50 $1000
-Futel design $20/hr x 50 $1000
-XXX Open Signal? Other stipend? $3000
-total $15000
+Creative contributor stipends x4 $400
+Futel admin wages $20/hr x 50 $1000
+Futel designer wages $20/hr x 10 $200
+Futel community development director stipend $5000
+Metro total $16600
+Other Funds (volunteer)
+Futel software development and ops $100/hr x 50 $5000
+Grant writer $500
+Other total $5500
 
 Equipment materials and supplies
-
-Payphones, enclosures, hardware x2 $2000
-IT equipment, hardware x2 $500
-XXX various materials? $2500
-total $5000
+Payphones, enclosures, hardware for 4 installations $4000
+IT equipment, hardware for 4 installations $1000
+Metro total $5000
 
 Promotional costs and printing
-XXX various promotional? $1000
-total $1000
+Flyers, booklets $1000
+Metro total $1000
 
 Permitting and fees
-total $0
+Permits for 4 installations $2000
+Metro total $2000
 
 Indirect overhead costs
-XXX gas money type expenses? $2000
-total $2000
+Network and cloud computing services $1000
+Metro total $1000
 
 Other (describe in budget narrative)
-Umbrella Fee $2500?
-Network and cloud computing services $1000
-Maintenance and repair of public component $500
-XXX $3000
-total $7000
+Umbrella fiscal sponsorship $2900
+Installation labor for 4 installations $20/hr x 64 $1280
+Metro total $4180
 
-
-
+Metro total $29780
+Other total $5500
+Total $35280
 
 Document uploads
 Documents Requested *
