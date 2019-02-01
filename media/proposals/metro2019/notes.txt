@@ -2,13 +2,13 @@
 
 Working Title Sidewalk Voices
 
-1. Fiscal agent (if mdifferent than the lead organization)
+1. Fiscal agent (if different than the lead organization)
 
 Umbrella
 
 2. What is the community challenge or opportunity this project addresses? (*max. 1,000)
 
-Economic forces threaten Black presence and ownership of public space. Futel, as an organization deidcated to interactive communication projects with radical accessibility, will partner with Sharita Towne, Open Signal, and the Alberta Abbey to provide an opportunity to learn about, experience, and grow Black presence at several locations throughout Portland.
+Economic forces threaten Black presence and ownership of public space. Futel, as an organization dedicated to interactive communication projects with radical accessibility, will partner with Sharita Towne, Open Signal, and the Alberta Abbey to provide an opportunity to learn about, experience, and grow Black presence at several locations throughout Portland.
 
 The artistic and practical goals of this project are to address issues related to gentrification and urban development, link locations to history, provide a mouthpiece for local voices , and provide communication and networking services.
 
@@ -38,13 +38,13 @@ Futel will install two or more new installations. These will use salvaged paypho
 
 The installations will feature new interactive audio programs, curated by local artist Sharita Towne, which will feature local personalities talking about issues important to local Black presence and culture, both economic and cultural.
 
-Two installations will be installed on the exeriors of Open Signal and the Alberta Abbey. Up to two additional locations will be installed as they are identified.
+Two installations will be installed on the exteriors of Open Signal and the Alberta Abbey. Up to two additional locations will be installed as they are identified.
 
 All installations will also be usable as free working public telephones, and will provide other features common to Futel installations, including voicemail, communication services, and interactive audio art.
 
 In addition to using our kiosks to site the project, Futel will provide development, operational support, and guidance to help Sharita Towne effectively use the medium of our installations. Open Signal will provide production, consulting, and other services.
 
-Content developed for this project will also be available from Futel's exisiting public installations. Futel's growing network combines salvaged phone booths with internet voice transmission, allowing for the custom programming of push-button menus and the integration of art projects such as poetry and interactive games. We have maintained a telephone at Right2Dream Too since 2015, and we have six free public payphones in Portland and one in Ypsilanti, Michigan. The integration of Sidewalk Voices will augment Futel's existing interactive audio content.
+Content developed for this project will also be available from Futel's existing public installations. Futel's growing network combines salvaged phone booths with internet voice transmission, allowing for the custom programming of push-button menus and the integration of art projects such as poetry and interactive games. We have maintained a telephone at Right2Dream Too since 2015, and we have six free public payphones in Portland and one in Ypsilanti, Michigan. The integration of Sidewalk Voices will augment Futel's existing interactive audio content.
 
 5. Where will the project happen? Is there anything you want to share about this place/these places? (*max 1,000)
 
@@ -149,9 +149,8 @@ At least two letters of support by active partners
 
 - Open Signal letter of support
 - Open Signal permission to use property
-- Black Hat letter of support
-- Black Hat permission to use property
+- Alberta Abbey letter of support
+- Alberta Abbey permission to use property
 - Umbrella letter of support
 - PTP letter of support
-
 - Umbrella IRS determination letter
