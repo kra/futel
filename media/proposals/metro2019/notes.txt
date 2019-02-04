@@ -8,43 +8,46 @@ Umbrella
 
 2. What is the community challenge or opportunity this project addresses? (*max. 1,000)
 
-Economic forces threaten Black presence and ownership of public space. Futel, as an organization dedicated to interactive communication projects with radical accessibility, will partner with Sharita Towne, Open Signal, and the Alberta Abbey to provide an opportunity to learn about, experience, and grow Black presence at several locations throughout Portland.
+Gentrification and other economic urban forces have scattered neighborhoods and displaced communities in Portland for decades. Some of these forces involve the targeted commodification of community-oriented goods and privileges, such as transportation options and social spaces. We seek to strengthen one aspect of community-oriented public space by reintroducing an interactive public kiosk that was once common - the payphone booth.
 
-The artistic and practical goals of this project are to address issues related to gentrification and urban development, link locations to history, provide a mouthpiece for local voices , and provide communication and networking services.
+The artistic and practical goals of this project are to address issues related to gentrification and urban development, link locations to history, provide a mouthpiece for local voices , and provide free public communication and networking services.
 
 3. List partner organizations that will be a part of making the project happen.
 
 Open Signal
-Public installation hosting, artist facilitation, production and other services, and consulting.
+Open Signal will host an installation for the duration of the project. Open Signal is a community-driven media arts center in Portland.
 
 Alberta Abbey
-Public installation hosting.
+Open Signal will host an installation for the duration of the project. Alberta Abbey is an
+affordable arts space in Portland, offering below-market workspaces, affordable event rental spaces, and programming.
 
-Twilio
-Donated telecommunications services.
+Twilio.org Impact Access Program
+Twilio.org Impact Access Program donated telecommunications services which will be used by the project. Twilio.org Impact Access Program provides services and support to social enterprises.
 
 TechSoup
-Subsidized telecommunication services and equipment.
+TechSoup has provided subsidized telecommunication services and equipment which will be used by the project. TechSoup equips social enterprises with technology solutions and skills.
 
 Personal Telco Project
-Operational support and IT hardware.
+Personal Telco Project will provide operational support and IT hardware. Personal Telco Project builds shared community networks and provides technology education.
 
 Umbrella
-Fiscal sponsor.
+Umbrella is the fiscal sponsor. Umbrella supports street-based culture by providing fiscal sponsorship, bookkeeping, insurance, and guidance to transportation, art, and activist projects.
 
 4. What will you do? Describe your project. (*max. 2,500)
 
-Futel will install two or more new installations. These will use salvaged payphones and payphone enclosures and be accessible to the public at all hours.
+Futel will install two or more new public installations. These will use salvaged payphones and payphone enclosures and be accessible to anyone, at all hours.
 
-The installations will feature new interactive audio programs, curated by local artist Sharita Towne, which will feature local personalities talking about issues important to local Black presence and culture, both economic and cultural.
+The installations will feature new interactive audio programs which will allow users of these installations, as well as contributors from other public Futel phone locations, to communicate about issues important to local presence and culture, both economic and cultural.
 
-Two installations will be installed on the exteriors of Open Signal and the Alberta Abbey. Up to two additional locations will be installed as they are identified.
+Sharita Towne has signed into the project as a community liason, artist, and facilitator, to invite thoughtful participation from Black community members she's worked with for years.
+
+Two installations will be installed on the exteriors of Open Signal and the Alberta Abbey. Up to two additional locations will be installed as they are identified by a community development director, supported by grant funds.
 
 All installations will also be usable as free working public telephones, and will provide other features common to Futel installations, including voicemail, communication services, and interactive audio art.
 
-In addition to using our kiosks to site the project, Futel will provide development, operational support, and guidance to help Sharita Towne effectively use the medium of our installations. Open Signal will provide production, consulting, and other services.
+In addition to using our kiosks to site the project, Futel and contributors will provide development, operational support, and guidance to help contributors effectively use the medium of our installations, with development, production and creative consulting services.
 
-Content developed for this project will also be available from Futel's existing public installations. Futel's growing network combines salvaged phone booths with internet voice transmission, allowing for the custom programming of push-button menus and the integration of art projects such as poetry and interactive games. We have maintained a telephone at Right2Dream Too since 2015, and we have six free public payphones in Portland and one in Ypsilanti, Michigan. The integration of Sidewalk Voices will augment Futel's existing interactive audio content.
+Content developed for this project will also be distributed through other media, including Futel's website, publications, and existing public installations. 
 
 5. Where will the project happen? Is there anything you want to share about this place/these places? (*max 1,000)
 
@@ -52,15 +55,19 @@ IMPORTANT: Begin with an address, and use this format: 1234 NE Main Street, Your
 purposes only; the address does not need to be the exact location. Enter multiple addresses if applicable.)
 
 - Open Signal, 2766 NE Martin Luther King Jr Blvd, Portland, OR 97212
+Open Signal is a community-driven media arts center in Portland.
 - Alberta Abbey, 126 NE Alberta St, Portland, OR 97211
+Alberta Abbey is an affordable arts space in Portland, offering below-market workspaces, affordable event rental spaces, and programming.
+
+Up to two additional locations will be installed as they are identified.
 
 6. How will communities of color be involved? Are there leadership roles for people of color? What about other historically marginalized communities? (*max. 1,500)
 
-As the curator of Sidewalk Voices, which will be the primary focus of the two new installations, Sharita Towne will have artistic leadership over the project. In addition, Sidewalk Voices will involve and address the issues of communities of color.
+The intent of the program is to provide a platform for users from the communities where the installations are located. In her role as facilitator and community liason, Sharita Towne will recruit curators and contributors, paid with stipends funded from the grant to enable involvement.
 
 7. How will the project make people feel more connected to each other and the place(s) where it will happen? (*max 1,500) 
 
-In addition to supporting the neighbors of our installations with a basic communications utility, this project will provide a platform for dialogue and storytelling. We hope to help people join in the celebration of community histories
+In addition to supporting the neighbors of our installations with a basic communications utility, this project will provide a platform for dialogue and storytelling.
 
 8. How do you think you'll be able to tell if the project had an impact? For instance, what would change? (*max 1,000) 
 
@@ -80,10 +87,8 @@ Inspired by models of DIY publishing and distribution such as zines, file sharin
 
 Not so long ago, the phone booth was a common feature of our social landscape. But as privately-owned smartphones have become ubiquitous, public payphones have disappeared, along with their functionality and the sense of a shared utility. For the most vulnerable in our community, a telephone can be a lifeline, providing access to services, job opportunities and contact with family and friends.
 
-9. How can your project help people in the Southwest Corridor be ready to play a role in how this area will grow
-and change in the coming years? (*max 1,500)
-Write "N/A" in the box below if your project is not within or related to the target area. (You will not be able to successfully
-submit your application with the box left blank.)
+9. How can your project help people in the Southwest Corridor be ready to play a role in how this area will grow and change in the coming years? (*max 1,500)
+Write "N/A" in the box below if your project is not within or related to the target area. (You will not be able to successfully submit your application with the box left blank.)
 
 N/A
 
@@ -105,17 +110,18 @@ Budget Narrative
 Professional and artistic (creative) services
 
 Metro funds
-Sharita Towne stipend $5000
-Futel creative stipend $5000
-Creative contributor stipends x4 $400
-Futel admin wages $20/hr x 50 $1000
-Futel designer wages $20/hr x 10 $200
-Futel community development director stipend $5000
-Metro total $16600
+Community curator stipend $2000
+Futel creative stipend $1000
+Creative contributor stipends $100 x 4 $400
+Futel network admin wages $20/hr x 25 $500
+Designer wages $20/hr x 5 $100
+Community development director stipend $2000
+Metro total $6000
 Other Funds (volunteer)
-Futel software development and ops $100/hr x 50 $5000
+Futel network admin wages $20/hr x 25 $500
+Software development and ops $100/hr x 50 $5000
 Grant writer $500
-Other total $5500
+Other total $6000
 
 Equipment materials and supplies
 Payphones, enclosures, hardware for 4 installations $4000
@@ -123,8 +129,8 @@ IT equipment, hardware for 4 installations $1000
 Metro total $5000
 
 Promotional costs and printing
-Flyers, booklets $1000
-Metro total $1000
+Flyers, booklets $500
+Metro total $500
 
 Permitting and fees
 Permits for 4 installations $2000
@@ -135,22 +141,27 @@ Network and cloud computing services $1000
 Metro total $1000
 
 Other (describe in budget narrative)
-Umbrella fiscal sponsorship $2900
-Installation labor for 4 installations $20/hr x 64 $1280
-Metro total $4180
+Umbrella fiscal sponsorship $2500
+Installation labor for 4 installations $20/hr x 32 $640
+Metro total $3140
+Other funds (volunteer)
+Installation labor for 4 installations $20/hr x 32 $640
+Other total $640
 
-Metro total $29780
-Other total $5500
-Total $35280
+Metro total $17640
+Other total $6000
+Total $
 
 Document uploads
 Documents Requested *
 At least two letters of support by active partners
 
-- Open Signal letter of support
-- Open Signal permission to use property
-- Alberta Abbey letter of support
-- Alberta Abbey permission to use property
-- Umbrella letter of support
-- PTP letter of support
-- Umbrella IRS determination letter
+Sharita Towne letter of support
+Open Signal letter of support
+Open Signal permission to use property
+Alberta Abbey letter of support
+Alberta Abbey permission to use property
+Umbrella letter of support
+PTP letter of support
+Umbrella IRS determination letter
+
