@@ -10,9 +10,9 @@ Social Practice
 Project Summary
 Futel will install one new public installation. This will use salvaged payphones and payphone enclosures and be accessible to anyone, at all hours.
 
-The installation will feature new interactive audio programs which will allow users of these installations, as well as contributors from other public Futel phone locations, to communicate about issues important to local presence and culture, both economic and cultural.
+The installation will showcase a new interactive audio program which will feature and amplify local community voices, as well as allow users of this installation and other public Futel phone locations to communicate about issues important to local presence and culture, both economic and cultural.
 
-In addition to using the kiosk to site the project, Futel and contributors will provide development, operational support, and guidance to help contributors effectively use the medium of our installations, with development, production and creative consulting services.
+Futel and collaborators will provide operational, development, and creative support to allow contributors to effectively use the medium of our installations.
 
 Content developed for this project will also be distributed through other media, including Futel's website, publications, and existing public installations. 
 
@@ -24,7 +24,10 @@ Open Signal, 2766 NE Martin Luther King Jr Blvd
 Open Signal is a community-driven media arts center.
 
 4. Who are the key artists, collaborators, and/or community partners? *
-TBD
+
+Open Signal will host the installation, facilitate community contributions and support, and provide production assistance.
+
+Open Signal is a media arts center in Portland, Oregon building upon the 35-year legacy of Portland Community Media. Open Signal carries a new vision for community-driven media focused on creativity, technology and social change.
 
 Start Date of your Project: *
 07/01/2019
@@ -52,8 +55,8 @@ Public kiosk remains installed through this date.
 500
 
 7. What is the total projected budget for the project? *
-7000
+6000
 
 8. What amount of funding would you like to request from RACC? *
-7000
+6000
 
