@@ -1,0 +1,83 @@
+Cash Expenses
+Please list all CASH expenses related to your proposal.
+
+Artistic Expenses
+Please be sure to provide a breakout of artistic and technical fees in the description box. For example "4 dancer stipends @ $200 each" or "Stage Manager 20 hrs @ $20 per hr."
+  	Description 	Amount
+Artistic Fees: 		$
+Tech Design Fees: 		$
+Supplies/Materials: 		$
+Lodging/Transport: 		$
+Other Artistic: 		$
+Total 		0
+
+Administrative Expenses
+Please be sure to provide a breakout of administrative fees in the description box. For example, "Project Manager Stipend @ $500" or "Applicant administrative costs @ $200".
+  	Description 	Amount
+Admin Fees: 		$
+Equipment Rental 		$
+Space Rental: 		$
+ADA Accommodations: 		$
+Other Admin: 		$
+Total 		0
+
+Promotion Expenses
+  	Description 	Amount
+Printing: 		$
+Postage: 		$
+Marketing: 		$
+Design: 		$
+Other Promotion Costs: 		$
+Total 		0
+TOTAL PROJECT EXPENSES 
+
+
+
+Project Revenue
+
+Cash Contributions
+Please list all CASH contribution related to your proposal. There is an additional question below to describe in-kind or donated support for your project. Please specify sources of contributions and mark whether projected or confirmed. A variety of funding sources and confirmed contributions will make your application more competitive.
+  	Description 	Amount 	Projected or Confirmed?
+Ticket Sales (# and price): 		$
+	
+Class/Workshop Fees: 		$
+	
+Merchandising/Sales: 		$
+	
+Government: 		$
+	
+Business/Corporate: 		$
+	
+Applicant: 		$
+	
+Individuals: 		$
+	
+Fundraisers: 		$
+	
+Other Cash: 		$
+	
+Foundations: 		$
+	
+Total 		0 	
+TOTAL PROJECT REVENUE 
+
+
+
+Please describe any other goods, services, or time that will be donated to the project (for example, donated supplies, volunteer time, in-kind donations, etc.) *
+
+open signal:
+admin time - details?
+grant writing assistance
+installation of sidewalk phone
+installation and setup of IT network and hardware to support sidewalk phone
+marketing and design help - details?
+artist and other collaborator search assistance
+other artist relationship facilitation?
+audio production assistance? facilities?
+
+
+
+ Please use this space to provide any additional budget information if necessary. This could include details about proposed vendors, break out of fee calculations, history of proposed funding support, fundraiser plan details, or more full descriptions of line items above.
+
+
+ If awarded, what difference would the RACC grant funds make in your project? * 
