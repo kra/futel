@@ -1,83 +1,75 @@
 Cash Expenses
-Please list all CASH expenses related to your proposal.
 
 Artistic Expenses
-Please be sure to provide a breakout of artistic and technical fees in the description box. For example "4 dancer stipends @ $200 each" or "Stage Manager 20 hrs @ $20 per hr."
-  	Description 	Amount
-Artistic Fees: 		$
-Tech Design Fees: 		$
-Supplies/Materials: 		$
+Artistic Fees: 		$2000
+  project artist $500x3, futel artist $500
+Tech Design Fees: 		$500
+  software engineer and operations, 20 hours at at $25/hr
+Supplies/Materials: 		$1000
+  payphone, enclosure, hardware
 Lodging/Transport: 		$
 Other Artistic: 		$
-Total 		0
+Total 		$3500
 
 Administrative Expenses
-Please be sure to provide a breakout of administrative fees in the description box. For example, "Project Manager Stipend @ $500" or "Applicant administrative costs @ $200".
-  	Description 	Amount
-Admin Fees: 		$
-Equipment Rental 		$
+Admin Fees: 		$100
+  futel grant writer
+Equipment Rental 		$670
+ 1 year virtual computer service from Digital Ocean at $12.50/mo
+ 1 year DNS (domain name) service from Namecheap totalling $20
+ 1 year VOIP (wholesale internet phone service) from Twilio totalling $500
 Space Rental: 		$
 ADA Accommodations: 		$
-Other Admin: 		$
-Total 		0
+Other Admin: 		$600
+ 501c3 fiscal sponsor
+Total 		$1370
 
 Promotion Expenses
-  	Description 	Amount
 Printing: 		$
 Postage: 		$
 Marketing: 		$
 Design: 		$
 Other Promotion Costs: 		$
 Total 		0
-TOTAL PROJECT EXPENSES 
 
+TOTAL PROJECT EXPENSES $4870
 
 
 Project Revenue
 
 Cash Contributions
-Please list all CASH contribution related to your proposal. There is an additional question below to describe in-kind or donated support for your project. Please specify sources of contributions and mark whether projected or confirmed. A variety of funding sources and confirmed contributions will make your application more competitive.
-  	Description 	Amount 	Projected or Confirmed?
 Ticket Sales (# and price): 		$
-	
 Class/Workshop Fees: 		$
-	
 Merchandising/Sales: 		$
-	
 Government: 		$
-	
 Business/Corporate: 		$
-	
 Applicant: 		$
-	
 Individuals: 		$
-	
 Fundraisers: 		$
-	
 Other Cash: 		$
-	
 Foundations: 		$
-	
 Total 		0 	
-TOTAL PROJECT REVENUE 
-
+TOTAL PROJECT REVENUE $0
 
 
 Please describe any other goods, services, or time that will be donated to the project (for example, donated supplies, volunteer time, in-kind donations, etc.) *
 
-open signal:
-admin time - details?
-grant writing assistance
-installation of sidewalk phone
+Open Signal will donate:
+installation labor of sidewalk phone
 installation and setup of IT network and hardware to support sidewalk phone
-marketing and design help - details?
+marketing and design help
 artist and other collaborator search assistance
 other artist relationship facilitation?
-audio production assistance? facilities?
+audio production assistance and production support
+audio production facilities and equipment usage
+
+Futel will donate:
+software engineer and operations, approx. 20 hours
+design and other user experience support, approx. 10 hours
+admin support, approx. 100 hours
+
+Please use this space to provide any additional budget information if necessary. This could include details about proposed vendors, break out of fee calculations, history of proposed funding support, fundraiser plan details, or more full descriptions of line items above.
 
 
-
- Please use this space to provide any additional budget information if necessary. This could include details about proposed vendors, break out of fee calculations, history of proposed funding support, fundraiser plan details, or more full descriptions of line items above.
-
-
- If awarded, what difference would the RACC grant funds make in your project? * 
+If awarded, what difference would the RACC grant funds make in your project?
+Funding is necessary for the viability of this project. Without RACC grant funds, the project will be delayed unti another funding source can be found.
