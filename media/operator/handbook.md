@@ -11,7 +11,9 @@ Operator calls and messages will arrive with the CallerID number of the phone th
 - SE Taylor St: 503-926-6271
 - NE Ainsworth St: 503-444-9412
 - NE Killingsworth Alley: 503-928-8465
-- Pearl St, Ypsilanti: 734-547-6651
+- NE Killingsworth St: 503-926-6341
+- Pearl St, Ypsilanti, MI: 734-547-6651
+- Souwester Lodge, J Pl, Seaview, WA: 360-228-2259
 
 Calls may arrive with the CallerID of a nonpublic Futel number. Feel free to respond to any call with an operator menu, but be sure to ask for the caller's location if needed. On rare occasions, glitches and psychic resonance may cause unexpected connections to be formed with your device and with other tools you use to communicate, so operate with care.
 
