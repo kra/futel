@@ -1,0 +1,11 @@
+phone $250
+pedestal or enclosure $300
+IT equipment $50
+Misc hardware $100
+Misc IT hardware $100
+Service $100
+Misc incidental costs $100
+Installation, maintenance, admin labor $300
+Administration $200
+Total $1500
+Note this includes donated power and internet.
