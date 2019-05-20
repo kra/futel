@@ -26,7 +26,7 @@ Answer an operator call with an introduction which indicates your ability, such 
 
 # Operator Duties
 
-Operator duties will vary, but can generally be expected to require qualities such as attention, web access, a willingness to help, and a basic knowledge of the services provided by the calling Futel phone. The level and nature of the operator assistance provided is at the discretion of the operator, but an appropriate effort should be made.
+Operator duties will vary, but can generally be expected to require qualities such as attention, web access, a willingness to help, and a basic knowledge of the services provided by the calling Futel phone. The level and nature of the operator assistance provided is at the discretion of the operator, but an appropriate effort should be made. The capabities of a Fuel phone can be experienced from the outgoing menu sampler in the admin area of the incoming line. Contact your handler for access.
 
 Operator calls should be promptly entered in the operator log. There are several ways to do this, including sending an email to your handler or editing the log in the repository with the web interface. Carrying a notepad is recommended, the pages of which can be entered when convenient, or just mailed to your handler. Logs are an important tool for monitoring and improving our service.
 
