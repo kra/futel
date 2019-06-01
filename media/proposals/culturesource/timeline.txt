@@ -1,14 +1,14 @@
-08/2019:
+draft timeline
+this is probably much too detailed
+
+
+XX/2019:
 Content, production details identified. Technical support implemented.
-09/2019:
+XX/2019:
 Public kiosk installed with basic functionality.
-10/2019:
+XX/2019:
 Key contributors and facilitators confirmed.
-03/2020:
-First iteration of content available.
-06/2020:
-Second iteration of content available.
-09/2020:
-Third iteration of content available.
-12/2020:
+XX/2020:
+New content available.
+XX/2020:
 Public kiosk remains installed through this date.
