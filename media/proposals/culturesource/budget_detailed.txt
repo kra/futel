@@ -1,0 +1,70 @@
+Cash Expenses
+
+Artistic Expenses
+Artistic Fees: 		$2000
+  project artist $500x3, futel artist $500
+Tech Design Fees: 		$500
+  software engineer and operations, 20 hours at at $25/hr
+Supplies/Materials: 		$1000
+  payphone, enclosure, hardware
+Lodging/Transport: 		$
+Other Artistic: 		$
+Total 		$3500
+
+Administrative Expenses
+Admin Fees: 		$700
+  futel grant writer $100
+  other admin costs $600
+Equipment Rental 		$670
+ 1 year virtual computer service from Digital Ocean at $12.50/mo
+ 1 year DNS (domain name) service from Namecheap totalling $20
+ 1 year VOIP (wholesale internet phone service) from Twilio totalling $500
+Space Rental: 		$
+ADA Accommodations: 		$
+Other Admin: 		$600
+ 501c3 fiscal sponsor
+Total 		$1370
+
+Promotion Expenses
+Printing: 		$
+Postage: 		$
+Marketing: 		$
+Design: 		$
+Other Promotion Costs: 		$
+Total 		0
+
+TOTAL PROJECT EXPENSES $4870
+
+
+Project Revenue
+
+Cash Contributions
+Ticket Sales (# and price): 		$
+Class/Workshop Fees: 		$
+Merchandising/Sales: 		$
+Government: 		$
+Business/Corporate: 		$
+Applicant: 		$
+Individuals: 		$
+Fundraisers: 		$
+Other Cash: 		$
+Foundations: 		$
+Total 		0 	
+TOTAL PROJECT REVENUE $0
+
+
+Please describe any other goods, services, or time that will be donated to the project (for example, donated supplies, volunteer time, in-kind donations, etc.) *
+
+Open Signal will donate:
+installation labor of sidewalk phone
+installation and setup of IT network and hardware to support sidewalk phone
+marketing and design help
+artist and other collaborator search assistance
+other artist relationship facilitation?
+audio production assistance and production support
+audio production facilities and equipment usage
+
+Futel will donate:
+software engineer and operations, approx. 20 hours
+design and other user experience support, approx. 10 hours
+admin support, approx. 100 hours
