@@ -17,7 +17,7 @@ None
 
 Name of your project
 
-The Bagley Street Futel Phone: Direct Line To Corktown
+The Bagley Street Phone: Direct Line To Corktown
 
 Ten word description of your project
 
