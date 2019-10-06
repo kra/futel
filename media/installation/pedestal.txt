@@ -1,0 +1,53 @@
+Install pedestal with buried line
+
+Note: omit electric conduit, cable, and related fittings for pedestal without lamp.
+
+3/4" schedule 40 pvc conduit, elbows, fittings, etc.
+pvc cement
+exterior grade RJ11 cable
+RJ11 jack x2
+exterior grade 14 gauge/15 amp electrical cable
+electrical socket
+electrical plug
+thin cheap nylon or polypropylene rope
+concrete mix
+gravel
+rebar
+baling wire or zipties
+optional 2x4s
+
+shovel, trowel
+wire clippers
+3/8 inch? Titen concrete anchors
+washers
+1/2 to 9/16 inch hammer drill bit
+hammer drill
+9/16 inch socket, ratchet
+mixing saucer
+tamper
+wire strippers
+screwdrivers
+mallet or hammer
+
+Trench between data center and pedestal.
+
+Dig and square pedestal base hole approx 3 feet square, 8-12 inches deep.
+Optionally frame hole with 2x4s
+Pour gravel into hole, tamp to 4-6 inches space remaining.
+Assemble rebar into simple space filling grid.
+Press grid into gravel to one inch or more below ground level, don't block where you will be drilling!
+Mix, pour, tamp concrete to ground level, cure.
+
+Mark bolt locations in base.
+Drill, clean bolt holes.
+Assemble pedestal to base with concrete anchors, washers.
+Level pedestal with attached leveling bolts, if so equipped.
+
+Loosely assemble conduit in place with rope and RJ11 threaded and entering pedestal and data center.
+Loosely assemble conduit in place with rope and electric cable threaded and entering pedestal and data center.
+Tighten and cement all conduit joins.
+Fill trench.
+Tie washers or other anti-loss devices to rope ends.
+Wire RJ11 to jack in pedestal and data center.
+Wire electrical cable to plug in data center.
+Wire electrical cable to socket in pedestal, if so equipped, or to free socket.
