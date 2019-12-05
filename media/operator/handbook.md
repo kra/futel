@@ -17,7 +17,7 @@ Operator calls and messages will arrive with the CallerID number of the phone th
 - Souwester Lodge, J Pl, Seaview, WA: 360-228-2259
 - NE 8th Ave S of Prescott, W side of street: 503-926-6188
 - Upright Brewing, 240 N Broadway: 503-468-1337 (IDs as incoming line)
-- 23rd just S of Breckenridge St, E side of street, Detroit, MI: 503-468-1337 (IDs as incoming line)
+- 23rd just S of Breckenridge St, E side of street, Detroit, MI: 313-246-9283
 - Right To Dream Too, 999 N Thunderbird Way: (IDs as nonpublic number)
 
 Calls may arrive with the CallerID of a nonpublic Futel number. Feel free to respond to any call with an operator menu, but be sure to ask for the caller's location if needed. On rare occasions, glitches and psychic resonance may cause unexpected connections to be formed with your device and with other tools you use to communicate, so operate with care.
