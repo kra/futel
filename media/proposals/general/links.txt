@@ -1,87 +1,86 @@
-Karl Anderson. "Futel: the future of the past of telephony", Open Source Bridge presentation. June 5, 2014
+"Futel: the future of the past of telephony", Open Source Bridge presentation, June 5, 2014
 http://opensourcebridge.org/sessions/1322
 (archive: https://web.archive.org/web/20170717014710/http://opensourcebridge.org/sessions/1322)
 Video: https://www.youtube.com/watch?v=2Da7MDvRjYo
 (archive: https://archive.org/details/futel_the_future_of_the_past_of_telephony)
 
-Wentz-Graff, Kristyne. "Futel's payphone service; providing phone calls for free." Oregonlive, Oregonian, April 5, 2015.
+"Futel's payphone service; providing phone calls for free." Oregonian Oregonlive article, April 5, 2015
 https://www.oregonlive.com/multimedia/2015/04/futels_free_phone_service_give.html
 (archive: https://web.archive.org/web/20191231222104/https://www.oregonlive.com/multimedia/2015/04/futels_free_phone_service_give.html)
-[note: archive page is poor quality]
 
-Karl Anderson. Video. "FUTEL: THE TELEPHONE OF THE FUTURE, TODAY!" Curiosity Club presentation, April 7, 2015
+"FUTEL: THE TELEPHONE OF THE FUTURE, TODAY!", Curiosity Club presentation, April 7, 2015
 https://www.youtube.com/watch?v=Jw5OtRhOwO0
 (archive: https://archive.org/details/futel_the_telephone_of_the_future_today)
 
-Davidson, Kate. "Old Hardware, New Twist. The No-Pay Phone." OBP, June 17, 2015.
+"Old Hardware, New Twist. The No-Pay Phone." OBP article, June 17, 2015.
 https://www.opb.org/news/article/old-hardware-a-new-twist-the-no-pay-phone/
 (archive: https://web.archive.org/web/20191231222253/https://www.opb.org/news/article/old-hardware-a-new-twist-the-no-pay-phone/)
 
-Rita A. Leonard. "'Futel' offers free public phones for the needy". January 27, 2017
+"'Futel' offers free public phones for the needy", Bee article, January 27, 2017
 https://pamplinmedia.com/sb/74-news/341855-220736-futel-offers-free-public-phones-for-the-needy-
 (archive: https://web.archive.org/web/20191231215235/https://pamplinmedia.com/sb/74-news/341855-220736-futel-offers-free-public-phones-for-the-needy-)
 
-Karl Anderson. Video presentation. "Futel: The Network We Deserve". June 21, 2017
+"Futel: The Network We Deserve", Open Source Bridge presentation, June 21, 2017
 http://www.opensourcebridge.org/sessions/1991
 (archive: https://web.archive.org/web/20190429082949/http://www.opensourcebridge.org/sessions/1991)
 
-Video of DonutJS presentation, February 27, 2018
+"Futel: Telecommunications colossus of the modern age", DonutJS presentation, February 27, 2018
 https://www.youtube.com/watch?v=wRh18Sqahhg
 (archive: https://archive.org/details/futel_telecommunications_colossus_of_the_modern_age)
 
-Maynard, Mark. Interview: "Ypsilanti once again has a pay phone...only this time its free." Mark Maynard blog, March, 2018.
+"Ypsilanti once again has a pay phone...only this time its free.", interview, Mark Maynard blog, March, 2018
 http://markmaynard.com/2018/03/ypsilanti-once-again-has-a-payphone-only-this-time-its-free/
 (archive: https://web.archive.org/web/20191231221209/http://markmaynard.com/2018/03/ypsilanti-once-again-has-a-payphone-only-this-time-its-free/)
 
-Rigg, Sarah. "Portland, Ore Nonprofit installs free public phone in Ypsi." Concentrate blog, March 2018.
+"Portland, Ore Nonprofit installs free public phone in Ypsi.", article, Concentrate blog, March 2018
 http://www.secondwavemedia.com/concentrate/innovationnews/futelphone0450.aspx
 (archive: https://web.archive.org/web/20191231221003/https://www.secondwavemedia.com/concentrate/innovationnews/futelphone0450.aspx)
 
-Karl Anderson. Video. "Futel: A Technology So Advanced We Leave It Out On The Street All Night". May 2018
+"Futel: A Technology So Advanced We Leave It Out On The Street All Night", Teardown presentation, May 2018
 https://www.youtube.com/watch?v=_P0-TcU7NlY
 (archive: https://archive.org/details/futel_a_technology_so_advanced_we_leave_it_out_on_the_street_all_night)
 
-Karl Anderson. Video. "Futel: The Payphone, Devolved [HOPE 12]". July 21, 2018
+"Futel: The Payphone, Devolved [HOPE 12]", HOPE presentation, July 21, 2018
 https://www.youtube.com/watch?v=ItZ9-z5-LoY
 (archive: https://archive.org/details/karlandersonfutelthepayphonedevolvedhope12itz9z5loy)
 
-Elliot, Rory. "Futel Phones: Free Calling For All is Reshaping the Vehicle For Reaching Out." The Bridge, Portland Community College, May 2019.
+"Futel Phones: Free Calling For All is Reshaping the Vehicle For Reaching Out." Portland Community College The Bridge article, May 2019
 https://pccbridge.com/index.php/2019/05/01/futel-phones-free-calling-for-all-is-reshaping-the-vehicle-for-reaching-out/
 (archive: https://web.archive.org/web/20191231220252/https://pccbridge.com/index.php/2019/05/01/futel-phones-free-calling-for-all-is-reshaping-the-vehicle-for-reaching-out/)
 
-Open Signal press release. "Open Signal Fest Celebrates Media Arts on August 10". July 10, 2019
+"Open Signal Fest Celebrates Media Arts on August 10", Open Signal press release, July 10, 2019
 https://www.opensignalpdx.org/press-portal/press-release-open-signal-fest-on-august-10-is-zenith-of-summer-media-arts-programming/
 (archive: https://web.archive.org/web/20191231214924/https://www.opensignalpdx.org/press-portal/press-release-open-signal-fest-on-august-10-is-zenith-of-summer-media-arts-programming/)
 
-Brad Carter / PLA. Video. "Connecting With A Futel Pay Phone". April 13, 2019
+"Connecting With A Futel Pay Phone", PLA demonstration, April 13, 2019
 https://www.youtube.com/watch?v=F0h766EQUIA
 (archive: https://archive.org/details/connecting_with_a_futel_payphone)
 
-Lee DeVito. "Detroit has a new old-school payphone that's free to use" - November 19, 2019
+"Detroit has a new old-school payphone that's free to use", Detroit Metro Times article, November 19, 2019
 https://www.metrotimes.com/news-hits/archives/2019/11/19/detroit-has-a-new-old-school-payphone-thats-free-to-use
 (archive: https://web.archive.org/web/20191231213624/https://www.metrotimes.com/news-hits/archives/2019/11/19/detroit-has-a-new-old-school-payphone-thats-free-to-use)
 
-"New pay phone in Detroit is 'part political statement and part art project'". November 20, 2019
+"New pay phone in Detroit is 'part political statement and part art project'", Deadline Detroit article, November 20, 2019
 https://www.deadlinedetroit.com/articles/23749/new_pay_phone_in_detroit_is_part_political_statement_and_part_art_project
 (archive: https://web.archive.org/web/20191231223313/https://www.deadlinedetroit.com/articles/23749/new_pay_phone_in_detroit_is_part_political_statement_and_part_art_project)
 
-Alex Atwell and Ken Haddad. "Group installs payphone in Detroit -- and it’s free to use". November 21, 2019.
+"Group installs payphone in Detroit -- and it’s free to use", Click On Detroit article, November 21, 2019
 https://www.clickondetroit.com/features/2019/11/21/group-installs-payphone-in-detroit-and-its-free-to-use/
 (archive: https://web.archive.org/web/20191231212925/https://www.clickondetroit.com/features/2019/11/21/group-installs-payphone-in-detroit-and-its-free-to-use/)
 
-WDIV Channel 4. "Working payphone pops up in Detroit". November 21, 2019
+"Working payphone pops up in Detroit", WDIV Channel 4 article, November 21, 2019
 https://www.youtube.com/watch?v=B6ZbwE14G_g&t=29
 (archive: https://archive.org/details/futel_working_payphone_pops_up_in_detroit)
 
-Dana Marshall. WKFR 103.3FM. "Why Does Detroit Have A New Payphone?". December 3, 2019
+"Why Does Detroit Have A New Payphone?", WKFR article, December 3, 2019
 https://wkfr.com/why-does-detroit-have-a-new-payphone/
 (archive: https://web.archive.org/web/20191231221931/https://wkfr.com/why-does-detroit-have-a-new-payphone/)
 
-Sarah Rose Sharp. "A Project Salvages and Installs No-Cost Payphones to Revive a Fading Technology". December 25, 2019
+"A Project Salvages and Installs No-Cost Payphones to Revive a Fading Technology", Hyperallergic article. December 25, 2019
 https://hyperallergic.com/534709/a-project-salvages-and-installs-no-cost-payphones-to-revive-a-fading-technology/
 (archive: https://web.archive.org/web/20191231212648/https://hyperallergic.com/534709/a-project-salvages-and-installs-no-cost-payphones-to-revive-a-fading-technology/)
 
-David Greene. Interview: "A Pay Phone Revival, Without The Pay". NPR Morning Edition, December 27, 2019
+"A Pay Phone Revival, Without The Pay". NPR Morning Edition article, December 27, 2019
 https://www.npr.org/2019/12/27/791660745/a-pay-phone-revival-without-the-pay
 (archive: https://web.archive.org/web/20191228161207/https://www.npr.org/2019/12/27/791660745/a-pay-phone-revival-without-the-pay)
 
@@ -90,6 +89,4 @@ http://futel.net/
 https://twitter.com/futelco
 https://futelco.tumblr.com/
 https://soundcloud.com/user-450753077
-XXX update with publication links - soundcloud, microcosm
-
-XXX update with content of blog posts referencing external news articles
+XXX microcosm
