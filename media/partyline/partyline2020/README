@@ -7,19 +7,18 @@ map: XXX
 2019 operator log excerpts: operator.txt
 new phones: new_phones.txt
 death of the payphone: death_of_the_payphone.txt
-sissyphus log? XXX
+sissyphus log: XXX
 
 support: XXX
 ack: XXX
 
 misc art:
-painting: painting.jpg Sam Bunn acrylic on canvas
-stamp: XXX Fiona Bearclaw
-nuclear launch consoles XXX
-tombstone.png
+painting, Sam Bunn acrylic on canvas: painting.jpg
+stamp,  Fiona Bearclaw: XXX
+nuclear launch consoles nuke*.jpg
+Debbie Wager: tombstone.png
 
 rant: rant.txt
-carlos the rollerblader interview: XXX
 carlos the rollerblader feature: carlos.txt
 concentration camp feature: camp.txt
 Church Extends a Helping Line to Phoneless: nytimes.jpg
