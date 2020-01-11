@@ -4,7 +4,7 @@ Futel is made possible by volunteers and contributors, who we thank!
 
 ### Labor
 
-Karl Anderson, director. Tishbite, xnor, B. M, M. Lippincott, A. Frankenstein, M. Hansen, Anonymous, Anonymous, operators. B. Casey, M. Casey, M. Lippincott, R. Senior, S., Ry4an B, Sebastian Noack, physical plant. D. Wager, design. J. Plumb, xnor, J. Mejia, audio production. Chris Czub, Detroit production. B. Thunderblood, art. B. Richardson, media. Tishbite, engineer.
+Karl Anderson, director. Tishbite, xnor, B. M, M. Lippincott, A. Frankenstein, M. Hansen, Anonymous, Anonymous, operators. B. Casey, M. Casey, M. Lippincott, R. Senior, S., Ry4an B, Sebastian Noack, physical plant. D. Wager, design. J. Plumb, xnor, J. Mejia, audio production. PEST, Verm, druidics. Chris Czub, Detroit production. B. Thunderblood, art. B. Richardson, media. Tishbite, engineer.
 
 ### Contributors
 
@@ -16,4 +16,4 @@ racc_bw_horizontal.jpg
 
 Futel's 2018 and 2019 operations are funded in part by Nelson.
 
-Thanks to PDX Hackerspace, Dug Song, Russell Senior, Snaptortoise, the Precipice Fund, Calligram Foundation, and The Andy Warhol Foundation for the Visual Arts, Awesome Ann Arbor, Awesome Portland, the Twilio.org Impact Corps Program, Hobotech, the Personal Telco Project, Free Geek Portland, ToorCamp, Drew at MOHDI, B. Davis, and B-Line Urban Delivery for their support. Thanks to everyone who has donated time, money, expertise, and materials.
+Thanks to PDX Hackerspace, Dug Song, Russell Senior, Snaptortoise, the Precipice Fund, Calligram Foundation, and The Andy Warhol Foundation for the Visual Arts, Awesome Ann Arbor, Awesome Portland, the Twilio.org Impact Corps Program, Hobotech, the Personal Telco Project, Free Geek Portland, ToorCamp, Drew at MOHDI, B-Line Urban Delivery, B Davis, Fiona Bearclaw, and Cabel Sasser for their support. Thanks to everyone who has donated time, money, expertise, and materials.
