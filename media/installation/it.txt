@@ -1,3 +1,13 @@
-Router needs to access external server on UDP port 1194 (for an OpenVPN connection).
-Connect Futel router WAN port to upstream router LAN port with CAT 5 cable. Connect Futel SIP box to router LAN port with CAT 5 cable. Connect Futel SIP box to landline telephone with RJ11 cable.
+IT equipment installation
 
+Requirements:
+Router with OpenVPN client and creds
+SIP ATA with creds
+Landline telephone
+Upstream router with access to external server on UDP port 1194
+
+Installation:
+Power Futel router and Futel SIP box.
+Connect Futel router WAN port to upstream router LAN port with CAT 5 cable.
+Connect Futel SIP box to Futel router LAN port with CAT 5 cable.
+Connect Futel SIP box to landline telephone with RJ11 cable.
