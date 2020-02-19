@@ -19,4 +19,4 @@ about Futel's past, present, and future.
 Futel is a 501c3 nonprofit community.
 Ride is free, with donations welcome/encouraged.
 
-Not a loop. We will end at Upright Brewing for refreshments.
+Not a loop, estimated 2hrs. We will end at Upright Brewing for refreshments.
