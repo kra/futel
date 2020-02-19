@@ -1,18 +1,22 @@
 
-Say HELLO!
+blurb:
+---
 
-Let's do a ride to visit 10 various [FUTEL](https://futel.net) telephone 
-locations and learn more about the nation's HOTTEST and 
-fastest growing payphone provider.
+[Futel](https://futel.net) FUNdRAGER!
 
-This is a 15-20 mile ride with MANY stops and very little climbing.
-At each stop we will learn a little more about each phone and the
-history of Futel.
+* When: <tbd>
+* Where: <tbd> (maybe Woodlawn or Alberta Park)
 
-VERY VERY EARLY SUPER PRELIMINARY MAP ROUTE RESERVING
-ALL RIGHTS TO CHANGE THIS AND NOT PUBLISH THIS EVER AT
-ALL ON PEDALPALOOZA SITES: 
-https://goo.gl/maps/RkBWQGw8hgkpA2GT7
+Phone phreaks, artists, miscreants, and hackers will join forces 
+to learn about [FUTEL](https://futel.net) -- Portland's fastest-growing
+free payphone provider.
 
-Ride is not a loop, and we will end at Upright Brewing
-for refreshments.
+On this relaxed 15 mile ride, we will visit 10 [FUTEL](https://futel.net) 
+telephone locations and learn about each phone's unique location and history.
+Riders will have ample opportunity to experiment with the phones while learning
+about Futel's past, present, and future.
+
+Futel is a 501c3 nonprofit community.
+Ride is free, with donations encouraged/welcome.  
+
+Ride is not a loop, and we will end at Upright Brewing for refreshments.
