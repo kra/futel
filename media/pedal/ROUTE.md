@@ -2,7 +2,7 @@
 VERY VERY EARLY SUPER PRELIMINARY MAP ROUTE RESERVING
 ALL RIGHTS TO CHANGE THIS AND NOT PUBLISH THIS EVER AT
 ALL ON PEDALPALOOZA SITES: 
-https://goo.gl/maps/ifGUMuJvQkzB2v247
+[https://goo.gl/maps/ifGUMuJvQkzB2v247](https://goo.gl/maps/ifGUMuJvQkzB2v247)
 
 The idea here is to plan the route and what content we might
 like to say/try at each stop.  This is not generally stuff
