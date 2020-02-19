@@ -17,6 +17,6 @@ Riders will have ample opportunity to experiment with the phones while learning
 about Futel's past, present, and future.
 
 Futel is a 501c3 nonprofit community.
-Ride is free, with donations encouraged/welcome.  
+Ride is free, with donations welcome/encouraged.
 
-Ride is not a loop, and we will end at Upright Brewing for refreshments.
+Not a loop. We will end at Upright Brewing for refreshments.
