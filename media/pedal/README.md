@@ -4,14 +4,14 @@ blurb:
 
 [Futel](https://futel.net) FUNdRAGER!
 
-* When: <tbd>
-* Where: <tbd> (maybe Woodlawn or Alberta Park)
+* When: Sunday June 7th, 2020 11:00am
+* Where: Meet at Alberta Park
 
 Phone phreaks, artists, miscreants, and hackers will join forces 
 to learn about [FUTEL](https://futel.net) -- Portland's fastest-growing
 free payphone provider.
 
-On this relaxed 15 mile ride, we will visit 10 [FUTEL](https://futel.net) 
+On this relaxed ~12 mile ride, we will visit 10 [FUTEL](https://futel.net) 
 telephone locations and learn about each phone's unique location and history.
 Riders will have ample opportunity to experiment with the phones while learning
 about Futel's past, present, and future.
