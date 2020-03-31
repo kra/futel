@@ -1,0 +1,3 @@
+How to update the map:
+I use Stamen’s OpenStreetMap toner tileset so that it is 1) creative commons and 2)  prints well.  Their map viewer has a built-in image export and embed functions:
+http://maps.stamen.com/toner/
