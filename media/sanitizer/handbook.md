@@ -5,7 +5,7 @@ Congratulations! You have chosen or have been chosen to serve your community as 
 
 # Read this first
 
-Keep yourself and your family safe! Telephone sanitization should not put you at risk of infection, but if you are immunocompromised or do not feel safe performing these duties, contact your handler.
+Keep yourself and your family safe! Telephone sanitization can be performed safely and should not put you at risk of infection, but if you are immunocompromised or do not feel safe performing these duties, contact your handler.
 
 # Telephone Sanitizer Guidelines
 
@@ -28,42 +28,50 @@ Wash your hands. Put on gloves.
 
 # Telephone Sanitization Procedure
 
-With handset in cradle, spray solution directly on all exposed parts of handset.
+With handset still in cradle, spray solution directly on all exposed parts of handset.
 
 Remove handset from cradle. Spray solution directly on all parts of handset, taking care to not spray directly into receiver and transmitter holes.
 
 Spray solution on sponge until moist. Wipe handset receiver and transmitter sponge. Wipe any visible grime from handset with sponge.
 
-Spray solution directly on keypad, coin return lever, and coin return hopper cover. Wipe any visible grime from keypad, coin return lever, and coin return cover with sponge.
+Spray solution directly on keypad, coin return lever, and coin return hopper cover. Wipe any visible grime from keypad, coin return lever, and coin return cover with sponge. Replace handset.
 
-Write date and your handle on sanitization sticker. Apply sticker to telephone or enclosure in conspicuous location.
+Write date and your handle on sanitization sticker. Your handle can be your name or whatever identifier you choose.  Apply sticker to telephone or enclosure in conspicuous location.
 
 # Hand Washing Station Sanitization Procedure
 
 Spray solution directly on spigot and soap dispenser.
 
-Write date and your handle on sanitization sticker. Apply sticker to station in conspicuous location.
+Fill water tank.
+
+Write date and your handle on sanitization sticker. Your handle can be your name or whatever identifier you choose. Apply sticker to station in conspicuous location.
 
 # Sanitization Cleanup Procedure.
+
+Rinse sponge in water.
 
 Return all cleaning supplies to container.
 
 Remove gloves. Return rubber gloves to container if so equipped. Dispose of latex or nitrile gloves if so equipped. Wash hands.
 
-Note any low supply levels, and prepare to replace them.
-
 Stow container.
+
+Note any low sanitization supply levels, and report to your handler, or replace them.
+
+Note any low hand washing station supply levels, and report to your handler, or replace them.
+
+Report any damage or grime which prevents sanitization or use to your handler.
 
 # Safety Notes
 
-If eye protection is not worn, extreme care must be taken to protect eyes and mucous membranes from direct contact with disinfectant. Flush eyes and face with water after contact.
+If eye protection is not worn, care must be taken to protect eyes and mucous membranes from direct contact with disinfectant. Flush eyes and face with water after contact.
 
 Sanitization can be performed safely without gloves if hands are properly washed after procedure.
 
 # Supply notes
 
-Supplies are difficult to acquire, if you can provide supplies, please do so.
+Feel free to use the supplies for the safety of yourself and your family if you need them. Conversely, supplies are difficult to acquire, so if you can provide supplies, please do so. The cheapest sanitizing solution is a 10% bleach solution in water. Higher concentrations of bleach do not increase effectiveness. A Pine-Sol solution is also economical. Many other products including alcohol wipes and various disinfectants can also be used.
 
 # Motivational notes
 
-Thank you! If you can, send us a picture of the telephone being sanitized!
+Thank you! You will find your service as a Futel telephone sanitizer to be rewarding and fulfilling. If you can, send a picture of the telephone being sanitized!
