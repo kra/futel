@@ -24,21 +24,25 @@
 
 ## Construction
 
-Drill holes in plywood base for rebar, zipties, tubing toes. Screw lumber to base to support barrel and protect pump. Screw plank and hinge to base. Attach pump to base with zipties.
+Cut plywood base to size to support barrel, toes, bulb pedal. Mark where toes should go in plywood base.
 
-Drill barrel for chain or cable. Drill barrel lid for input conduit. Screw lumber shelf to barrel lid. Build spigot from conduit and barb. Attach spigot to shelf with brackets and/or zipties.
+Drill holes in plywood base at circumference of barrel for rebar. Drill holes in plywood base for zipties to attach bulb, tubing.
 
-Place barrel on base. Hammer rebar into earth through base. Ziptie rebar to shelf. Strap rebar to barrel.
+Screw lumber toes to base to laterally support base barrel and protect pump pedal. Assemble pedal out of plank and hinge and attach to base with hinge facing user. Attach pump to base under hinge with zipties.
 
-Build input conduit, easiest is a length of conduit sawed with a 45 degree end, long enough that it can't fall in the barrel when placed in the hole.
+Drill holes near top of barrel for chain or cable. Drill hole in barrel lid for input conduit. Screw lumber shelf to barrel lid. Assemble spigot out of conduit and barb. Attach spigot to shelf with brackets and/or zipties.
 
-Attach tubing to pump. Ziptie tubing to rebar so that toes protect tubing on base. Attach outlet tubing to spigot. Place input conduit in hole. Thread tubing in input conduit until it nearly reaches bottom of barrel.
+Place barrel on base, within toes. Hammer rebar into earth through holes in base. Ziptie rebar to shelf. Strap rebar to barrel.
+
+Assemble input conduit, easiest is a length of conduit sawed with a 45 degree end, long enough that it can't fall in the barrel when placed in the hole.
+
+Assemble tubing to pump. Ziptie tubing to base and rebar, routing so that toes protect tubing on base. Assemble outlet tubing to spigot. Place input conduit in hole. Thread tubing through input conduit until it nearly reaches bottom of barrel.
 
 Ziptie and duct tape soap dispenser to rebar.
 
 Prime pump by pouring water down output tubing until pump can be actuated.
 
-Thread chain or cable through holes. Lock to stationary object.
+Thread chain or cable through holes in barrel. Lock to stationary object.
 
 ## Notes
 
@@ -46,6 +50,6 @@ Based on https://www.instructables.com/id/Camp-Sink-Temporary-Hand-Washing-Stati
 
 Better if barrel can be strapped to a post, alter base to accept post in that case. Better if barrel can be remote from pump and spigot or inaccessible, alter base in that case to support pump and spigot.
 
-Better to replace input conduit with weight at end of input tubing.
+Input conduit just keeps the input at the bottom of the barrel and discourages people yanking the tubing out, better to replace input conduit with weight and a conduit T at end of input tubing.
 
-Design is intended to be cheap, annoying to steal or strip, easy to service and replace, easy to source. A trap at the top will make the first pumping easier. No graywater basin for ease of cleaning, this means that the spigot has to be inconveniently located to keep water away from pumper's foot. This is not our best deployed design but it's cheaper (if barrels are available) and easier, and I don't know enough to describe the fancy one.
+Design is intended to be cheap, easy to source, annoying to steal or strip, easy to service and replace. A trap at the top will make pumping easier. Graywater basin has been eliminated for ease of cleaning, this means that the spigot has to be inconveniently located to keep water away from pumper's foot. This is not our best deployed design but it's cheaper (if barrels are available), easier, and less labor to build.
