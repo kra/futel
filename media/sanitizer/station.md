@@ -3,14 +3,14 @@
 ## Manifest
 
 - primer bulb
- - example https://www.amazon.com/gp/product/B00CZE8IJ4/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1
+    - example https://www.amazon.com/gp/product/B00CZE8IJ4/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1
 - 3-9 ft vinyl tubing
- - length depends on barrel used
- - length depends on conduit used
- - ID should match primer bulb barbs
+    - length depends on barrel used
+    - length depends on conduit used
+    - ID should match primer bulb barbs
 - plastic barrel
 - pvc conduit, elbows, barbs as needed
--- depends on barrel used
+    - depends on barrel used
 - plywood, plank scrap, 2x4, 2x2, etc. lumber
 - 6 ft rebar x2
 - door hinge
