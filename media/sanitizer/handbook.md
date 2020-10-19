@@ -30,9 +30,9 @@ Wash your hands. Put on gloves.
 
 With handset still in cradle, spray solution directly on all exposed parts of handset.
 
-Remove handset from cradle. Spray solution directly on all parts of handset, taking care to not spray directly into receiver and transmitter holes.
+Remove handset from cradle. Spray solution directly on all parts of handset except receiver and transmitter, taking care to not spray directly into receiver and transmitter holes.
 
-Spray solution on sponge until moist. Wipe handset receiver and transmitter sponge. Wipe any visible grime from handset with sponge.
+Spray solution on sponge until moist. Wipe handset receiver and transmitter with sponge. Wipe any visible grime from handset with sponge.
 
 Spray solution directly on keypad, coin return lever, and coin return hopper cover. Wipe any visible grime from keypad, coin return lever, and coin return cover with sponge. Replace handset.
 
@@ -70,7 +70,7 @@ Sanitization can be performed safely without gloves if hands are properly washed
 
 # Supply notes
 
-Feel free to use the supplies for the safety of yourself and your family if you need them. Conversely, supplies are difficult to acquire, so if you can provide supplies, please do so. The cheapest sanitizing solution is a 10% bleach solution in water. Higher concentrations of bleach do not increase effectiveness. A Pine-Sol solution is also economical. Many other products including alcohol wipes and various disinfectants can also be used.
+Feel free to use the supplies for the safety of yourself and your family if you need them. The cheapest sanitizing solution is a 10% bleach solution in water. Higher concentrations of bleach do not increase effectiveness. A Pine-Sol solution is also economical when used as directed for sanitation. Many other products including alcohol wipes and various disinfectants can also be used.
 
 # Motivational notes
 
