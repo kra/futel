@@ -7,20 +7,20 @@ Congratulations! You have chosen or have been chosen to serve your community as 
 
 Operator calls and messages will arrive with the CallerID number of the phone they are calling from. The numbers of public Futel phones are currently:
 
-- SE Clinton just E of 13th, S side of street: 503-946-5227
-- SE Taylor E of 23rd, N side of street: 503-926-6271
-- NE Ainsworth just W of NE 8th Ave-9th Ave Alley, N side of street: 503-444-9412
-- NE 27th Ave-28th Ave Alley N of Killingsworth, W side of street: 503-928-8465
-- SE Woodward E of 16th, N side of street: 503-360-0056
-- NE Killingsworth E of 13th, N side of street: 503-926-6341
-- Pearl St W of Washington, S side of street, Ypsilanti, MI: 734-547-6651
-- Souwester Lodge, J Pl, Seaview, WA: 360-228-2259
-- NE 8th Ave S of Prescott, W side of street: 503-926-6188
-- Upright Brewing, 240 N Broadway: 503-468-1337 (IDs as incoming line)
-- 23rd just S of Breckenridge St, E side of street, Detroit, MI: 313-246-9283
-- NE MLK Blvd S of Graham, E side of street: 971-351-2383
-- N Central St between Tyler and Allegheny, E side of street: 503-483-6584
-- Right To Dream Too, 999 N Thunderbird Way: (IDs as nonpublic number)
+- oskar: SE Clinton just E of 13th, S side of street: 503-946-5227
+- taylor: SE Taylor E of 23rd, N side of street: 503-926-6271
+- ainsworth: NE Ainsworth just W of NE 8th Ave-9th Ave Alley, N side of street: 503-444-9412
+- killingsworth: NE 27th Ave-28th Ave Alley N of Killingsworth, W side of street: 503-928-8465
+- woodward: SE Woodward E of 16th, N side of street: 503-360-0056
+- robotron: NE Killingsworth E of 13th, N side of street: 503-926-6341
+- ypsi: Pearl St W of Washington, S side of street, Ypsilanti, MI: 734-547-6651
+- souwester: Souwester Lodge, J Pl, Seaview, WA: 360-228-2259
+- prescott: NE 8th Ave S of Prescott, W side of street: 503-926-6188
+- upright: Upright Brewing, 240 N Broadway: 503-468-1337 (IDs as incoming line)
+- detroit: 23rd just S of Breckenridge St, E side of street, Detroit, MI: 313-246-9283
+- mlk: NE MLK Blvd S of Graham, E side of street: 971-351-2383
+- central: N Central St between Tyler and Allegheny, E side of street: 503-483-6584
+- r2d2: Right To Dream Too, 999 N Thunderbird Way: (IDs as nonpublic number)
 
 Calls may arrive with the CallerID of a nonpublic Futel number. Feel free to respond to any call with an operator menu, but be sure to ask for the caller's location if needed. On rare occasions, glitches and psychic resonance may cause unexpected connections to be formed with your device and with other tools you use to communicate, so operate with care.
 
