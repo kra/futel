@@ -1,20 +1,73 @@
+# articles with content
+
 handwashing article
-handwashing design
+- https://futelco.tumblr.com/post/637175023052963840/the-futel-telephone-sanitation-and-hygiene
+
+handwashing design article
+- see directory
+- https://futelco.tumblr.com/post/638458166267510785/handwashing-station-construction-notes
+
+new phones
+- see directory
+- https://futelco.tumblr.com/post/632291078159106049/new-public-telephone-n-central-st-between-tyler
+- N Central St between Tyler and Allegheny, E side of street.
+
+new handwashing stations
+- see directory
+- https://futelco.tumblr.com/post/620493413107859456/new-hand-washing-station-n-side-of-e-burnside
+- N side of E Burnside between 20th and 21st.
+- https://futelco.tumblr.com/post/618760705094598656/new-hand-washing-station-n-central-st-between
+- N Central St between Tyler and Allegheny, E side of street.
+- https://futelco.tumblr.com/post/617706558784208896/new-hand-washing-station-ne-27th-ave-28th-ave
+- NE 27th Ave-28th Ave Alley N of Killingsworth, W side of street.
+- https://futelco.tumblr.com/post/615703649684979712/fifth-futel-public-hand-washing-station-deployed
+- NE 8th Ave S of Prescott, W side of street.
+- https://futelco.tumblr.com/post/615622605407404032/new-hand-washing-station-ne-ainsworth-just-w-of
+- NE Ainsworth just W of NE 8th Ave-9th Ave Alley.
+- https://futelco.tumblr.com/post/615521263156363264/new-hand-washing-station-ne-killingsworth-e-of
+- NE Killingsworth E of 13th, N side of street.
+- https://futelco.tumblr.com/post/615435849143894016/new-hand-washing-station-deployed-se-clinton-st
+- SE Clinton St. east of 13th.
+- https://futelco.tumblr.com/post/614887802154385408/first-futel-public-hand-washing-station-deployed
+- north side of SE Taylor, east of 23rd ave.
+
+operator log
+- operator.txt
+various sanitation photos
+- see directory
+support
+- same as 2020 except "buying Party Line issues 1-5 from Microcosm Publishing"
+back cover
+- futel logo as before
+
+
+# articles without content
+
+various clipart
+- see directory
+- XXX need black christmas
+
+year in review
+- slogged through pandemic and used adaptation to continue to serve futel users
+- wildcard line episode 7
+- hold the phone partnership with open signal
+- Futel has received an Awesome Portland May 2020 People’s Choice grant to support the deployment of our hand washing stations.
+- XXX draft
+
+map
 
 reddit article
 hold the phone review
 
-new phones
-year in review
-operator log
 sissyphus log
 rant
 usage numbers and graphs
-support
 ack
+- XXX update phone host
+- XXX sanitation?
+death of the payphone
+front cover
 
 black christmas filler photos
 new art filler photos
 
-front cover XXX
-back cover
