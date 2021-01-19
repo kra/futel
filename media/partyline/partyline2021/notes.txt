@@ -31,6 +31,8 @@ new handwashing stations
 - https://futelco.tumblr.com/post/614887802154385408/first-futel-public-hand-washing-station-deployed
 - north side of SE Taylor, east of 23rd ave.
 
+map
+- see pdf
 operator log
 - operator.txt
 various sanitation photos
@@ -45,19 +47,20 @@ back cover
 
 various clipart
 - see directory
-- XXX need black christmas
 
 year in review
-- slogged through pandemic and used adaptation to continue to serve futel users
+- slogged through pandemic and used adaptation to continue to serve futel users with sanitation and handwashing station development
 - wildcard line episode 7
 - hold the phone partnership with open signal
 - Futel has received an Awesome Portland May 2020 People’s Choice grant to support the deployment of our hand washing stations.
 - XXX draft
 
-map
+
 
 reddit article
+
 hold the phone review
+In 2020 Futel completed Hold The Phone in partership with Open Signal. This 
 
 sissyphus log
 rant
