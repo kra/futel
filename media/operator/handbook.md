@@ -11,7 +11,6 @@ Operator calls and messages will arrive with the CallerID number of the phone th
 - taylor: SE Taylor E of 23rd, N side of street: 503-926-6271
 - ainsworth: NE Ainsworth just W of NE 8th Ave-9th Ave Alley, N side of street: 503-444-9412
 - killingsworth: NE 27th Ave-28th Ave Alley N of Killingsworth, W side of street: 503-928-8465
-- paz: SE Woodward E of 16th, N side of street: 503-360-0056
 - robotron: NE Killingsworth E of 13th, N side of street: 503-926-6341
 - ypsi: Pearl St W of Washington, S side of street, Ypsilanti, MI: 734-547-6651
 - souwester: Souwester Lodge, J Pl, Seaview, WA: 360-228-2259
