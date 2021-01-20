@@ -1,3 +1,11 @@
+Welp, we did well in 2020, considering.
+- We slogged through the pandemic, at least as much of it which as so far been experienced, and adapted to support our users with the development of the sanitation and hygiene programs.
+- Wildcard Line episode 7 was released. Contribute to the Wildcard Line from any Futel phone.
+- We implemented the Hold The Phone project in partnership with Open Signal.
+- We received an Awesome Portland May 2020 People’s Choice grant to support the implementation of the sanitation and hygiene programs.
+
+Most importantly, we continued to provide services to our phones and incoming line, including:
+
 - over 22000 handset pickups
 - over 13000 calls received by the incoming line
 - 9370 outgoing calls placed
@@ -5,6 +13,6 @@
 - 121 calls to the mayor of Detroit
 - 116 calls to a randomly selected American concentration camp
 - 92 calls to the Payphone Demultiplexer
-- 79 attempts to communicate with the Druid Sissyphus Gardens
+- 79 attempts to communicate with the Druid of Sissyphus Gardens
 - 45 calls to the mayer of Portland
 - 34 calls to the Willamette Valley Dream Survey
