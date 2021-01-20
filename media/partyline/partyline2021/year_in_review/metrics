@@ -1,22 +1,10 @@
-13532 incoming-ivr
-12101 outgoing-ivr
-9370 macro-dial
-4703 outgoing_portland_menu
-2325 hold_the_phone_main
-1748 outgoing-ivr-detroit
-1736 ring-r2d2
-887 outgoing_detroit_menu
-465 futel-conf
-376 hold_the_phone_incoming
-335 outgoing-ivr-souwester
-260 operator
-121 mayor-vm-detroit
-116 random-concentrationcamp
-92 random-payphone
-84 outgoing_souwester_menu
-79 lance-e-pants
-45 mayor-vm
-34 dream-survey
-29 longmont
-12 wildcard_line_contribute
-9 wildcard-line-contribute
+- over 22000 handset pickups
+- over 13000 calls received by the incoming line
+- 9370 outgoing calls placed
+- 465 calls to the Futel voice conference
+- 121 calls to the mayor of Detroit
+- 116 calls to a randomly selected American concentration camp
+- 92 calls to the Payphone Demultiplexer
+- 79 attempts to communicate with the Druid Sissyphus Gardens
+- 45 calls to the mayer of Portland
+- 34 calls to the Willamette Valley Dream Survey
