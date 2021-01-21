@@ -1,3 +1,9 @@
-How to update the map:
+How to update the InDesign map:
 I use Stamen’s OpenStreetMap toner tileset so that it is 1) creative commons and 2)  prints well.  Their map viewer has a built-in image export and embed functions:
 http://maps.stamen.com/toner/
+
+How to update the uMap embedded map:
+add locations to umapfutel.csv
+update the map at this url. 
+https://umap.openstreetmap.fr/en/map/futel-service-map_551231
+mathewlippincott has permissions, can add you as an editor if you log in to uMap using your Github username
