@@ -40,7 +40,13 @@ operator log
 various sanitation photos
 - see directory
 support
+- support.md
 - same as 2020 except "buying Party Line issues 1-5 from Microcosm Publishing"
+- http://futel.net/support/
+ack
+- ack.md
+- similar to 2020
+- http://futel.net/support/
 back cover
 - futel logo as before
 various clipart
@@ -55,7 +61,5 @@ In 2020 Futel completed Hold The Phone in partnership with Open Signal. This
 
 sissyphus log
 rant
-ack
-- XXX sanitation?
 death of the payphone
 front cover
