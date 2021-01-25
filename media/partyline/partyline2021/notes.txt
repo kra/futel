@@ -39,6 +39,7 @@ operator log
 - operator.txt
 various sanitation photos
 - see directory
+- caption "Thank you Futel telephone sanitizers for keeping our users safe."
 support
 - support.md
 - same as 2020 except "buying Party Line issues 1-5 from Microcosm Publishing"
