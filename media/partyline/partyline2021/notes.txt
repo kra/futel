@@ -32,7 +32,7 @@ new handwashing stations
 - north side of SE Taylor, east of 23rd ave.
 
 year in review
-- see directory
+- year_in_review.txt
 map
 - see pdf
 operator log
