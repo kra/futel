@@ -37,6 +37,8 @@ map
 - see pdf
 operator log
 - operator.txt
+sisyphus log
+- sisyphus.txt
 various sanitation photos
 - see directory
 - caption "Thank you Futel telephone sanitizers for keeping our users safe."
@@ -60,7 +62,6 @@ reddit article 2-3 pages
 hold the phone review 1 page
 In 2020 Futel completed Hold The Phone in partnership with Open Signal. This 
 
-sissyphus log 0-1 page
 rant 0.5 page
 death of the payphone 0.5-1 page
 front cover
