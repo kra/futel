@@ -1,11 +1,10 @@
-300 phone
+200 phone
 150 rasp and hardware
-150 shipping
-$600 per phone
-$1200 total for 2 phones
+$350 per phone
+$700 for 2 phones
 
-$800 two engineers
+$1000 two engineers
 
-$500 slop
+$1700 total
 
-$2500 total
+
