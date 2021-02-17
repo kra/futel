@@ -1,0 +1,29 @@
+# Draft Proposal:
+
+Two interactive payphones delivered to FedEx on March 26. Futel receives $1600.
+
+# Use cases:
+
+User picks up handset and holds speaker to ear. User hears dial tone.
+
+User pushes any key on keypad, dial tone ceases.
+
+After pushing fist key, user continues to enter one of several specified seven digit numbers. Audio associated with that number plays.
+
+After pushing first key, user continues to enter seven digits which do not match specified numbers. Busy signal plays.
+
+User replaces handset on cradle. Audio stops playing.
+
+# Notes:
+
+Artist supplies up to five audio files in WAV format. Artist supplies list of phone numbers to be associated with each audio file.
+
+Artist can add, remove, and alter audio files and numbers to be associated with them by powering down unit, opening phone, removing SD card, mounting SD card on personal computer, performing file operations such as adding and removing files, and editing text files. Futel engineers can provide documentation of a reasonably foolproof process, and support over email, but any alterations are at artist's own risk, and Futel cannot guarantee that unit will remain operational after alterations are made.
+
+# Form factor notes:
+
+Each unit is one payphone and one backing board. Backing board can be securely attached to a wall or other solid object to hang payphone.
+
+Payphone has a short power cord that may end in a transformer. Power cord must be plugged into wall power for unit to be operational.
+
+Payphone may not be suitable for outdoor display or operation. Payphone may not be suitable for unattended operation. Payphone case can be latched shut using included T-bar tool, but may be visibly missing locks. Payphone can be solidly closed and, if securly attached to solid object, can withstand impact and abuse such as might be expected from unattended careless usage.
