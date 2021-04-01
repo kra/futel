@@ -31,6 +31,8 @@ new handwashing stations
 - https://futelco.tumblr.com/post/614887802154385408/first-futel-public-hand-washing-station-deployed
 - north side of SE Taylor, east of 23rd ave.
 
+reddit
+- reddit.txt
 year in review
 - year_in_review.md
 map
@@ -57,11 +59,8 @@ various clipart
 
 # articles needing content
 
-reddit article 2-3 pages
-
-hold the phone review 1 page
-In 2020 Futel completed Hold The Phone in partnership with Open Signal. This 
-
 rant 0.5 page
 death of the payphone 0.5-1 page
 front cover
+
+sanitizer handbook?
