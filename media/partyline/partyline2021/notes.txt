@@ -54,6 +54,8 @@ ack
 - ack.md
 - similar to 2020
 - http://futel.net/support/
+front cover
+- party_line_1.jpg
 back cover
 - futel logo as before
 various clipart
@@ -62,6 +64,5 @@ various clipart
 # articles needing content
 
 rant 0.5 page
-front cover
 
 sanitizer handbook?
