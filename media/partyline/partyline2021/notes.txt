@@ -31,6 +31,8 @@ new handwashing stations
 - https://futelco.tumblr.com/post/614887802154385408/first-futel-public-hand-washing-station-deployed
 - north side of SE Taylor, east of 23rd ave.
 
+rant
+- rant.txt
 reddit
 - reddit.txt
 year in review
@@ -63,6 +65,6 @@ various clipart
 
 # articles needing content
 
-rant 0.5 page
+
 
 sanitizer handbook?
