@@ -41,6 +41,8 @@ operator log
 - operator.txt
 sisyphus log
 - sisyphus.txt
+death of the payphone
+- see directory
 various sanitation photos
 - see directory
 - caption "Thank you Futel telephone sanitizers for keeping our users safe."
@@ -60,7 +62,6 @@ various clipart
 # articles needing content
 
 rant 0.5 page
-death of the payphone 0.5-1 page
 front cover
 
 sanitizer handbook?
