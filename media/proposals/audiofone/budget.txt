@@ -1,10 +1,9 @@
-200 phone
-150 rasp and hardware
-$350 per phone
-$700 for 2 phones
+expenses
+$262 misc hardware
+$538 futel reimbursement for 2 phones
+$500 breedx engineer
+$500 oscule admin and engineer
 
-$1000 two engineers
-
-$1700 total
-
+income
+$1800 artist
 
