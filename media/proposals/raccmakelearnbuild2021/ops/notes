@@ -1,0 +1,40 @@
+## Objectives:
+
+One or more usable demonstration installations.
+
+Installation consists of a telephone which can be operated without wall power or wired internet. Internet can come from a cell hotspot, power can come from a solar panel or wall power.
+
+Battery can be charged with wall power.
+Battery can be charged with solar panel.
+Installation is usable with wall or battery power.
+Fully charged battery is usable for XXX hours without charging.
+Installation is portable, for example a luggable box or a pedestal on a hand truck.
+Installation is semi-secure and can be deployed without direct attendant, for example at an event or in an unattended lobby during working hours.
+
+# IT devices
+
+- SIP box
+- cell hotspot
+- telephone
+- optional:
+-- vpn router
+-- usb charging port
+-- wifi client for upstream internet
+
+# Power devices
+
+- solar panel
+- battery
+- wall power
+- inverter etc for solar panel
+- inverter etc for wall power input
+- optional:
+-- crank power
+
+# Other
+
+- carrying case
+- solar panel mount
+- extension cord
+- pedestal and enclosure
+
