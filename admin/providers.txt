@@ -1,0 +1,19 @@
+2020 wireless service prices
+
+twilio programmable wireless
+$2/sim/mo
+$0.05/mb (for $1/mo quota) ($0.12/min to asterisk)
+$0.013/min voice
+plus device
+
+techsoup
+$9/hotspot shipping
+$15/hotspot admin?
+$120/hotspot/year
+$12/mo for one year, that's 92 minutes of twilio
+
+ting
+$6/device/mo
+$0.03/mb (for $3/mo quota)
+$0.019/min voice (cheapest tier after many minutes used)
+plus device
