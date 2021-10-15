@@ -1,0 +1,48 @@
+Draft proposal
+Futel and Napa County Library
+2020-05-24
+
+Summary
+
+Futel provides all hardware needed for a working phone, and service for one year. Appropriate mounting location for the hardware provided will depend on what options are chosen by the client. Client must provide all installation and wiring labor and hardware. Client must provide internet service and power.
+
+Details
+
+Futel will provide
+
+One payphone
+Mounting option as selected below
+One Futel IT setup including router and SIP box
+One year of Futel service
+
+Client must provide
+
+CAT5/6 wiring to provide internet to Futel router
+RJ11 wiring between Futel router and phone
+
+Costs and mounting options
+
+Backing plate mount
+$3000
+
+Backing plate can be attached to an interior wall, suitable for a location with periodic staff visibility during times of public access, like a building lobby which is closed outside of working hours.
+
+Wall mount and enclosure
+$4000
+
+Mount can be fixed to an exterior wall, suitable for an unattended public location.
+
+Pedestal and enclosure
+$5000
+
+Pedestal can be fixed to a concrete pad, suitable for an unattended public location.
+
+Timeline
+
+Shipping and service can be any time during or after Q2 2021.
+
+Notes
+
+Menus will be a subset of the current public Futel menus with any entries not appropriate for the location removed. Custom menus can be implemented.
+
+All hardware supplied by Futel will be robust and working and suitable for deployment to the appropriate mounting location. Hardware may be used and show wear consistent with public payphone deployment such as scuffs and graffiti.
