@@ -17,3 +17,8 @@ $6/device/mo
 $0.03/mb (for $3/mo quota)
 $0.019/min voice (cheapest tier after many minutes used)
 plus device
+
+tmobile 2021
+$?/sim/mo
+2GB $5/mo
+plus device
