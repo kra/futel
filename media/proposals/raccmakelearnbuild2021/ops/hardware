@@ -30,14 +30,14 @@ linksys pap2
 hardware expenses
 
 #1
-55 sealed deep cycle gel battery, 35Ah
-176 Renology 100W solar panel and controller
+$55 sealed deep cycle gel battery, 35Ah
+$176 Renology 100W solar panel and controller
 
 #2
-129 franklin hotspot and 1 year mobile beacon service 
-90 sealed deep cycle battery, 55Ah
-20 ATA
-30 wifi router
+$129 franklin hotspot and 1 year mobile beacon service 
+$90 sealed deep cycle battery, 55Ah
+$20 ATA
+$30 wifi router
 
 not yet alocated
 24 digital timer 
@@ -52,10 +52,18 @@ For temporary connectors, I’d put a short length of heavy gauge wire on each s
 
 Since the system draws ~10W, the charger probably needs to be at least 2 amps to charge and run the equipment at the same time. 6+ amps would charge that 60Ah battery in 10 hours-12 while running, which seems like a reasonable goal.
 
+9 amp: gl-inet, pap, franklin charging
+7 amp: gl-inet, pap, franklin charged
+4 amp: gl-inet, pap
 
 notes
 better usb hub $66
 https://www.coolgear.com/product/industrial-4-port-usb-2-0-powered-hub-for-pc-mac-din-rail-mount#1
 low voltage cutoff $45
 https://www.emarineinc.com/Victron-Energy-BP-65-BatteryProtect-12-24V-65A
+4g usb dongle $35
+https://www.amazon.com/gp/product/B01N6P3HI2/
 
+not for gel:
+6 amp charger $40
+8 amp charger $40 https://www.homedepot.com/p/Energizer-8-Amp-charger-ENC8A/300877655
