@@ -3,32 +3,37 @@
 rant
 mingus mapps ai bullshit
 year in review
-- new phone
-- holding fast through attrition of a heartless world as well as enemy action
-- Make|Learn|Build grant
+- One new phone installed in Portland.
+- We continued to hold fast through the attrition of a heartless world as well as the insults of enemy action. That's something.
+- The 100th revision of the telephony server was deployed. The software installation that makes the phones work, running on a rented computer somewhere in California, has changed 100 times.
+- RACC awarded a Make|Learn|Build grant to Futel.
+- usage summary
+usage graphs
 map
-new phones
 operator log
 sisyphus log
-damage report
-- open signal
-- killingsworth alley
-- sanitation wear, photo?
-death of the payphone
-life of the payphone
-support
-ack
 front cover
 back cover
 - futel logo as before
 various clipart
 - tromeo & juliet scene
 - other scenes from cult movie night
-various half or full page images
-- payphone lock picking
 
 # articles with content
 
+various images
+- images subdirectory
+new phone
+- newphone subdirectory
 sisyphus article
-- sisyphus subdir
-
+- sisyphus subdirectory
+damage report
+- damagereport subdirectory
+death of the payphone
+- deathofthepayphone subdirectory
+life of the payphone
+- lifeofthepayphone subdirectory
+support
+- support.txt
+ack
+- ack.txt
