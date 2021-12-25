@@ -8,7 +8,6 @@ year in review
 usage graphs
 map
 operator log
-sisyphus log
 front cover
 back cover
 - futel logo as before
@@ -22,6 +21,8 @@ various images
 - images subdirectory
 new phone
 - newphone subdirectory
+sisyphus log
+- sisyphuslog subdirectory
 sisyphus article
 - sisyphus subdirectory
 damage report
