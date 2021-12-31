@@ -7,7 +7,6 @@ year in review
 - yearinreview.txt
 usage graphs
 map
-operator log
 front cover
 back cover
 - futel logo as before
@@ -21,6 +20,8 @@ various images
 - images subdirectory
 new phone
 - newphone subdirectory
+operator log
+- operator.txt
 sisyphus log
 - sisyphuslog subdirectory
 sisyphus article
