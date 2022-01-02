@@ -1,5 +1,0 @@
-- One new phone installed!
-- We continued to hold fast through the attrition of a heartless world as well as the insults of enemy action. That's something.
-- The 100th revision of the telephony server was deployed, which means that the machine that makes the phones run was changed 100 times over the years. Some of these changes were noticible, and some were reliability upgrades.
-- RACC awarded a Make|Learn|Build grant to Futel.
-- XXX usage summary
