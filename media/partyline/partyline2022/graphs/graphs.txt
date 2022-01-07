@@ -1,0 +1,27 @@
+Futel Activity 2021
+
+These graphs all show two events, this is an artifact from an implementation change which we don't want to correct for, or even figure out how to display as a more understandable stacked bar chart, because we're retiring this software anyway.
+
+incoming.png
+Incoming calls to 503-HOT-1337.
+
+outgong_pickup.jpg
+Handset pickups on any public Futel phone.
+
+outgoing_detroit.png
+Handset pickups on the Detroit phone.
+
+outgoing_portland.png
+Handset pickups on any public Portland phone.
+
+outgoing_souwester.png
+Handset pickups on the Seaview phone.
+
+outgoing_ypsi.png
+Handset pickups on the Ypsilanti phone. This phone was disabled until March, then usage quickly resumed.
+
+filterdial.png
+Successfully dialed outgoing calls from a dialtone, does not include numbers not entered by the user including directory calls and the Payphone Demultiplexer. Outgoing calls increased about 50 percent over the year, peaking at over 40 calls a day.
+
+operator.png
+This graph is not so useful because it includes any call which begins to ring the operators, whether or not the user hangs up before pickup.
