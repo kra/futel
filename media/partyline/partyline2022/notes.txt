@@ -2,7 +2,6 @@
 
 rant
 mingus mapps ai bullshit
-copier.txt
 map
 front cover
 back cover
@@ -13,6 +12,7 @@ various clipart
 
 # articles with content
 
+copier.txt
 year in review
 - yearinreview.txt
 usage graphs
