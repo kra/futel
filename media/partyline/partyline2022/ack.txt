@@ -1,13 +1,13 @@
 ### Labor
 
 - Director, Karl Anderson.
-- Developers, Karl Anderson, Tishbite, J. Plumb.
+- Developers, Karl Anderson, Tishbite, breedx.
 - Operations, Karl Anderson.
 - Hygiene and Sanitation, M. Lippincott.
 - Operators, Karl Anderson, Tishbite, xnor, B. M, M. Lippincott, A. Frankenstein, M. Hansen, Anonymous, Anonymous.
-- Physical Plant, B. Casey, M. Casey, M. Lippincott, R. Senior, S., Sebastian Noack, J. Mejia, J. Plumb.
+- Physical Plant, B. Casey, M. Casey, M. Lippincott, R. Senior, S., Sebastian Noack, J. Mejia, breedx.
 - Troubleshooter, Ry4an B.
-- Production, J. Plumb, xnor, J. Mejia, B. Richardson.
+- Production, breedx, xnor, J. Mejia, B. Richardson.
 - Design, D. Wager, M. Lippincott.
 - Art, D. Wager, B. Thunderblood, Fiona Bearclaw, Lance E. Pants.
 
