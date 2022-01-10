@@ -2,10 +2,10 @@
 
 - We continued to hold fast through the attrition of a heartless world as well as the insults of enemy action. That's something.
 - One new phone deployed!
-- The 100th revision of the telephony server was deployed, which means that the machine that makes the phones run was changed 100 times over the years. Some of these changes were noticible, and some were reliability upgrades.
+- The 100th revision of the telephony server was deployed, which means that the software that makes the phones run was updated 100 times over the years. Some of these changes were noticible, and some were reliability upgrades.
 - Futel engineers provided implementation support for the Felicific Calculus exhibit by Eric Kunsman.
 - Wildcard Line episode 7 was released. Contribute to the Wildcard Line from any Futel phone.
-- RACC awarded a Make|Learn|Build grant to Futel, which is supporting new installation technologies.
+- RACC awarded a Make|Learn|Build grant to Futel, which is supporting the development of new installation technologies.
 
 Most importantly, we continued to provide services to our phones and incoming line. Usage for the year included:
 

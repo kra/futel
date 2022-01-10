@@ -11,7 +11,7 @@ back cover
 
 copier.txt
 year in review
-- yearinreview.txt
+- yearinreview.md
 usage graphs
 - graphs subdirectory
 various images
