@@ -1,6 +1,7 @@
 # 2021 Year In Review
 
-- We continued to hold fast through the attrition of a heartless world as well as the insults of enemy action. That's something.
+We continued to hold fast through the attrition of a heartless world as well as the insults of enemy action. That's something.
+
 - One new phone deployed!
 - The 100th revision of the telephony server was deployed, which means that the software that makes the phones run was updated 100 times over the years. Some of these changes were noticible, and some were reliability upgrades.
 - Futel engineers provided implementation support for the Felicific Calculus exhibit by Eric Kunsman.
