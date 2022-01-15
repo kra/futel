@@ -2,14 +2,14 @@ Operator Log
 
 Six operators logged over fifty operator calls in 2021. Some were goofy and some were dead serious. This sample of logged calls has some sensitive and many less interesting examples removed.
 
-- **2021-01-01** Caller asked for room 44, or 44g, or IG44 unit. Offered to Google. Caller Apologized, hung up. 
+- **2021-01-01** Caller asked for room 44, or 44g, or IG44 unit. Offered to Google. Caller apologized, hung up. 
 - **2021-01-16** Caller asked if I made Futel, I replied that I was an operator who could provide information about how to use the phone. Caller asked what the phone was for, I told them they were free to experiment with it.
 - **2021-02-27** Looked up the number for Oregon DMV
 - **2021-03-01** Caller asked how to call the Willamette Valley Dream Survey, I told them to use the directory.
 - **2021-03-20** Caller asked what I knew about the WVDS(ugh). I told him the truth, that we found a phone number on a flyer and added it to a directory. He said "Interesting. Thanks."... is it?
 - **2021-04-02** Caller was surprised to find a phone, was just curious about it. Told them they should check the directory and that they can make free calls all over North America. They said, for like an hour or something, I said why not. They told me to have a good weekend.
 - **2021-04-13** Caller informed operator her name.
-- **2021-4-14** caller wanted to know WHO IS FUTEL!? also, how to pronounce futel
+- **2021-4-14** Caller wanted to know WHO IS FUTEL!? also, how to pronounce futel
 - **2021-04-14** Caller was surprised that the phone worked, didn't really need anything but was generally excited about the phone's existence and functionality. 
 - **2021-04-16** Caller asked if this was the State of Oregon Unemployment Division. I said "No, this is the operator for Futel," and the caller said "oh sorry man" and hung up.
 - **2021-04-25** Caller said they wanted to order a pizza. I told them to just yell out their order and hung up as they were yelling it.
@@ -21,7 +21,7 @@ Six operators logged over fifty operator calls in 2021. Some were goofy and some
 - **2021-05-02** Caller called to say “I love you.”
 - **2021-05-02** Heard a recorded song, then the handset being hung up. Also, the buzz made the line sound like crap.
 - **2021-05-02** Heard the receiving end of an ANI call, then the sound of someone listening for a monent as I watched a movie before the caller hung up.
-- **2021-05-05** Herd some buzzing sounds and an echo of my voice.
+- **2021-05-05** Heard some buzzing sounds and an echo of my voice.
 - **2021-05-13** Caller asked the Operator what their favorite tree was and let the Operator know what tree they were standing under.  The Operator told the caller their favorite tree and they exchanged a few other tree preferences before ending the call.
 - **2021-05-13** Caller asked what day it was.
 - **2021-05-19** Caller wanted to know what this phone was and Operator let him know it could make calls for free and asked if they could help with anything.  Caller said he was trying to reach the police station downtown.  Operator found a number for Portland Police downtown.  Caller said that was not the number he had.  Operator searched the number the caller gave and it was for the Multnomah County Justice Center downtown. Operator asked what happened when the Caller tried that number before, they said the screen of their phone was cracked, so they had trouble.  Operator advised hanging up and trying that number using the Futel phone.  Caller agreed and ended the call.
