@@ -7,7 +7,6 @@ Congratulations! You have chosen or have been chosen to serve your community as 
 
 Operator calls and messages will arrive with the CallerID number of the phone they are calling from. The public Futel phones are currently:
 
-- oskar: SE Clinton just E of 13th, S side of street: 503-946-5227
 - taylor: SE Taylor E of 23rd, N side of street: 503-926-6271
 - ainsworth: NE Ainsworth just W of NE 8th Ave-9th Ave Alley, N side of street: 503-444-9412
 - killingsworth: NE 27th Ave-28th Ave Alley N of Killingsworth, W side of street: 503-928-8465
