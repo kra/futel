@@ -19,12 +19,7 @@ https://imgur.com/a/ihAFGDu
 alcatel linkzone 2
 can tether?
 
-
-
-gl-mt300n-v2
-HUAWEI 4G Dongle E3372 $50
 twilio sim card $9/hr? $125/wk?
-linksys pap2
 
 
 hardware expenses
@@ -36,15 +31,16 @@ $176 Renology 100W solar panel and controller
 #2
 $129 franklin hotspot and 1 year mobile beacon service 
 $90 sealed deep cycle battery, 55Ah
-$20 ATA
-$30 wifi router
+$25 linksys pap2 ATA
+$30 gl-mt300n-v2 wifi router
 
 not yet alocated
 24 digital timer 
-95 misc electrical hardware
+95 XXX misc electrical hardware
 129 franklin hotspot and 1 year mobile beacon service 
-20 ATA
+25 linksys pap2 ATA
 30 wifi router
+88 2x Huawei E3372h-320 LTE/4G USB dongle
 
 For temporary connectors, I’d put a short length of heavy gauge wire on each screw terminal and then use electrical nuts to connect them, like with AC fixture wiring. If you need something real fast then maybe borrow some jumper cables from your trunk or get some heavy duty alligator clips at URS.
 
