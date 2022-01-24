@@ -4,6 +4,9 @@ http://maps.stamen.com/toner/
 
 How to update the uMap embedded map:
 add locations to umapfutel.csv
+media/map/umapfutel.csv
+
+upload this file to uMap (link below) and replace all data on Layer 1
 
 The map was built with my openstreetmap login (MathewL)
 https://umap.openstreetmap.fr/en/map/futel-service-map_707873
