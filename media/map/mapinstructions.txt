@@ -6,7 +6,7 @@ How to update the uMap embedded map:
 add locations to umapfutel.csv
 
 The map was built with my openstreetmap login (MathewL)
-
+https://umap.openstreetmap.fr/en/map/futel-service-map_707873
 
 there is an old map at this url but umap broke Github login:
 https://umap.openstreetmap.fr/en/map/futel-service-map_551231
