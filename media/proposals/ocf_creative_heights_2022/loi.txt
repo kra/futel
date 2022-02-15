@@ -1,93 +1,70 @@
 Please provide a working title for your project *
 
+Sidewalk Voices
+
 Please provide a one-sentence summary of your project *
+
+We will design and implement a public interactive audio work with several sites and contributing artists, which is highly accessible and relevant to people in the public spaces around the sites.
 
 Artistic Discipline *
 
+Social Practice/Participatory Art
+
 Is the vision for your project primarily driven by an arts and culture nonprofit; or an independent artist, culture bearer, curator, producer or collective? *
 Projects may be proposed by independent artists and culture bearers, or by members of a nonprofit organization. Generally, we're asking who generated the creative impulse for the project and will be directing the use of funds.
-    Arts and culture nonprofit organization
-    Independent artist, culture bearer or collective
+
+Independent artist, culture bearer or collective
+
+If a Lead Nonprofit has been identified, please describe the relationship between the Lead Artist and the Lead Nonprofit.
+For example: are you a frequent collaborator, past guest artist, or is this a new relationship? Is the nonprofit a creative partner, promotional partner, or primarily serving as a fiscal agent to receive and distribute funds? We realize there are endless ways artists and nonprofits may partner on Creative Heights projects - there is no selection preference given to the type of relationship between the lead artist and nonprofit. The more clarity you can provide about the relationship will be helpful to our selection committee in understanding the nuances of your application. If you are relying on the nonprofit partner to provide key relationships or infrastructure for the project, we recommend confirming the partnership before applying.
+
+PDX Hackerspace has been the fiscal sponsor for Futel for several years. PDX Hackerspace hosts meetups, events, and workshops for people using technology in creative ways, which is aligned with Futel, and Futel collaborators have been introduced to the project through PDX Hackerspace. However, PDX Hackerspace will not be providing support for this specific project beyond sponsorship.
 
 Who are you?
-Tell us about your background as an artist or organization and/or describe previous notable projects.
+Tell us about your background as an artist or organization and/or describe previous notable projects. 600 chars
 
+Futel consists of 5 members in core roles as artists, engineers, operations, and project management, and several other contributors. We install free public telephones, with ten installations in Portland and three in other cities. Futel has been supported by grants since 2014, with major support from RACC, the Precipice Fund, and others.
 
-What is your idea for a Creative Heights project?
+Karl Anderson, director of Futel, produces public space projects involving salvage, industrial re-use, and concepts of waste. From 1992 through 2008 he produced exhibitions of human powered mobile art from salvaged parts with 10 to 30 performers.
+
+What is your idea for a Creative Heights project? 1500 chars
+
+The interactive part of the work will be experienced through four new audio installations, housed in working payphones that also provide free telephone calls, communication services, and access to social benefit services. Three installations will be accessible to the public at all times during the project duration. One installation will be mobile, deployed at events or flexible indoor locations.
+
+The documentary part of the work will consist of curated audio from the interactive work, as well as audio, video, and print content. Audio and video will be exhibited digitally by Futel and Sisters Of The Road, and audio will be available on Futel's existing public installations. Print will be distributed by Futel, Sisters Of The Road, and Microcosm.
+
+Artists will be selected by a CFP from Sisters Of The Road from community members interested in creating work relevant to the neighborhoods hosting the installations. Practical guidance and implementation will be provided by Futel. Participating artists and workers will be compensated.
+
+The media, location, and utility of the installations will provide unique opportunities for high levels of community engagement.
 
 
 Who do you want to work with?
-Tell us about any proposed collaborators and their artistic/creative background, or how they'll support the project.
+Tell us about any proposed collaborators and their artistic/creative background, or how they'll support the project. 600 chars
 
+Sisters Of The Road has been creating systemic solutions to homelessness since 1979. They will provide artist selection and management, and will host one installation.
 
-Forms
+The Social Justice Action Center is a community space in Portland that hosts public health programs and arts integrated projects, receiving RACC funding in 2021. They will host one installation.
 
-    2022 Creative Heights LOI
+Microcosm Publishing is an independent publisher and distributor. They will host one public installation.
 
-Changes saved
-* indicates a required field
-2022 Creative Heights LOI
-
-Instead of answering the LOI project questions in writing, you may record and submit some answers as a video (3 min max). Please note, you must still answer the other required written questions (starred). Please do not submit heavily edited videos or work samples, as the intent is to provide accessibility for those who feel better represented or understood via video versus in writing. Please submit a video OR write your answers. Do not do both, as only one will be reviewed.
-
-    Question number
-    1.
-
-    Please provide a working title for your project *
-    Question number
-    2.
-
-    Please provide a one-sentence summary of your project *
-
-    Please be succinct, this is used by the review committee for quick reference.
-    Question number
-    3.
-
-    Artistic Discipline *
-
-Question number
-4.
-
-Is the vision for your project primarily driven by an arts and culture nonprofit; or an independent artist, culture bearer, curator, producer or collective? *
-
-Projects may be proposed by independent artists and culture bearers, or by members of a nonprofit organization. Generally, we're asking who generated the creative impulse for the project and will be directing the use of funds.
-
-    Arts and culture nonprofit organization
-    Independent artist, culture bearer or collective
-
-Question number
-5.
-
-Who are you?
-
-Tell us about your background as an artist or organization and/or describe previous notable projects.
-Character limit is six hundred .
-0 of 600 characters
-
-Question number
-6.
-
-What is your idea for a Creative Heights project?
-Character limit is one thousand five hundred .
-0 of 1500 characters
-
-Question number
-7.
-
-Who do you want to work with?
-
-Tell us about any proposed collaborators and their artistic/creative background, or how they'll support the project.
 
 How is the proposed project different or distinct from previous work?
 We are looking for elements of experimentation and artistic or curatorial evolution that keep an artist’s/organization’s work vibrant or relevant and may provide an artist/organization with the potential for learning and/or meaningful growth. That creative stretch can take many forms beyond bold artistic ideas, including size/scope of project, new development processes, unique collaborations and more. Generally, projects that primarily stretch administrative practices, or do not generate from a creative impulse will not be competitive.
+900 chars
+
+The project will grow our artistic experience and the breadth of our practical abilities. We will base the project on our proven expertise in designing, implementing, and maintaining public installations, but we will stretch outside our comfort zone in artistic direction, practical scale, and creative coordination.
+
+By adding interactive features with live artist involvement, we will attempt new artistic directions. By expanding our role in facilitating a cohort of artists, and by increasing our installation footprint, we will learn new practical skills.
+
+At the completion of the project, we will have designed, implemented, and exhibited new creative audio, video, and print work. The exhibition media will be chosen by the artists and facilitators based on artistic merit and utility among the host neighborhoods, requiring new artistic decisions.
 
 Select a preliminary grant request range *
 Please select one grant range based on your best guess. We are not requesting project or organization budgets as part of the LOI. OCF reserves the right to request financial information from an organization before inviting a project to apply.
 
     $10,000- $24,000
-    $25,000- $49,000
-    $50,000- $74,000
-    $75,000- $100,000
 
 Letters of support
 Please upload a letter of support from key collaborators confirming their commitment to the proposed project, or executive leadership at the lead nonprofit. You may combine multiple letters from several collaborators into one document. This is not required for the LOI, but it can help the review committee understand the level of commitment or involvement from your proposed partners.
+
+XXX
+
