@@ -1,36 +1,36 @@
 # articles without content
 
-rant
+rant							USING DAMAGE REPORT
 mingus mapps ai bullshit
-map
 front cover
 back cover
 - futel logo as before
 
 # articles with content
-
-copier.txt
-year in review
-- yearinreview.md
-usage graphs
+map							DONE
+copier.txt						TEXT DONE
+year in review 					TEXT DONE
+- yearinreview.md 				TEXT DONE
+usage graphs					NEED TO FIT OPERATOR CALLS OR CUT
 - graphs subdirectory
 various images
 - images subdirectory
-new phone
+new phone 					DONE
 - newphone subdirectory
-operator log
+operator log					TEXT DONE
 - operator.txt
-sisyphus log
+sisyphus log					TEXT DONE
 - sisyphuslog subdirectory
-sisyphus article
+sisyphus article				DONE
 - sisyphus subdirectory
-damage report
+damage report				DONE
 - damagereport subdirectory
-death of the payphone
+		edit: removed “crazy”
+death of the payphone			DONE
 - deathofthepayphone subdirectory
-life of the payphone
+life of the payphone				DONE
 - lifeofthepayphone subdirectory
-support
+support						DONE
 - support.txt
-ack
+ack							DONE
 - ack.txt
