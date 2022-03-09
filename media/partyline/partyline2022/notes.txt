@@ -2,24 +2,24 @@
 
 rant							USING DAMAGE REPORT
 mingus mapps ai bullshit
-front cover
+front cover					Exploding payphone from scanners
 back cover
 - futel logo as before
 
 # articles with content
 map							DONE
-copier.txt						TEXT DONE
-year in review 					TEXT DONE
-- yearinreview.md 				TEXT DONE
-usage graphs					NEED TO FIT OPERATOR CALLS OR CUT
+copier.txt						DONE
+year in review 					DONE
+- yearinreview.md 				DONE
+usage graphs					DONE Operators graph on operator log
 - graphs subdirectory
-various images
+various images				DONE All images used except some screenshots
 - images subdirectory
 new phone 					DONE
 - newphone subdirectory
-operator log					TEXT DONE
+operator log					DONE
 - operator.txt
-sisyphus log					TEXT DONE
+sisyphus log					DONE
 - sisyphuslog subdirectory
 sisyphus article				DONE
 - sisyphus subdirectory
