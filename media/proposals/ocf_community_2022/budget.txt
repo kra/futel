@@ -1,0 +1,15 @@
+expenses
+service providers 1500
+hardware and maintenance 2500
+outreach 500
+admin 2500
+
+total expenses $7000
+
+income
+
+small personal donations 750
+crowdfunding 400
+merchandise 15
+
+total income $1165
