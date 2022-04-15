@@ -38,7 +38,19 @@ Installation is semi-secure and can be deployed without direct attendant, for ex
 - extension cord
 - pedestal and enclosure
 
+# Measuring charge
+
+Checking the voltage should give you a decent estimate, as lead acid batteries have a consistent voltage decay as they lose charge, from about 13v-14v down to 10-11.
+Our goal is to keep the batteries between 80 and 20 percent charge.
+Measuring the total amp hours would have to be done by drawing the battery down under a consistent load. A lightbulb is good for that-- can you borrow a headlight off a vehicle? 
+ 100% charge/discharge is going to run the battery down in a few dozen cycles, but it should still last a month or so. The batteries aren’t that expensive and are very recyclable, so I wouldn’t feel bad about wrecking a few for demo purposes. If you can cut power at 11v or so, you’ll keep it going a lot longer.
+
+
 # Other
 
 https://docs.google.com/spreadsheets/d/1oOiA-DdKyxVbjXiITzVgHW0pbi2RCxZHG_teo27e0G0/edit#gid=0
 https://www.mobilebeacon.org/devices/
+
+chargers
+Vector 1.5 Amp Battery Charger, Battery Maintainer, Trickle Charger, 6V and 12V, Fully Automatic
+https://www.homedepot.com/p/Vector-1-5-Amp-Battery-Charger-Battery-Maintainer-Trickle-Charger-6V-and-12V-Fully-Automatic-BM315V/310386119?MERCH=REC-_-pipinstock-_-309462998-_-310386119-_-N&
