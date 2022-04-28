@@ -12,19 +12,17 @@ budget.ods
 
 Who is your organization and what is its mission?
 
-Futel is a social service and arts organization which refurbishes salvaged payphones and telephony equipment and rebuilds them into public installations. Our installations provide free calls, services, live human interaction, community engagement, and interactive audio art. We have been active for eight years, currently have 11 public phones, and provided over 10,000 free calls in 2021. We also provide free phone service to Village Coalition and Hygiene Center sites in Portland.
-
+Futel is a social service and arts organization salvaging and refurbishing payphones and telephony equipment to provide truly public communications services. Our phone installations provide free calls, services, live human interaction, community engagement, and interactive audio art, and most are available on the street 24 hours a day. We have been active for eight years, currently have 11 public phones, and provided over 10,000 free calls in 2021. We also provide free phone service to Village Coalition and Hygiene Center sites in Portland.
 
 Why do you want to do this project?
 
-We will expand our footprint and by adding four new public installations. We will also build three portable installations for events or other temporary sites. This will enable us to bring our services and outreach to new communities.
+Futel’s services improve with every new network node. The community engagement and audio art projects accessible from our payphones improve as our reach expands. With this project, we will expand our footprint by adding four new public installations and creating three portable installations for events or other temporary sites. This will enable us to bring our services and outreach to new communities.
 
 We will maintain our existing 11 public installations, and we will improve our server software and processes to enable robust service.
 
 These installations will continue to provide calls, services, and other interactive features. Two new installations will also support the future development of Sidewalk Voices, an interactive creative project to be run by the community centers where they are hosted.
 
-The goals of this project are to grow our public demonstration of the use of robust technology and accessible interfaces in the support of community resiliancy.
-
+The goals of this project are to expand our reach and solidify our public service model and infrastructure. Our robust technology and accessible interfaces support community resilience, and our infrastructure has been openly documented from the beginning. After 8 years, Futel has a tested, proven model that we want to share more widely.
 
 What is your project plan?
 
@@ -39,7 +37,8 @@ Assemble kiosks and hardware for four permanent installations.
 
 Q4 2022:
 Assemble kiosks and hardware for three portable/semipermanent installations.
-Deploy public installations at Hedron Hackerspace, Microcosm Publishing.
+Deploy public installations at Hedron Hackerspace and Microcosm Publishing. [NOTE THAT MICROCOSM IS AT A BUS STOP? This is a big step up in terms of access]
+
 Deploy public installations at two additional locations.
 
 Q1-2 2023:
@@ -47,9 +46,9 @@ The four new installations, 11 existing public installations, and other service 
 
 How does your project align with ARDC's mission and granting goals?
 
-Our installations are a grassroots example of a communications technology deployed for the public good. We use salvaged examples of what was once a common piece of public urban technology - the payphone - to not only provide essential services like phone calls and voicemail, but also give people an opportunity to contribute to a creative project and interact with others, showing the power of simple voice communication.
+Our installations arise from a grassroots network maintainin gcommunication technology for the public good.  We use salvaged examples of what was once a common piece of public urban technology - the payphone - to not only provide essential services like phone calls and voicemail, but also give opportunities to join creative projects and interact with others, showing the power of simple voice communication.
 
-Our work is radically accessible because we bring it to the people and empower underrepresented groups. Because our installations are public and available at all hours, we can reach audiences that many technological or creative projects are not able to.
+Our work is radically accessible because we bring it to the people for free and have a long record of collaborating with self-organized houseless services organizations to increase telephone access [EMPOWER IS A DIRTY WORD THESE DAYS]. Because our installations are public and available at all hours, we reach audiences that many technological or creative projects cannot.
 
 
 Who will carry out your project?
