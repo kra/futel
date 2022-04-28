@@ -4,7 +4,7 @@ $14,160
 
 abstract
 
-Futel is an organization that uses salvaged telephone hardware to help neighborhood resiliancy with communication services, tools, and interactive creative opportunities. We will expand the outreach of Futel by deploying four permanent public installations and three temporary portable installations.
+Futel is an organization that uses salvaged telephone hardware to help neighborhood resiliency with communication services, tools, and interactive creative opportunities. We will expand the outreach of Futel by deploying four permanent public installations and three temporary portable installations.
 
 budget data
 
@@ -16,7 +16,7 @@ Futel is a social service and arts organization salvaging and refurbishing payph
 
 Why do you want to do this project?
 
-Futel’s services improve with every new network node. The community engagement and audio art projects accessible from our payphones improve as our reach expands. With this project, we will expand our footprint by adding four new public installations and creating three portable installations for events or other temporary sites. This will enable us to bring our services and outreach to new communities.
+Futel’s services improve with every new network node. The community engagement and audio art projects accessible from our payphones grow as our reach expands. With this project, we will expand our footprint by adding four new public installations and creating three portable installations for events or other temporary sites. This will enable us to bring our services and outreach to new communities.
 
 We will maintain our existing 11 public installations, and we will improve our server software and processes to enable robust service.
 
@@ -36,19 +36,18 @@ Purchase and refurbish payphone and installation hardware.
 Assemble kiosks and hardware for four permanent installations.
 
 Q4 2022:
-Assemble kiosks and hardware for three portable/semipermanent installations.
-Deploy public installations at Hedron Hackerspace and Microcosm Publishing. [NOTE THAT MICROCOSM IS AT A BUS STOP? This is a big step up in terms of access]
-
-Deploy public installations at two additional locations.
+Assemble kiosks and hardware for three portable/semi-permanent installations.
+Deploy public installations at two locations: Hedron Hackerspace in SE Portland, and Microcosm Publishing in NE Portland, next to a bus stop on Williams Ave.
+Deploy public installations at two additional locations. Candidates include Sisters Of The Road in SW Portland and Social Justice Action Center in SE Portland, both community centers providing services and support to the houseless community.
 
 Q1-2 2023:
 The four new installations, 11 existing public installations, and other service locations will remain operational for the duration of the project and beyond.
 
 How does your project align with ARDC's mission and granting goals?
 
-Our installations arise from a grassroots network maintainin gcommunication technology for the public good.  We use salvaged examples of what was once a common piece of public urban technology - the payphone - to not only provide essential services like phone calls and voicemail, but also give opportunities to join creative projects and interact with others, showing the power of simple voice communication.
+Our installations arise from a grassroots network maintaining communication technology for the public good.  We use salvaged examples of what was once a common piece of public urban technology - the payphone - to not only provide essential services like phone calls and voicemail, but also give opportunities to join creative projects and interact with others, showing the power of simple voice communication.
 
-Our work is radically accessible because we bring it to the people for free and have a long record of collaborating with self-organized houseless services organizations to increase telephone access [EMPOWER IS A DIRTY WORD THESE DAYS]. Because our installations are public and available at all hours, we reach audiences that many technological or creative projects cannot.
+Our work is radically accessible because we bring it to the people for free and have a long record of collaborating with self-organized houseless services organizations to increase telephone access. Because our installations are public and available at all hours, we reach audiences that many technological or creative projects cannot.
 
 
 Who will carry out your project?
