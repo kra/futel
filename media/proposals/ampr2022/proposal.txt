@@ -76,3 +76,10 @@ Our operations processes, budgets, project development notes, proposals, and oth
 
 
 Supporting information (file upload/)(text field)
+
+Letter of support from Hedron Hackerspace, installation host.
+Letter of support from Microcosm Publishing, installation host.
+Letter of support from Social Justice Action Center, candidate installation host.
+Letter of support from Sisters Of The Road, candidate installation host.
+Map of current installations.
+Flyer outlining installation types, capabilities, and requirements.
