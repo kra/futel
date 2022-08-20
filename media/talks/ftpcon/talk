@@ -1,0 +1,139 @@
+Futel: Dial Tone For The People
+
+I will describe the motivations behind the Futel project, how we attempt to make it sustainable, and how these strategies might be applied by others who want to use their powers for righteousness.
+
+
+
+* 0 intro and overview of this talk
+ * futel, a combination public service and art project with tech
+   underpinnings and which is fundamentally urban and public
+ * our motivations (or at least my motivations) for operating the project
+ * how we attempt to make it sustainable
+ * hopefully our motivations and strategies will be helpful for others to
+   learn about
+
+1:00
+
+* 1 intro and overview` of futel
+  * futel deploys payphones which make free calls and provide free
+    audio services and other activities
+  * a phone company since 2014
+  * run by myself and several other volunteers
+  * 12 free public payphones on sidewalks, alleys
+  * 9 in Portland OR, one each in Detroit MI, Ypsilanti MI, Long Beach WA
+  * also in Portland, free phone service to R2D2 and SJAC, and a bar
+    phone at Upright
+  * incoming lines
+  * zines, handbooks, various other media
+  * hygiene program
+
+3:30
+
+* 2 what do the futel phones offer
+  * all free services
+  * outgoing calls to most of North America, incoming calls to our phones
+  * voicemail, voice conference
+  * directories of useful and interesting numbers
+  * wildcard line, various audio art and other content
+  * human operators
+
+5:30
+
+* 3 how is it run
+  * quick overview because this is the least interesting part
+  * asterisk VOIP server, openvpn network on Digital Ocean boxes
+  * telephony services by the minute from Twilio and VOIP.ms
+  * clients run on salvaged routers too old for OpenWRT
+  * and of course, salvaged payphone hardware
+  * ops and processes are more important, but it's still not very interesting
+  * I'm a software dev and have always admired ops
+  * robustness is a priority
+  * blue/green deploy with quick reversion to previous version
+
+7:30
+
+* 5 how is it funded
+  * grants, donations, patreon
+  * fiscal sponsor gives us 501c3
+  * lots of labor involved in hustling funds, not good at it
+  * when funding runs out, I am the patron
+
+10:00
+
+* 6 why do we run futel
+  * this is finally the point of this talk
+  * hacker power
+  * need to have projects
+  * we have abilities and wanted to use them in fulfilling ways
+    * "use your powers for good"
+    * something other than the day job
+    * opportunity to be at least partly noncynical
+  * get to do things we might not otherwise
+  * creative outlet in an unexpected medium
+    * subversion in plain sight
+
+17:00
+
+* 8 how did we apply this motivation
+  * look outside and guess what people need
+    * major shopping cart track towards biggest shanty town in USA
+  * think about what has impact
+    * public presence
+    * radical accessibility
+    * no apps, no devices, no social networks, no identities
+  * think about what is fun
+    * need to attract and retain volunteers, including myself
+  * think about what is affordable
+    * cheap to give away for our funding ability
+    * gives us runway
+    * gives us freedom, we can leave phones on the street
+    * when funding runs out, I am the patron
+  * think about what is doable
+    * started small
+    * grew relatively slowly, not really by choice
+      * for many types of shit work, I am the volunteer
+  * but these criteria were not applied in order
+
+21:30
+
+* 9 how do we keep it sustainable
+  * lots of labor goes into Futel
+    * need volunteers
+    * need funding
+    * need me the director, hardest volunteer, and patron of last resort
+  * make it fun and interesting
+    * hackercentric
+    * skills
+  * make it rewarding
+    * metric usage so we can see effects
+      * make us feel good about what we are doing
+    * volunteer appreciation - schwag, drinks, other tokens
+    * have a presence to be associated with
+    * let us toot our horns
+      * honestly this is important
+      * nobody likes a bragger and in this biz we all know empty boasters
+      * it's important to let people get rewarded for their work
+    * make it rewarding for me
+      * this is even more important because who wants to replace me
+      * lots of work and burnout potential
+      * no pay and lots of failures
+      * it's valuable to me to be associated with Futel
+      * people have thanked me, one guy chased me down the sidewalk
+
+28:00
+
+* 10 supposed conclusions
+  * futel is a project
+    * lots of projects in my life
+    * can never tell if I'm doing the right thing
+    * sure it's positive, but is this a good use of my life?
+  * are my motivations good? How can we use our motivations?
+  * is it sustainable? What happens if it isn't?
+  * the intent of talking about this is to help others think about their
+    own efforts
+  * specifically to be a good fit for an antifascist conference, did we
+    do that?
+    * help people directly with radical accessibility
+    * not really mutual aid, but the core is providing access to tools
+      and communication between our users, not from us to our users
+
