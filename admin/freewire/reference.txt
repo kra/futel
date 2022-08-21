@@ -1,0 +1,78 @@
+15/08/2017
+Gmail - Freewire Welcomes Village Coalition to the Freewire Network!
+Freewire Welcomes Village Coalition to the Freewire Network!
+Jeff Fallows <Jefff@gofreewire.com>
+Cc: Tech Staff <techstaff@gofreewire.com>, Welcome <welcome@gofreewire.com>
+Fri, Jul 28, 2017 at 11:21 AM
+Freewire welcomes Village Coalition to the Freewire network! This email has some important information that you should
+review and keep for future reference.
+
+Technical Support
+If you ever experience a service-affecting issue please call us at 503-614-8282 and select the option for tech-
+support/NOC. This is the fastest way to connect with a member of the Freewire support team. You can also email routine
+requests to support@gofreewire.com, but expect up to 24 hours to hear a response.
+The status and performance of your connection is monitored 24 hours/day and we are notified if there are any issues with
+it, or any other part of the network. You can rest assured that if you notice a problem, our NOC is likely working on the
+resolution.
+
+Your Service
+The service that we have provisioned is Enterprise Internet at 10 Mbps
+Freewire Site ID: VIL-01-1
+Site Name: Thunderbird
+Site Location: 900 N Thunderbird Portland, OR 97227
+Service Acceptance
+Your service has been provisioned, tested, and is fully operational. Unless you call our tech-support line and open a
+trouble ticket within 1 business day of receiving this email, your service acceptance date will be July 29th, 2017. Charges
+for your monthly services will commence on the earliest of either the date you started using the service, or the service
+acceptance date listed above.
+Please read and sign the attached service acceptance letter, then fax it back to us at 503-614-8283 or email a scanned
+copy to support@gofreewire.com.
+
+Your Emergency Contact Information
+This is the information that we have on file to contact you with in case of an outage or other service-affecting emergency.
+Please let us know if it is incorrect or if you need any additional contacts added to the notification list for your account:
+https://mail.google.com/mail/u/0/?ui=2&ik=d2c8ec76c6&jsver=z3kHg2VWLDs.en.&view=pt&msg=15d8a6e7f939f38d&search=inb…
+1/315/08/2017
+Gmail - Freewire Welcomes Village Coalition to the Freewire Network!
+Contact Person: Karl Anderson
+
+Your Billing Information
+Freewire is providing this service free of charge as a courtesy to your organization.
+
+How to connect to your Freewire Enterprise Internet Service
+Your service has been provisioned on an auto-negotiating Fast-Ethernet port. If you would like the port hard-coded to a
+certain speed/duplex just let us know.
+Our Enterprise Internet Service gives you full IP connectivity via the Freewire network out to the Internet. To use it, simply
+plug your router, firewall, or computer in to the Freewire Ethernet port and configure your device(s) with the IP address
+information below.
+IPv4 Address(es): 67.23.197.190
+Subnet Mask: 255.255.255.252
+Default Gateway: 67.23.197.189
+DNS 1: 67.23.194.121
+DNS 2: 208.75.40.225
+Note: IPv4 address exhaustion is approaching quickly. Soon the IPv4 Internet will cease to grow and all new business will
+require IPv6 addressing. One consequence of this exhaustion is that IPv4 addresses available for use have almost all
+been used previously. Because of that you may want to check with several spam black-list resources to ensure that your
+block is “clean” if you intend to use it for outgoing mail via SMTP.
+DNS Services
+We can provide basic DNS services. For DNS requests please contact us at support@gofreewire.com
+Post-Install Survey
+We have attached a brief survey so that we can better serve our customers. Please take a moment to fill it out and send it
+back to us along with your signed service-acceptance sheet and we'll send you a $25 Starbucks gift card as our way of
+saying thank you. You can either fax it to us at 503-614-8283 or email a scanned copy to support@gofreewire.com.
+Thank you for your business.
+https://mail.google.com/mail/u/0/?ui=2&ik=d2c8ec76c6&jsver=z3kHg2VWLDs.en.&view=pt&msg=15d8a6e7f939f38d&search=inb…
+2/315/08/2017
+Gmail - Freewire Welcomes Village Coalition to the Freewire Network!
+Jeff Fallows | NOC Technician
+p. 503-614-8282
+| f. 503-614-8283
+JeffF@gofreewire.com | support@gofreewire.com
+www.gofreewire.com
+2 attachments
+Freewire_Broadband_Service_Acceptance.pdf
+80K
+Freewire_Broadband_Survey.pdf
+61K
+https://mail.google.com/mail/u/0/?ui=2&ik=d2c8ec76c6&jsver=z3kHg2VWLDs.en.&view=pt&msg=15d8a6e7f939f38d&search=inb…
+3/3
