@@ -53,6 +53,7 @@ Interview, Karaoke Research Council season 1 episode 3, Portland, January 2016.
 Futel: Operators Are Sometimes Standing By, Portland Creative Coders, Portland, August 2015.
 Futel: The Telephone Of The Future, Curiosity Club, Portland, April 2015.
 Futel: The Future Of The Past Of Telephony, Open Source Bridge, Portland, June 2014.
+Futel: Dial Tone For The People, ftp://con, August 2023.
 
 Audio Publications:
 Wildcard Line Episode 8, participatory audio, December 2021.
