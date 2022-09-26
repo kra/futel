@@ -1,0 +1,14 @@
+Jason Plumb, artist and developer
+Jason Plumb is a hacker, engineer, sound/noise artist, and a developer of the Church of Robotron, an interactive multimedia installation.  He has helped organize DorkbotPDX ("People doing strange things with electricity") for nearly a decade. Though experimentation, failure, and iteration, Jason creates generative/algorithmic audio/visuals, subversive user interfaces, and experiences that challenge cybernetic limits. Jason develops the IT and operations backend of Futel.
+
+Elijah St Clair, developer and operations
+Elijah St Clair is a DevOps engineer and a developer of the Church of Robotron, an interactive multimedia installation, and has fielded hours of calls as a Futel operator. Elijah develops the IT backend of Futel.
+
+Debbie Wager, artist and designer
+Debbie Wager is a graphic and UI designer. Along with a focus in user interface design such as mobile apps, websites, and interactive exhibits and kiosks, she has also produced graphic materials for ChickTech, a local organization dedicated to increasing the number of women and girls pursuing technology-based careers, and the Church of Robotron, an interactive multimedia installation. Debbie designs the visual assets of Futel installations and related media.
+
+Russell Senior, software engineering
+Russell Senior has 13 years of experience as President of the Personal Telco Project. Personal Telco builds public access internet networks, bringing communication tools to Portland communities and recently providing services for C3PO villages. Russell has consulted with Futel to improve the technical and human aspects of Futel's communication infrastructure.
+
+Mathew Lippincott, graphic design, hardware engineering
+Mathew Lippincott has 15 years of experience in environmental monitoring and 12 years of experience in sanitation policy and design. Mathew is a program and project designer for Futel, and supports documentation and outreach.

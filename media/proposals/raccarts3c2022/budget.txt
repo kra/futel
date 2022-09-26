@@ -1,0 +1,40 @@
+Proposal Costs or Expenses
+
+Budget Item Description Amount
+Service providers, engineering and construction $415
+Service providers, IT and connectivity $995
+Materials, hardware, supplies $1930
+Outreach, publicity, related media $195
+Adminstrative costs $200
+
+Labor, installation maintenance and repair, demo/prototype fabrication and assembly, 23 hours at $20/hr, $460
+Labor, engineering and operations, 79 hours at $20/hr, $1580
+Labor, project administration, 5 hours at $20/hr, $100
+Labor, engineering development and prototyping, 104 hours at $20/hr, $2080
+Labor, creative program development and prototyping, 104 hours at $20/hr, $2080
+
+total
+10035
+
+Proposal Contributions or Revenue
+
+Contribution Source Description Confirmed or Projected? Amount
+RACC grant, projected, $4000
+Small donations, individual through website/fiscal sponsor, projected, 1745
+Small donations, patreon subscribers, projected, 950
+IT hardware donation in-kind, Personal Telco Project, confirmed, 175
+Merchandise sales, projected, 15
+
+Labor, installation maintenance and repair, demo/prototype fabrication and assembly, in-kind, 11.5 hours at $20/hr, volunteers, confirmed, 230
+Labor, engineering and operations in-kind, 39.5 hours at $20/hr, volunteers, confirmed, 790
+Labor, project administration in-kind, 2.5 hours at $20/hr, volunteers, confirmed, 50
+Labor, engineering development and prototyping in-kind, 52 hours at $20/hr, volunteers, confirmed, 1040
+Labor, creative program development and prototyping in-kind, 52 hours at $20/hr, volunteers, confirmed, 1040
+
+total
+4000 + 745 + 1000 + 950 + 175 + 15
+6885
+180 + 50 + 790 + 50 + 1040 + 1040
+3150
+total
+10035

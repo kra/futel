@@ -1,0 +1,174 @@
+Applicant Information from Eligibility Profile
+How are you organized to apply for and receive grant Income?
+
+● Organization or Business with an Employer Identification Number
+o Fiscally Sponsored (upload an MOU)
+
+Primary Artistic Discipline (Choose your primary discipline for aiding panel assignments. You
+have the option to add a secondary discipline in text, for clarity.):
+
+● Social Practice
+
+● Optional Secondary discipline (specify):
+● Media Arts (Computer/technology based)
+
+Request Categories (choose all that apply, for panel assignment classification):
+
+● Art Project
+● Ongoing Program
+● Operating Expenses (organizations)
+● Installation
+
+Working Title of your proposed Project or Activity (optional):
+
+Futel 2023
+
+Grant Request Amount (choose one):
+(multiples of 1000 1k-5k)
+$4,000
+
+Grant Request Timeframe:
+What is the Start Date? When did or does planning begin for the proposed work or activity?
+
+Planning begins: January 2023
+Work and Activity begins: January 2023
+
+What is the End Date? When do you anticipate all related work be complete?
+
+December 2023
+
+Grant Application Questions:
+
+1. What do you need RACC grant funding to support? (Provide as much detail and information
+as you can. Up to 1,200 characters including spaces.)
+
+This grant will support the Futel project, a network of interactive installations built in payphones. This grant-funded project has been active since 2014. Grant resources will support internal capacity by providing for operations and personal development.
+
+Specifically, the grant will support the operation of nine existing installations in Portland for one year. All installations are publicly accessible at all hours. The grant will also support practical and creative development to expand the scope of future works to be exhibited with those installations.
+
+Operations work to be supported includes the maintenance and repair of the installations and the preparation of a spare/experimental installation suitable for portable use or later permanent installation. The grant will also provide network, computing, and connectivity services to be used by the project. The grant will fully fund the existing installations for 2023.
+
+Practical and creative development work to be supported includes engineering time to evaluate and develop tools and capabilities, and creative time to develop and prototype artistic programs. These will expand the scope of future projects.
+
+Does your request involve other artists, admin support, staff or board, community groups,
+vendors, service providers, etc?
+yes
+
+2. If Yes, who is involved, what are they doing as part of this activity, and why did you select
+them?
+(Up to 1,000 characters including spaces.)
+
+Creative and staff support:
+Jason Plumb: Software engineering, installation labor, program and creative development
+Elijah St Clair: Software engineering, installation labor, program and creative development
+Jesse Mejia: Audio engineering, program and creative development
+Russell Senior: Software engineering
+Mathew Lippincott: Graphic design, hardware engineering
+Debbie Wager: Graphic design
+
+These workers all have years of involvement with the Futel project, both as volunteers and in grant-supported paid work, and they are experienced and motivated.
+
+Service providers:
+Digital Ocean: Cloud computing services
+Twilio: Telephony and computing services
+VOIP.ms: Telephony services
+Personal Telco Project: Hardware
+
+These service providers have all been used for the Futel project and are the current best options for their services.
+
+3. How does this request impact you and move your artistic work forward? (Up to 1,000
+characters including spaces.)
+
+The grant will support my personal development by funding time for me to learn new practical methods, including:
+- The evaluation of computing and telephony services for rapid prototyping of creative programs.
+- The design and prototyping of a solar panel mounting solution to improve an existing battery powered installation built for a RACC Make|Learn|Build grant completed in 2022.
+
+The grant will support my artistic output by funding time for me to develop and prototype new creative programs for future installations, including:
+- A framework for the creation of participatory location-specific oral history exhibits, where the user can hear discussion and contribute to a growing conversation.
+- A framework for configurable call-in programs using the installations, incoming phone numbers, and an operator's personal phone.
+- An interactive audio series where the user is guided through the interpretation of sequences, and the production of randomness, without any language being used.
+
+4. Will you engage with the public in the Portland tri-county area in a presentation or activity
+as part of this proposal?
+
+yes
+
+If yes, what is the anticipated venue name and address with zipcode for any public
+involvement?
+(Up to 400 characters including spaces.)
+
+Sidewalk locations:
+NE Ainsworth W of 8th Ave-9th Ave Alley, 97211
+SE Taylor E of 23rd, 97214
+NE Killingsworth E of 13th, 92711
+NE 8th Ave S of Prescott, 97211
+N Central St between Tyler and Allegheny, 97203
+N Saratoga St W of Denver, 97217
+SE Cesar Chavez Blvd S of Steele, 97202
+Hedron Hackerspace, SE Bush St W of 21st, 97202
+Microcosm Publishing, N Williams Ave S of NE Graham St, 97227
+
+If yes, is this location ADA-Accessible?
+Yes
+
+All locations are accessible from public sidewalks.
+
+[$3,000 Request Level & Above]
+
+5. If yes to public engagement, who is the audience or participants for the public engagement,
+how many people will it reach, and what is your promotion, marketing, outreach, or
+distribution plan? (Up to 1,000 characters including spaces.)
+
+The potential audience of the work is anyone walking down the sidewalk. Our audience comes from a very diverse population that most creative projects would have difficulty in reaching.
+
+In 2021, Futel installations had over 27,000 handset pickups, over 10,900 outgoing calls made, over 7,400 calls received by the incoming line, and thousands of interactions with several creative works.
+
+Promotion and outreach will consist of similar media to that produced by Futel in 2021 and 2022: the Futel website and blog, one issue of Party Line, a printed booklet about Futel's activity for the year, and one or more episodes of the Wildcard Line, a participatory audio work with contributions from users of Futel installations.
+
+[$4,000 Request Level & Above]
+
+6. Please describe the overall proposed timeline for your proposal between your start and end
+dates, including the expected timeline with estimated dates for development, execution,
+promotion, and any final presentations. (Up to 1,000 characters including spaces.)
+
+January 2023 through December 2023: nine public installations operational in Portland.
+January 2023 through June 2023: Personal development and research.
+January 2023 through June 2023: Artistic development and prototyping.
+January 2023 through June 2023: One installation built for demonstration or prototyping.
+
+7. If yes to public engagement, what accessibility considerations are you making to support
+your audience or participants? (This could be physical such as ASL, closed-captioning, CART,
+or financial such as scholarships, subsidized tickets, etc. Up to 500 characters including
+spaces.)
+
+All installations are usable from public sidewalks, free of charge, at all times, using public telephone enclosures designed for accessibility, including wheelchair and sightless access.
+
+[$5,000 Request Level]
+
+8. Select all the RACC Core Values that apply to your proposal and explain: (Up to 1,000
+characters including spaces.)
+
+Accessibility:
+The installations are usable by anyone from the sidewalk at all times.
+
+Diversity:
+The low barriers for interaction bring diverse participants, and the social services offered draw in a wide community of people who then explore the creative aspects. While we don't collect demographic information, our interactions with installation visitors shows a great demographic diversity in users.
+
+Community:
+The installations revive an example of urban furniture that brings people together to a location, even if they aren't there at the same time. They strengthen a positive human presence to replace the antisocial interactions of alienating spaces.
+
+Equity:
+The installations are for users to talk with each other, rather than us talking to the users. Our most successful projects have involved providing tools for neighborhood artists to speak with their own voices about their own communities.
+
+Innovation:
+The public payphone is a unique artistic medium.
+
+Closing Statement
+What else would you like the Community Reviewers to know in support of your grant request?
+(Up to 1,000 characters including spaces.)
+
+This grant will enable us to pursue funding for new projects during and after the grant period. The artistic and personal development enabled by the grant, as well as having the basic service funded for the year, will be a great force multiplier for future projects.
+
+Oral history and storytelling have been a natural direction for our projects, and we are most effective when we can take these concepts in a new media direction, combining audio content with public participation in unexpected ways. We have a proven track record of using grant funds to successfully implement this over several years, both in solo projects and in collaboration with Open Signal, the Village Coalition, and other organizations.
+
+Futel installations are tools like microphones and cameras. They don’t have a predetermined function, but are the infrastructure for interaction and communication. This grant will give us opportunities to use these tools to support people and communities.
