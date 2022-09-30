@@ -17,7 +17,6 @@ Operator calls and messages will arrive with the CallerID number of the phone th
 - central: N Central St between Tyler and Allegheny, E side of street: 503-483-6584
 - saratoga: N Saratoga St W of Denver, N side of street: 503-388-9637
 - cesarchavez: SE Cesar Chavez Blvd S of Steele, E side of street: 503-946-5227
-- hedron: SE Bush St W of 21st, S side of street: 971-351-2383
 - microcosm: N Williams Ave S of NE Graham St, E side of street: 503-294-5966
 
 There are also these less public phones:
