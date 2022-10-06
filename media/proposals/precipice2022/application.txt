@@ -1,0 +1,133 @@
+Project Title:
+Word On The Street(Art)
+Total Funding Request:
+4700
+Name of Primary Contact:
+Karl Anderson
+Collaborator Name/s (min. 1, max. 5):*
+Rx Skulls
+Voxx Romana
+Leif Shackelford
+Fletch Halyburton
+
+
+Identify a Collaborator as the Backup Contact in case we cannot reach the Primary Contact (provide first and last name, must match someone from Collaborator List):*
+
+Fletch Halyburton
+
+
+Project Summary (75 words max.):*
+
+We will install an interactive art installation in a phone booth accessible from the sidewalk next to Secret Society Studios on NE Russell Street.
+
+The booth will be customized by street artists Rx Skulls and Voxx Romana, and will showcase "Word On The Street(Art)", an interactive audio work by Rx Skulls and Voxx Romana, with implementation and secondary audio features by Karl Anderson.
+
+Detailed Project Description (300 words max.):*
+
+The project occupies a payphone booth, customized with artwork. Picking up the handset will let the user hear a series of stories and advice from street artists. The user can extend the work by describing their own experiences, with selected contributions added to the discussion. The phone will also provide free calls and other telephony services.
+
+The participant will learn what street art is, what Portland street art is, why it’s unique, and the value it adds to the streetscape and the community, and will be encouraged to leave a message illustrating their own experience with street art, what it means to them, and questions they may have. If the participant wants to take it further there will be an auditory rolodex of sorts listing out a number of windows into the street art scene: “Dial 1 to hear street art stories by some of our local artists, dial 2 to leave your own story, dial 3 to listen to advice from local artists, dial 4 to leave advice, dial 5 to hear tips and tricks about how to make street art, dial 6 to leave tips and tricks". This will form a growing accumulation of resources, and can be shared after the installation has come to a close via other media outlets.
+
+The visual art customizing the phone booth, and the initial audio content, will be created by Rx Skulls and Voxx Romana, Portland based street artists. Implementation and secondary features will be provided by Karl Anderson, creative lead of Futel, an art project with installations in Portland and other cities. Installation and consultation will be provided by Leif Shackelford and Fletch Halyburton of Secret Society Studios.
+
+The installation will be accessible to the public from the sidewalk at all hours for one year.
+
+
+Project's Intended Audience (150 words max.):*
+
+The audience will be anybody using the public sidewalk who finds themselves interested in the installation. We will generate interest in two ways. First, the striking visuals of the installation will attract people who are curious about street art and how it changes the urban environment. Second, the working phone will attract people who will find it curious or useful, allowing us to reach a very diverse audience.
+
+The combined visual and audio aspects of the work will allow multiple layers of meaningful audience engagement, from a brief look at an element of the city surroundings, to a purposeful viewing of close-up visual details, to an interaction with the audio components. The visual aspects of the installation will be organized both to draw the participant to the phone, and to be a complete artwork in their own right, with any of these layers of engagement being meaningful.
+
+Public Components (150 words max.):*
+
+The installation will consist of a payphone booth containing a payphone, installed outdoors and accessible from the sidewalk at 120 N Russell Street at all hours of the day during the project period.
+
+The booth and payphone will be extensively modified with art from Rx Skulls and Voxx Romana. The visual elements, using street art themes which the artists have developed over years of experience, will be designed to guide the viewer towards the operation of the payphone and its audio project, "Word On The Street(Art)".
+
+The payphone will showcase the audio component, "Word On The Street(Art)", which will be accessed interactively with the payphone handset and keypad, and will also provide free calls, directories of social services and other telephony features, and secondary audio features.
+
+
+Support of Local or Regional Artists and Audiences (150 words max.):*
+
+The theme and indeed the main point of the work, a demonstration and discussion of the artistic, practical, and cultural elements of street art, is to support local artists and audiences who are interested in this form of expression.
+
+The interactive nature of the audio component, as it grows with contributions by audience members, will turn the work into a two-way discussion with other creators, appreciators, and perhaps even detractors of street art.
+
+Our intent is to not only exhibit and provide context and background for the participating artists and their work, but to also provide inspiration, information, and an outlet for other street artists and their audiences.
+
+
+Project Goals (75 words max., use bullet points) :*
+
+- Showcase an interactive public art installation.
+- Demonstrate the value of sanctioned street art in public spaces.
+- Educate, entertain, and enlighten artists and audiences interested in this art movement.
+- Provide an artistic example of urban furniture and affordances which enliven city life.
+- Demonstrate an alternative to alienating community spaces.
+- Provide a useful free public service.
+
+
+Project Site / Space (100 words max.):*
+
+The project will be adjacent to, and accessible from, the sidewalk in front of Secret Society Studios, a creative studio and restaurant space at 120 NE Russell Street in Portland. The site will be accessible to the public at all hours from the installation to the end of the project duration. The site is ideal for our installation, being next to a music venue and near restaurants and a busy pedestrian street.
+
+
+Timeline (75 words max., chronological list form): *
+
+- January 1 - February 28 2023: Create visual work, create audio work, build installation, build supporting IT hardware, implement supporting IT software.
+- February 1 - February 28 2023: Deploy installation and related IT hardware.
+- March 1 - December 31 2023: Installation is operational and accessible to the public at all hours.
+
+
+Budget Form Upload:*
+
+
+Budget Narrative (100 words max.):*
+
+The largest part of the budget goes towards artist fees, with materials and installation next. Marketing takes up a small part of the budget because of the very public nature of the installation, its long deployment time, and the nature of the subject matter, which encourages grassroots outreach. A contribution from the Futel project intends to cover unplanned expenses for equipment or supplies which could be usable after the project duration.
+
+
+Has the project for which you are now applying received a Precipice Fund grant in the past? *
+
+yes
+
+
+If yes, tell us how this round's proposal is different. For example, what has changed, shifted, evolved? What new developments are you excited about (150 words max.)?
+
+This particular project has not received a Precipice Fund grant, but Karl Anderson received a Precipice Fund grant in 2017 for the Futel project "Old Phones, New Secrets.". That project allowed the deployment of several Futel payphone installations, provided for the early development of several practical and artistic methods used by the Futel project, and grew several collaborations with civic organizations in Portland.
+
+This project differs in that Karl Anderson and Futel have a smaller role. While the Futel project and the practical and artistic knowledge it has gained is an important component of the project, it is not the primary one, and the project has a much larger visual component as well as artistic disciplines which the Futel project has only been tangentially involved with.
+
+
+OPTIONAL: Anything else? (150 words)
+
+From building sized murals to itty bitty stickers, street art adds an incalculable value to any cityscape. We’ve seen time after time that public artwork, not behind the paywall or inconvenience of a museum or gallery, interests people and brings them to specific parts of town and businesses themselves. We hear repeatedly from visitors that they love seeing “the ever changing evolution of the public space”. Businesses hear from patrons: “We love seeing the new artwork outside every time we visit”. We see people endlessly photographing street art to either post to their social media or just to keep for themselves to look at later. Photographers want to shoot it or in front of it. Event coordinators want to be surrounded by it. Street art is an utterly free expression in the shared public space, accessible by any and all.
+
+
+Bios of Primary Contact & Collaborators (max. 100 words each):*
+
+Rx Skulls is a street artist out of Portland Oregon. His project began in 2010 and continues to spread all over the world. Rx specializes in hand screen printed media such as vinyl stickers and posters but also employs stencils, laser, hand painted, and installation methods to create fine art and street art. He has curated numerous community installations, murals, and art shows throughout Portland and beyond over the past 13+ years.
+
+Since 2007, artist and counter culture adhesive aficionado Voxx Romana has been propagating his Einstein icon and moniker Voxx Romana through the medium of Street Art. Based in Portland, Oregon, Voxx has become internationally recognized through his use of powerfully vivid imagery and vast quantities of subversive street work. The art of Voxx Romana can be described as anti-hero punk with a twist of elegant pop art. Voxx Romana acquired his name from a Latin phrase which translates to “Voice of Rome”.
+
+Karl Anderson is director and creative lead of Futel. Since 2014, Futel has been installing public payphones which are free to use and provide telephone calls, service directories, interactive audio artwork, and live human interaction, with 11 installations currently operational in Portland and other cities.
+
+Leif Shackelford of the Secret Society Studios is an electronics experimenter who builds synthesizers and audio-visual exhibits.
+
+Fletch Halyburton co-owns Lottie & Zula's, a deli and sandwich shop in NE Portland, Oregon.
+
+
+REQUIRED: Visual Support Material (6 images): *
+
+
+OPTIONAL: Audio/Video Media #1 via URL:
+Brief description of Audio/Video #1 (if provided above):
+
+How did you hear about the Precipice Fund? *
+
+OPTIONAL: Does the Primary Contact and/or any of the Collaborators listed on your application identify as Black, Indigenous, and/or a Person of Color?
+
+OPTIONAL: Does the Primary Contact and/or any of the Collaborators listed on your application identify as LGBTQ+?
+
+OPTIONAL: Does the Primary Contact and/or any of the Collaborators listed on your application currently identify as Deaf or Hard of Hearing, as Disabled, and/or or as having a disability?
+
