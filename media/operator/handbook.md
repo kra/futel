@@ -9,10 +9,10 @@ Operator calls and messages will arrive with the CallerID number of the phone th
 
 - taylor: SE Taylor E of 23rd, N side of street: 503-926-6271
 - ainsworth: NE Ainsworth just W of NE 8th Ave-9th Ave Alley, N side of street: 503-444-9412
-- robotron: NE Killingsworth E of 13th, N side of street: 503-926-6341
+- killingsworth: NE Killingsworth E of 13th, N side of street: 503-926-6341
 - ypsi: Pearl St W of Washington, S side of street, Ypsilanti, MI: 734-547-6651
 - souwester: Souwester Lodge, J Pl, Seaview, WA: 360-228-2259
-- prescott: NE 8th Ave S of Prescott, W side of street: 503-926-6188
+- eighth: NE 8th Ave S of Prescott, W side of street: 503-926-6188
 - detroit: 23rd just S of Breckenridge St, E side of street, Detroit, MI: 313-246-9283
 - central: N Central St between Tyler and Allegheny, E side of street: 503-483-6584
 - saratoga: N Saratoga St W of Denver, N side of street: 503-388-9637
@@ -20,8 +20,9 @@ Operator calls and messages will arrive with the CallerID number of the phone th
 - microcosm: N Williams Ave S of NE Graham St, E side of street: 503-294-5966
 
 There are also these less public phones:
-- upright: Upright Brewing, 240 N Broadway: 503-468-1337 (IDs as incoming line)
 - r2d2: Right To Dream Too, 999 N Thunderbird Way: (IDs as nonpublic number)
+- upright: Upright Brewing, 240 N Broadway: 503-468-1337 (IDs as incoming line)
+- sjac: Social Justice Action Center, 400 SE 12th Ave
 
 Calls may arrive with the CallerID of a nonpublic Futel number. Feel free to respond to any call which presents an operator prompt, but be sure to ask for the caller's location if needed. On rare occasions, glitches and psychic resonance may cause unexpected connections to be formed with your device and with other tools you use to communicate, so operate with care.
 
