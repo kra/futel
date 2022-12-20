@@ -1,0 +1,18 @@
+done:
+
+positivity_and_negativity.txt
+sanitation
+new_phones
+support.txt
+ack.txt
+
+todo:
+
+cover
+wireless installation
+urban furniture
+operator
+sissyphus
+deathofthepayphone
+yearinreview.txt
+map
