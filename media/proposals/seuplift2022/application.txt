@@ -1,0 +1,88 @@
+Project Title: Futel Phone At Ghost Mountain
+
+Requested Funding Amount (You may request a grant from $300 up to $4,900):
+
+$3505.52
+
+Primary Project Coordinator (Person responsible for project / SE Uplift’s main point of contact)
+Name: Karl Anderson
+Primary Project Coordinator’s Title: Director
+Phone: (503) 395-7468‬ 
+Email (This should be an address that is checked regularly): operator@futel.net
+
+Secondary Project Coordinator (Another point of contact for SE Uplift)
+Name: Jason Plumb
+Secondary Project Coordinator’s Title: XXX
+Phone: (503) 468-1337
+Email (This should be an address that is checked regularly): XXX
+
+
+3. PROJECT NARRATIVE
+Your narrative should make a clear case for how the project will achieve one or more of the following grant program goals: Increase the number and diversity of people who are engaged in improving the broader community; Strengthen the community’s capacity to create social change by building leadership, identity, skills, or relationships; Increase community impact on public decisions and community life.
+
+
+    1. Please provide a very brief overview of what your project will do, who it will involve, and what you aim to accomplish. Please use full sentences. (75 words or less)
+
+We will install a free public telephone at the corner of SE 40th Ave and Woodstock Blvd., and maintain two existing public telephones in the Buckman and Woodstock neighborhoods. They will provide free calls to North America and telephony services such as voicemail, directories, and live operators. They will also enable participation in interactive creative audio projects.
+
+They will be part of Futel, a network of public telephone installations, with nine in Portland.
+
+    2. Please provide a more detailed description of your project. List your core goals. Describe the activities you will undertake to meet your goals. Tell us what you expect to accomplish by undertaking this project. (300 words or less)
+
+Our installations have two core goals. We will increase access to services, and we will strengthen pedestrian equity and involvement in the public space of the neighborhood.
+
+Each installation is a payphone on a pedestal, accessible from the sidewalk. The installations will be operational at all hours for all of 2023. The new one will be installed at 3932 SE Woodstock Blvd., at the corner of SE Woodstock and 40th.  Existing installations in SE Uplift neighborhoods are located at SE Taylor near 23rd, and SE Cesar Chavez near Steele. Resources including power and connectivity will be provided by the site hosts.
+
+We expect to see usage similar to recent years. In 2021, each of our locations provided an average of over 1,000 outgoing calls, and had a wide range of features accessed.
+
+    3. How does your project fit with SE Uplift’s mission? SE Uplift collaborates to build informed, inclusive, and participatory neighborhoods that support our social and ecological well-being. (200 words or less)
+
+While our installations will provide essential services to people who visit them from the sidewalk, they are not a one-way act of charity. They will also involve participants in two-way conversations, acting as accessible creative and communication tools.
+
+The installations will support the goals of the Community Small Grants program by engaging a diverse group of people in several ongoing interactive artistic projects. As with our previous and current installations, these projects will bring in participants and collaborators who would otherwise be hard to reach among more established artistic communities.
+
+    4. What is your group’s capacity to complete the project? Include the qualifications of those who would carry out this project, and how they reflect the community you hope to engage. (300 words or less)
+
+We have been building and installing our payphone installations since 2014, and currently maintain nine public installations in Portland. We also provide telephone services to Right To Dream Too in the Rose Quarter and the Social Justice Action Center in the Buckman neighborhood. In 2021 we facilitated over 10,900 outgoing calls from our phones, and over 7,400 calls to our incoming line.
+
+We have developed and deployed interactive audio projects accessed through our installations since the project began. In 2021 we received over 100 contributions to our projects through our phones, and thousands of other interactions.
+
+Futel workers and volunteers include:
+
+Karl Anderson: Director
+Jason Plumb: Software engineering, installation labor, program and creative development
+Elijah St Clair: Software engineering, installation labor, program and creative development
+Jesse Mejia: Audio engineering, program and creative development
+Russell Senior: Software engineering
+
+    5. Optional: Please list any partners that would help you implement your project. Describe their anticipated role and if they are projected or confirmed. 
+
+Ghost Mountain: Will host the new installation and provide installation help. Ghost Mountain is a residential property on SE 40th and Woodstock which also hosts a free pantry. Confirmed.
+Personal Telco Project: Will provide hardware and IT assistance. Personal Telco Project is a 501c3 organization which promotes free public communication utilities. Confirmed.
+PDX Hackerspace: Fiscal sponsor. PDX Hackerspace is a maker community offering work spaces and a collaborative environment. Confirmed.
+Social Justice Action Center: Will host an existing installation and provide service assistance. Social Justice Action Center is a community space in the Buckman neighborhood. Confirmed.
+
+    6. Who will participate in your project activities? Describe the target audience(s) your project will engage. Where are they located? How they will be involved as active participants? Have they been involved in the design of your project? How many people do you expect to participate in your activities? Be specific about how your project will engage historically underrepresented or underserved communities such as people of color, immigrants and refugees, people with disabilities, LGBTQ+ people, renters, low-income people. (300 words or less)
+
+Our project is oriented towards anyone who walks down the sidewalk, and the radical accessibility of the installations will allow us to engage an extremely varied audience.
+
+While we don't collect demographic information or other identification from participants, our conversations have been with many kinds of people. People experiencing houselessness are strongly represented.
+
+    7. What is your plan to promote your project and recruit participants? Include how you will build awareness of your project in the community and the outreach methods you will use to reach your target audience. (300 words or less)
+
+As part of the Futel project, our project will benefit from an existing media presence, including our website, blog, yearly print publication, regular audio publications, and various social media accounts. We will continue with the outreach work which started since the Futel project began in 2014. Previous outlets which have reported on Futel include the Oregonian, OPB, the Bee, NPR Morning Edition, the Willamette Week, and KOIN 6. Previous organizations which have collaborated on project development and operations include Open Signal and Sisters Of The Road. We distribute our yearly publication through Microcosm Publishing.
+
+    8. How will your project increase community safety and resilience? Describe any relief or logistical support efforts that will address the community’s capacity to recover, overcome, and resist hardships? Will steps toward increased safety be reached during or after the project? (200 words or less)
+
+Our project will provide essential services with free telephone calls and voicemail, accessible through our installations and our incoming number. In addition, directories of useful numbers and live operator assistance are provided.
+
+The installations will also provide a place for people to stop and interact with other neighborhood community members, either in person or through the interactive creative audio projects.
+
+    4. TIMELINE
+
+Please provide a simple timeline that outlines the steps you will take to accomplish your goals and by when. Include your expected start and completion dates, and all major project milestones. 
+
+January 1 - December 31 2023: Existing installations are operational and accessible to the public at all hours.
+January 1 - January 14 2023: Build new installation and supporting IT hardware.
+January 14 - January 31 2023: Deploy new installation.
+January 31 - December 31 2023: New installation is operational and accessible to the public at all hours.
