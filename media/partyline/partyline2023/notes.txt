@@ -3,6 +3,7 @@ done:
 positivity_and_negativity.txt
 sanitation
 new_phones
+heidelberg_project
 support.txt
 ack.txt
 
@@ -13,6 +14,6 @@ wireless installation
 urban furniture
 operator
 sissyphus
-deathofthepayphone
+death_of_the_payphone
 yearinreview.txt
 map
