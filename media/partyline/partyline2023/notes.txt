@@ -2,6 +2,7 @@ done:
 
 positivity_and_negativity.txt
 sanitation
+yearinreview.md
 operator.txt
 new_phones
 heidelberg_project
@@ -15,5 +16,4 @@ wireless installation
 urban furniture
 sissyphus
 death_of_the_payphone
-yearinreview.txt
 map
