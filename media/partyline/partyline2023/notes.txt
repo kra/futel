@@ -2,6 +2,7 @@ done:
 
 positivity_and_negativity.txt
 sanitation
+operator.txt
 new_phones
 heidelberg_project
 support.txt
@@ -12,7 +13,6 @@ todo:
 cover
 wireless installation
 urban furniture
-operator
 sissyphus
 death_of_the_payphone
 yearinreview.txt
