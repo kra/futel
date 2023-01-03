@@ -5,6 +5,7 @@ sanitation
 yearinreview.md
 operator.md
 new_phones
+death_of_the_payphone
 heidelberg_project
 support.txt
 ack.txt
@@ -15,5 +16,4 @@ cover
 wireless installation
 urban furniture
 sissyphus
-death_of_the_payphone
 map
