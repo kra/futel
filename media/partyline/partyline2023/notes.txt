@@ -3,7 +3,7 @@ done:
 positivity_and_negativity.txt
 sanitation
 yearinreview.md
-operator.txt
+operator.md
 new_phones
 heidelberg_project
 support.txt
