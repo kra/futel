@@ -7,13 +7,13 @@ operator.md
 new_phones
 death_of_the_payphone
 heidelberg_project
+wireless_installation
 support.txt
 ack.txt
 
 todo:
 
 cover
-wireless installation
 urban furniture
-sissyphus
+sisyphus
 map
