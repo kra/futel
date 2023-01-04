@@ -1,4 +1,4 @@
-# Operator log
+# Operator Log
 
 Five operators logged 18 calls in 2022. Futel's hard-working operators need to be reminded about the importance of logging for outreach and maintenance! 434 operator calls were made, but that includes callers who didn't wait for an operator to be available, or who were just too boring to say anything memorable, so we can't blame the operators for everything. However, they are the only identifiable parties involved, so nobody else can be held responsible.
 
