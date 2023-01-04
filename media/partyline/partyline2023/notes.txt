@@ -6,6 +6,7 @@ yearinreview.md
 operator.md
 new_phones
 death_of_the_payphone
+urban_furniture
 heidelberg_project
 wireless_installation
 support.txt
@@ -14,6 +15,5 @@ ack.txt
 todo:
 
 cover
-urban furniture
 sisyphus
 map
