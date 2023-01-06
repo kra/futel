@@ -4,6 +4,7 @@ positivity_and_negativity.txt
 sanitation
 yearinreview.md
 operator.md
+sisyphus.md
 new_phones
 death_of_the_payphone
 urban_furniture
@@ -15,5 +16,4 @@ ack.txt
 todo:
 
 cover
-sisyphus
 map
