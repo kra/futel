@@ -2,18 +2,18 @@ done:
 
 positivity_and_negativity.txt
 sanitation
+yearinreview.md
+operator.md
+sisyphus.md
 new_phones
+death_of_the_payphone
+urban_furniture
 heidelberg_project
+wireless_installation
 support.txt
 ack.txt
 
 todo:
 
 cover
-wireless installation
-urban furniture
-operator
-sissyphus
-death_of_the_payphone
-yearinreview.txt
 map
