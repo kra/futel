@@ -1,7 +1,8 @@
 // From https://www.twilio.com/blog/registering-sip-phone-twilio-inbound-outbound
-// If destination number appears to be a SIP URI, dial it.
-// If destination number appears to be NANPA, normalize it to E.164 and dial it.
-// If destination number appears to be 911 or 933, dial it? At least it works.
+// Parse the destination number from the SIP URI.
+// If the destination number matches one of our credentials, construct a SIP URI with our SIP domain
+// and dial it.
+// Otherwise, assume it is a PSTN number and dial it.
 
 // TODO
 // Add and update comments.
@@ -23,33 +24,21 @@ exports.handler = function(context, event, callback) {
     let twiml = new Twilio.twiml.VoiceResponse();
     const { From: fromNumber, To: toNumber, SipDomainSid: sipDomainSid } = event;
     let regExNumericSipUri = /^sip:((\+)?[0-9]+)@(.*)/;
-    let regAlphaSipUri = /^sip:(([a-zA-Z][\w]+)@(.*))/;
     // Change the defaultCallerId to a phone number in your account
     let defaultCallerId = '+15005551212';
     let defaultCountry = event.defaultCountry || 'US';
-    
-    let fromSipCallerId = (fromNumber.match(regExNumericSipUri)
-                           ? fromNumber.match(regExNumericSipUri)[1] :
-                           fromNumber.match(regAlphaSipUri)[2]);
 
-    if (!toNumber.match(regExNumericSipUri)) {
-        console.log('Dialing an alphanumeric SIP User');
-        twiml.dial({callerId: fromSipCallerId, answerOnBridge: true})
-        .sip(toNumber);    
-        callback(null, twiml);
-    }
-
-    let normalizedFrom = (fromNumber.match(regExNumericSipUri)
-                          ? fromNumber.match(regExNumericSipUri)[1] : defaultCallerId);
-    
+    // The caller ID is the SIP extension, which we assume is E.164.
+    let fromSipCallerId = fromNumber.match(regExNumericSipUri)[1];
+    let normalizedFrom = fromNumber.match(regExNumericSipUri)[1];
     let normalizedTo = toNumber.match(regExNumericSipUri)[1];
     let sipDomain =  toNumber.match(regExNumericSipUri)[3];
 
-    //console.log(`Original From Number: ${fromNumber}`);
-    //console.log(`Original To Number: ${toNumber}`);
-    //console.log(`Normalized PSTN From Number: ${normalizedFrom}`);
-    //console.log(`Normalized To Number: ${normalizedTo}`);     
-    //console.log(`SIP CallerID: ${fromSipCallerId}`);
+    console.log(`Original From Number: ${fromNumber}`);
+    console.log(`Original To Number: ${toNumber}`);
+    console.log(`Normalized PSTN From Number: ${normalizedFrom}`);
+    console.log(`Normalized To Number: ${normalizedTo}`);     
+    console.log(`SIP CallerID: ${fromSipCallerId}`);
     
     // Parse number with US country code and keep raw input.
     const rawFromNumber = phoneUtil.parseAndKeepRawInput(normalizedFrom, defaultCountry);
