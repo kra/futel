@@ -22,7 +22,6 @@ exports.handler = function(context, event, callback) {
     const client = context.getTwilioClient();    
     let twiml = new Twilio.twiml.VoiceResponse();
     const { From: fromNumber, To: toNumber, SipDomainSid: sipDomainSid } = event;
-    let mergedAggregatedE164CredentialUsernames = [];
     let regExNumericSipUri = /^sip:((\+)?[0-9]+)@(.*)/;
     let regAlphaSipUri = /^sip:(([a-zA-Z][\w]+)@(.*))/;
     // Change the defaultCallerId to a phone number in your account
@@ -62,6 +61,8 @@ exports.handler = function(context, event, callback) {
     console.log(`E.164 From Number: ${fromE164Normalized}`);
     console.log(`E.164 To Number: ${toE164Normalized}`);
 
+    let mergedAggregatedE164CredentialUsernames = [];
+    
     credUtil.enumerateCredentialLists(client, sipDomainSid).then(credentialLists => {
         Promise.all(credentialLists.map(credList => {
             return credUtil.getSIPCredentialListUsernames(client, credList.sid);
