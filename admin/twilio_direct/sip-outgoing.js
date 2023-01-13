@@ -5,6 +5,7 @@
 // Otherwise, assume it is a PSTN number and dial it.
 
 // TODO
+// Validate NANPA.
 // Document requirements.
 // Can we send SNS to our monitoring here? Alternative is Twilio console?
 
@@ -32,12 +33,12 @@ exports.handler = function(context, event, callback) {
     
     // Normalize to number to E.164
     const rawtoNumber = phoneUtil.parseAndKeepRawInput(normalizedTo, 'US');
-    // XXX we should validate for NANPA number here, hopefully we already do that!
+    // XXX We should validate for NANPA number here, hopefully we already do that!
+    //     filter_outgoing.agi
     toE164Normalized = phoneUtil.format(rawtoNumber, PNF.E164);
     console.log(`E.164 To Number: ${toE164Normalized}`);
 
     let mergedAggregatedE164CredentialUsernames = [];
-    
     credUtil.enumerateCredentialLists(client, sipDomainSid).then(credentialLists => {
         Promise.all(credentialLists.map(credList => {
             return credUtil.getSIPCredentialListUsernames(client, credList.sid);
