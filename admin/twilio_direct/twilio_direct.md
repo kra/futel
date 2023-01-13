@@ -32,11 +32,11 @@ Create service
     - version: 3.2.30
     - module: twilio
     - version: 3.80.0
-- rename welcome function to sip-outgoing
-- update sip-outgoing function to protected?
-    - private doesn't work, at least
-- edit function JS
-    - sip_outgoing.js
+- remove welcome function
+- create cred-util function
+    - cred-util.js
+- create sip-outgoing function
+    - sip-outgoing.js
 - save and deploy all                
 - copy url of function for SIP domain later
 
@@ -117,7 +117,13 @@ drawbacks
 - can't log client de/registration
 - short delay before outgoing ring
 - deployment and update is manual through web gui
+    - we could instead use the Twilio CLI, local console commands
+    - there is also a local test server in the Serverless Toolkit
 
 - can we get our metrics?
 - can we direct to asterisk for features eg pound for menu, operator?
 - can we refer back if we do that?
+
+Another option is to be less serverless. We can serve our own TwiML with the Twilio SDK in response to a POST from Twilio. This lets us e.g. publish our metrics in the way we are used to, use our server to decide how to react to messages, etc.
+
+For dev/stage/prod develoment, create an Environment resource for each. For example, point to server or function locations.

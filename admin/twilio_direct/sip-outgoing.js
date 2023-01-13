@@ -15,6 +15,9 @@
 const PNF = require('google-libphonenumber').PhoneNumberFormat;
 const phoneUtil = require('google-libphonenumber').PhoneNumberUtil.getInstance();
 
+const credUtilPath = Runtime.getFunctions()['cred-util'].path;
+const credUtil = require(credUtilPath);
+
 exports.handler = function(context, event, callback) {
     const client = context.getTwilioClient();    
     let twiml = new Twilio.twiml.VoiceResponse();
@@ -59,25 +62,9 @@ exports.handler = function(context, event, callback) {
     console.log(`E.164 From Number: ${fromE164Normalized}`);
     console.log(`E.164 To Number: ${toE164Normalized}`);
 
-    // Return a list of all CredentialLists for the SIP domain sid.
-    function enumerateCredentialLists(sipDomainSid) {
-        return client.sip.domains(sipDomainSid)
-            .auth
-            .registrations
-            .credentialListMappings
-            .list();
-    }
-
-    // Return a list of usernames from the given CredentialList sid.
-    function getSIPCredentialListUsernames(credList) {
-        return client.sip.credentialLists(credList)
-            .credentials
-            .list();  
-    }
-    
-    enumerateCredentialLists(sipDomainSid).then(credentialLists => {
+    credUtil.enumerateCredentialLists(client, sipDomainSid).then(credentialLists => {
         Promise.all(credentialLists.map(credList => {
-            return getSIPCredentialListUsernames(credList.sid);
+            return credUtil.getSIPCredentialListUsernames(client, credList.sid);
         })).then(results => {
             results.forEach(credentials => {
                 // Push all usernames which start with + into mergedAggregatedE164CredentialUsernames.
