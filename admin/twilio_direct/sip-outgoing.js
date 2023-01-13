@@ -24,9 +24,6 @@ exports.handler = function(context, event, callback) {
     let twiml = new Twilio.twiml.VoiceResponse();
     const { From: fromNumber, To: toNumber, SipDomainSid: sipDomainSid } = event;
     let regExNumericSipUri = /^sip:((\+)?[0-9]+)@(.*)/;
-    // Change the defaultCallerId to a phone number in your account
-    let defaultCallerId = '+15005551212';
-    let defaultCountry = event.defaultCountry || 'US';
 
     // The caller ID is the SIP extension, which we assume is E.164.
     let fromSipCallerId = fromNumber.match(regExNumericSipUri)[1];
@@ -41,8 +38,8 @@ exports.handler = function(context, event, callback) {
     console.log(`SIP CallerID: ${fromSipCallerId}`);
     
     // Parse number with US country code and keep raw input.
-    const rawFromNumber = phoneUtil.parseAndKeepRawInput(normalizedFrom, defaultCountry);
-    const rawtoNumber = phoneUtil.parseAndKeepRawInput(normalizedTo, defaultCountry);    
+    const rawFromNumber = phoneUtil.parseAndKeepRawInput(normalizedFrom, 'US');
+    const rawtoNumber = phoneUtil.parseAndKeepRawInput(normalizedTo, 'US');    
     // Format number in E.164 format
     fromE164Normalized = phoneUtil.format(rawFromNumber, PNF.E164);
     toE164Normalized = phoneUtil.format(rawtoNumber, PNF.E164);
