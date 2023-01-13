@@ -15,3 +15,6 @@ function getSIPCredentialListUsernames(client, credList) {
         .credentials
         .list();  
 }
+
+exports.enumerateCredentialLists = enumerateCredentialLists;
+exports.getSIPCredentialListUsernames = getSIPCredentialListUsernames;
