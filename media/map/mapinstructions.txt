@@ -1,12 +1,15 @@
-How to update the InDesign map:
-I use Stamen’s OpenStreetMap toner tileset so that it is 1) creative commons and 2)  prints well.  Their map viewer has a built-in image export and embed functions:
-http://maps.stamen.com/toner/
+The current print/graphic map is in:
+media/map/vector-map
+
+The three indesign files contain the different maps to export. The maps are built up from illustrator assets in “assets.” update the assets then let indesign files relink. Export service-map.indd and service-map8-5x11.indd as print pdfs. Export service-map-web.indd adn Service-map as PNGs. 
+
+There are additional icons in the “icons” folder. Screenshots of OSM map files that were traced are in “sources.”
 
 How to update the uMap embedded map:
 add locations to umapfutel.csv
 media/map/umapfutel.csv
 
-upload this file to uMap (link below) and replace all data on Layer 1
+upload this file to uMap (link below) and check “replace layer content” on Layer 1
 
 The map was built with my openstreetmap login (MathewL)
 https://umap.openstreetmap.fr/en/map/futel-service-map_707873
@@ -17,3 +20,8 @@ mathewlippincott has permissions, if they fix github login, Ican add you as an e
 
 The icon uses this graphic
 media/images/clip_src/simple-phone-handset-md.png
+
+OLD INDESIGN MAP INSTRUCTIONS:
+How to update the InDesign map:
+I use Stamen’s OpenStreetMap toner tileset so that it is 1) creative commons and 2)  prints well.  Their map viewer has a built-in image export and embed functions:
+http://maps.stamen.com/toner/
