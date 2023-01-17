@@ -16,7 +16,7 @@ Most importantly, we continued to provide services to our phones and incoming li
 - over 4,000 calls received by the incoming line
 - 441 calls to the Futel voice conference
 - 243 listens to the most popular Church of Robotron sermon, "What Are The Robotrons?"
-- 91 listens to Mr. Payphones Payphone Radio
+- 91 listens to Mr. Payphone's Payphone Radio
 - 72 inquiries for the Druids of Sisyphus Gardens
 - 56 calls to the Payphone Demultiplexer
 - 38 calls to the mayor of Portland
