@@ -24,7 +24,7 @@ Like most years before it, 2022 was a fantastic year to be Druids in the woods. 
 
 - **8/9** Portland caller wanted to visit the Druids. I asked if they knew anything about our woods, or if they were a random stranger. They knew about it from Futel, and are scared of the internet and the I-5. I gave them instructions anyway. As of 1/7/23 they haven’t shown up.
 
-- Sometime in late summer, I obtained a secret way to call the Upright futel rotary phone. I called just as they had just repaired the phone moments before, coincidentally. The Upright operator was confused as to how the Druid was calling just then, and confused me in turn, and then a mob of customers entered, immediately ending the call.
+- Sometime in late summer, I obtained a secret way to call the Upright Futel rotary phone. I called just as they had just repaired the phone moments before, coincidentally. The Upright operator was confused as to how the Druid was calling just then, and confused me in turn, and then a mob of customers entered, immediately ending the call.
 
 - **9/3** Caller wanted to visit the Druids’ meditation retreat in Forest Park. This place does not exist, and I could not provide further information or wisdom to their inquiries. They asked if there is an option to call a priest instead.
 
