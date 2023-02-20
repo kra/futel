@@ -28,6 +28,7 @@ https://pamplinmedia.com/sb/74-news/341855-220736-futel-offers-free-public-phone
 
 "Futel’s campaign to bring back the public telephone, and the possibility that an Ypsilanti phone may be coming soon", blog article, June 14, 2017
 http://markmaynard.com/2017/06/futels-campaign-to-bring-back-the-public-telephone-and-possibility-that-an-ypsilanti-phone-may-be-coming-soon/
+(archive: https://web.archive.org/web/20220927164822/http://markmaynard.com/2017/06/futels-campaign-to-bring-back-the-public-telephone-and-possibility-that-an-ypsilanti-phone-may-be-coming-soon/)
 
 "Futel: The Network We Deserve", Open Source Bridge presentation, June 21, 2017
 http://www.opensourcebridge.org/sessions/1991
