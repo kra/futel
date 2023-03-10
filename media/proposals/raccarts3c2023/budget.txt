@@ -1,0 +1,31 @@
+Expenses
+
+Budget Item Description Amount
+Service providers, IT and connectivity $1300
+Materials, hardware, supplies $1930
+Outreach, publicity, related media $195
+Adminstrative costs $200
+
+Labor, Futel installation maintenance and repair for 1 year, 23 hours at $20/hr, $460
+Labor, Futel IT operations for 1 year, 79 hours at $20/hr, $1580
+Labor, Futel project administration for 1 year, 12 hours at $20/hr, $240
+Labor, personal practical development, 104 hours at $20/hr, $2080
+Labor, creative program development, 104 hours at $20/hr, $2080
+
+total
+
+Revenue
+
+Contribution Source Description Confirmed or Projected? Amount
+RACC grant, projected, $4000
+Small donations from individuals through website/fiscal sponsor, projected, 1745
+Small donations from Patreon subscribers, projected, 950
+IT hardware donation in-kind from Personal Telco Project, confirmed, 175
+Merchandise sales, projected, 15
+
+Labor, Futel installation maintenance and repair for 1 year, in kind, 23 hours at $20/hr, $460
+Labor, Futel IT operations for 1 year, in kind, 79 hours at $20/hr, $1580
+Labor, Futel project administration for 1 year, in kind, 12 hours at $20/hr, $240
+Labor, creative program development, in kind, 104 hours at $20/hr, $2080
+
+total
