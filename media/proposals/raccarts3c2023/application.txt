@@ -76,7 +76,7 @@ The operational funding of the existing Futel phones will allow me to build on t
 The personal development funding will let me design and prototype new creative programs, with the practical development increasing my ability to use communication technology for projects, and the artistic development giving me time to design innovative new programs. New programs will include several of:
 - A framework for the creation of participatory location-specific oral history exhibits, where the user can hear discussion and contribute to a growing conversation about Dawson Park
 - An interactive program where the user is guided through the interpretation of audio sequences, and the production of randomness, without any language being used
-- An audio project where users use Futel phones and their personal phones to communicate with their voices replaced by computer generated speech and other modifications
+- An audio project where users use Futel phones and their personal phones to communicate, with their voices replaced by computer generated speech and other modifications
 
 4. Will you engage with the public in the Portland tri-county area in a presentation or activity as part of this proposal?
     Yes
@@ -110,7 +110,7 @@ Promotion and outreach will include:
 - "Party Line", a printed booklet about Futel's activities
 - "Wildcard Line", a participatory audio work with contributions from users of Futel phones
 - Interviews and articles for media covering public art, the creative use of technology, or innovative social service, including "Oregon Arts Watch", "Think Out Loud", and "2600"
-- Presentations at arts and technology meetups and conferences including "Crowd Supply Hardware Happy Hour" and "ftp://con"
+- Presentations at arts and technology meetups and conferences including "Teardown", "Hardware Happy Hour", and "ftp://con"
 
 How many people do you estimate it will reach?
 
