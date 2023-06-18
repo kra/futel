@@ -1,5 +1,9 @@
 Media about Futel:
 
+Wikipedia page:
+https://en.wikipedia.org/wiki/Futel
+(archive: https://web.archive.org/web/20221223234757/https://en.wikipedia.org/wiki/Futel)
+
 "Futel: the future of the past of telephony", Open Source Bridge presentation, June 5, 2014
 http://opensourcebridge.org/sessions/1322
 (archive: https://web.archive.org/web/20170717014710/http://opensourcebridge.org/sessions/1322)
@@ -118,9 +122,7 @@ https://www.koin.com/news/special-reports/still-needed-free-phone-service-sees-c
 Media by Futel:
 
 Website:
-http://futel.net/
-Twitter:
-https://twitter.com/futelco
+https://futel.net/
 Blog:
 https://futelco.tumblr.com/
 Soundcloud:
@@ -132,3 +134,5 @@ https://microcosmpublishing.com/catalog/zines/9975
 https://microcosmpublishing.com/catalog/zines/10920
 https://microcosmpublishing.com/catalog/zines/13070
 https://microcosmpublishing.com/catalog/zines/28431
+https://microcosmpublishing.com/catalog/zines/2861
+https://microcosmpublishing.com/catalog/zines/4561
