@@ -1,5 +1,6 @@
 Karl Anderson
 Curriculum Vitae
+September 2023
 
 Futel
 August 2014 to present
@@ -21,12 +22,12 @@ Sidewalk, N Saratoga St, Portland, September 2021 to present.
 Sidewalk, SE Cesar Chavez Blvd, Portland, January 2022 to present.
 Sidewalk, Microcosm Publishing, N Williams Ave, Portland, September 2022 to present.
 Sidewalk, SE 40th Ave, Portland, May 2023 to present.
-Sidewalk, SE Clinton Street, Portland, June 2014 to December 2021.
-Sidewalk, PDX Hackerspace, N Interstate Avenue, Portland, February 2016 to July 2016.
 Alley, NE Killingsworth Street, Portland, January 2018 to February 2022.
-Sidewalk, SE Woodward Street, Portland, November 2018 to January 2021.
-Sidewalk, Open Signal, NE Martin Luther King Jr Blvd, Portland, January 2020 to December 2021.
 Sidewalk, Hedron Hackerspace, SE Bush St, Portland, May 2022 to September 2022.
+Sidewalk, SE Clinton Street, Portland, June 2014 to December 2021.
+Sidewalk, Open Signal, NE Martin Luther King Jr Blvd, Portland, January 2020 to December 2021.
+Sidewalk, SE Woodward Street, Portland, November 2018 to January 2021.
+Sidewalk, PDX Hackerspace, N Interstate Avenue, Portland, February 2016 to July 2016.
 
 Exhibits:
 Hold The Phone, Open Signal, April-November 2020.
@@ -44,7 +45,9 @@ HELLO, VOYAGER / Futel Telephone Booth by Jodi Darby, Open Signal Fest, August 2
 HERE || Humboldt by the Black Life Experiential Research Group, Paragon Gallery at PCC Cascade, April 2019.
 
 Presentations:
+Increasing Achievements with Operant Conditioning, ftp://con, virtual, August 2023.
 Futel: Dial Tone For The People, ftp://con, virtual, August 2023.
+Futel: For Whom The Bell Tones, Teardown 2023, Portland, June 2022.
 Futel: The Payphone, Devolved, HOPE 12, New York City, July 2018.
 Futel: A Technology So Advanced We Leave It Out On The Street All Night, Teardown, Portland, May 2018.
 Futel: Telecommunications Colossus of the Modern Age, DonutJS, Portland, February 2018.
@@ -56,7 +59,6 @@ Interview, Karaoke Research Council season 1 episode 3, Portland, January 2016.
 Futel: Operators Are Sometimes Standing By, Portland Creative Coders, Portland, August 2015.
 Futel: The Telephone Of The Future, Curiosity Club, Portland, April 2015.
 Futel: The Future Of The Past Of Telephony, Open Source Bridge, Portland, June 2014.
-Futel: For Whom The Bell Tones, Teardown 2023, Portland, June 2023.
 
 Audio Publications:
 Wildcard Line Episode 8, participatory audio, December 2021.
@@ -79,6 +81,7 @@ Party Line #2, pamphlet, March 2017.
 Party Line #1, pamphlet, March 2016.
 
 Major Grants:
+Regional Arts and Culture Council Arts3C Grant, July 2023.
 Regional Arts and Culture Council Make|Learn|Build Grant, August 2021.
 Awesome Portland Grant, March 2020.
 Regional Arts and Culture Council Project Grant, June 2019.
