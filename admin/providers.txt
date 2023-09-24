@@ -1,14 +1,33 @@
+franklin t10
+$177
+
+JEXTREAM® RG2100 5G Mobile Hotspot
+$350
+
+inseego MiFi X PRO 5G mobile hotspot
+rj45
+$500
+
+t mobile
+$120 + device
+$240 + device
+inseego MiFi X PRO 5G mobile hotspot $264
+
+amazon
+inseego MiFi X PRO 5G mobile hotspot $57
+
+walmart
+inseego MiFi X PRO 5G mobile hotspot $90
+
+boost mobile 3mo $15
+
+2020
+
 twilio programmable wireless 2020
 $2/sim/mo
 $0.05/mb (for $1/mo quota) ($0.12/min to asterisk)
 $0.013/min voice
 plus device
-
-techsoup 2020
-$9/hotspot shipping
-$15/hotspot admin?
-$120/hotspot/year
-$12/mo for one year, that's 92 minutes of twilio
 
 ting 2020
 $6/device/mo
@@ -20,9 +39,3 @@ tmobile 2021
 $?/sim/mo
 2GB $5/mo
 plus device
-
-airalo 2023
-https://www.airalo.com/united-states-esim
-sim
-1 GB 7 days $4.50
-2 GB 15 days $8
