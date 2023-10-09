@@ -1,6 +1,8 @@
-# Project/work statement overview
+Futel Installation at Portland International Airport Project Statement
 
-The Futel installation will consist of four payphones and several wall panels installed in the exhibition area.
+# Overview
+
+The Futel installation will consist of four payphones and several wall panels installed in the exhibition area. The payphones provide interactive audio art and services, and are artistic artifacts in their own right. The wall panels showcase publications, outreach, and other content from the Futel project.
 
 The payphones are salvaged, working models which have been previously deployed as payphones, mounted on pedestal or wall enclosures. Users can interact with them using the handset and keypad, and each will function differently. Functionality will include:
 - A voice menu tree similar to the menus provided for Futel's Portland installations, customized for Portland International Airport, the people travelling through it, and the concourse workers. As with the existing Futel installations, there will be approximately 100 menu options total, which will include free phone calls, directories of interesting and important numbers, audio art, and live operator interaction at some hours
@@ -8,9 +10,10 @@ The payphones are salvaged, working models which have been previously deployed a
 - An interactive audio work, "Crossed Wires", where two or more participants try to communicate while their voices are distorted algorithmically
 - An interactive audio work, "Give Me Central 209", where two or more participants try to communicate with each other and an AI participant when their voices are replaced and translated by an AI program
 
-The wall panels will describe the Futel project and its impact with maps, photographs, and essays, displaying content from eight years of Futel publications in large formats suitable for attracting a walking traveler. Content may include:
+The wall panels will describe the Futel project and its impact with maps, photographs, and essays, and showcase creative writing and illustration created as part of the project. Content will be drawn from eight years of Futel publications, printed in large formats suitable for attracting a walking traveler. Content may include:
 - A map of current public Futel installations in Portland, Detroit and Ypsilanti, Michigan, and Long Beach, Washington
 - Logs of calls to the Futel operator service over eight years
+- Creative writing and illustration related to the Futel project
 - Photographs of public Futel telephone and hygiene installations, and the salvage and engineering activities that support the project
 - Essays on the motivations of the Futel project and the social and artistic movements which inspire it
 - Reproductions of Futel signs and banners, and posters and flyers from installations and exhibitions
@@ -21,15 +24,15 @@ All interactive installations will be operational at all times during the exhibi
 
 The initial response from many travellers upon seeing and approaching the installation will be one of curiosity and interest. The payphones will be familiar to millennials and older generations, but incongruous. They are anachronistic and perhaps nostalgic, prompting some viewers to wonder if this is a history exhibit or a discussion of the topic of urban amenities and their social impact.
 
-Viewers who choose to interact with the installations will experience the Futel menus, dial tone, and audio works. They may explore the menus to understand what Futel phones can do and how they are used by people in Portland and other cities, or hear essays spoken by noted telephone network experimenters and hackers, or participate with interactive artistic programs.
+Viewers who choose to interact with the installations will experience the Futel menus, dial tone, and audio works. They may explore the menus to understand what Futel phones can do and how they are used by people in Portland and other cities, or hear essays spoken by noted telephone network experimenters and hackers, or explore interactive artistic programs. They may choose to be part of a participatory artistic program, and influence the experience of future participants.
 
-The large wall panels will draw some viewers in, and provide another way to experience the work. The payphones and panels are complimentary, and each can be experienced without the other.
+The large wall panels will draw some viewers in, and provide another way to experience the work. The payphones and panels are compliment each other, combining to create a multimedia experience, but each can be experienced and enjoyed without the other.
 
 # Impact and external interactions
 
 The telephone enclosures can be mounted on pedestals or attached to walls. Pedestal mounts must have a floor to be securely bolted to, alternately a thin platform can be provided. Wall mounts must have a solid wall to be securely bolted to. All artwork is accessible with mobility devices.
 
-The telephone installations require power and internet connectivity at all times. Power requirements are 12 watts, 0.5 amps for all installations when in use. Connectivity requirements are access to the Futel servers using either a wired or non-public secure WIFI connection. Bandwidth requirements are 300 kbps for all installations when in use.
+The telephone installations require power and internet connectivity at all times. Power requirements are 12 watts, 0.5 amps for all installations when in use. The installations require internet connectivity and must be able to access the Futel servers using either a wired or non-public secure WIFI connection. Bandwidth requirements are 300 kbps for all installations when in use. Human intervention is not anticipated for operation. If either power or connectivity are interrupted, the audio installation functionality will stop until both are restored.
 
 Mechanical or structural maintenance is not anticipated. Cleaning, sanitation, and other site upkeep can be performed as for similar public airport surfaces.
 
