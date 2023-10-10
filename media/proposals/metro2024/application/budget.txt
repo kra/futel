@@ -8,44 +8,41 @@ Metro grant money needed: Estimate the Metro grant money needed for each part.
 Scope of activities and/or expenses
 Metro grant money needed
 
-Build and install telephone, enclosure, and supporting infrastructure.
-$1259 hardware and materials purchases, $500 labor
 Mar-Jul 2024
-$1750
 
-Design, promote, implement CFP.
+Build and install telephone, enclosure, and supporting infrastructure
+$1250 hardware and materials purchases, $1200 labor and expenses
+
+Design, promote, implement CFP
 $1500 artist fees, $500 administrative fees, $200 promotion
-Mar-Jul 2024
-$2200
 
-Train, equip, support artists.
+Train, equip, support artists
 $250 equipment purchases and rentals
-$250 audio editor, producing, consultation labor
-Mar-Jul 2024
-$500
+$200 audio editor, production labor
+
+$5100
+
+Mar 2024-Jun 2025
 
 Design, implement, operate IT platform, including adaptation of artistic works
 $2750 labor
 $1750 equipment rentals
-Mar 2024-Jun 2025
-$4500
 
-Adminstration fees
-$600
-Mar 2024-Jun 2025
+Adminstration expenses
+$900 expenses and labor
 
-Host telephone, enclosure, and supporting infrastructure.
+$5400
+
+Jul 2024 - Jun 2025
+
+Host installation and supporting infrastructure
 $120 internet, electricity, and other resources
 $240 site maintenance and upkeep
-Jul 2024 - Jun 2025
-$360
 
 Promote, distribute artistic work
-$500
-Jul 2024-Jun 2025
+$400
 
-1750 + 2200 + 500 + 4500 + 600 + 360 + 500
-10410
+$760
 
 
 Do you have or need additional money for your proposal? (This does not affect the evaluation of your
@@ -53,8 +50,9 @@ application. It helps the review panel understand the scope of your proposal.)
 
 Additional money you have already have for your proposal
 
-Donations from Patreon subscribers $930, applied to operations costs, replacement hardware, supplies
-Donations from individual donors $1000, applied to operations costs, replacement hardware, supplies
+Donations from Patreon subscribers, applied to operations costs, replacement hardware, supplies
 Operating expenses from RACC Arts3C grant, applied to operations costs Mar-Jun 2024 $1200
+
+$2130
 
 Additional money beyond the Metro grant you will still need for your proposal
