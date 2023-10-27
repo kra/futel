@@ -1,8 +1,8 @@
-Futel Installation at Portland International Airport Project Statement
+# Project Statement
 
 # Overview
 
-The Futel installation will exhibit art and artifacts from the Futel project. It will illustrate the philosophy, motivations, aesthetic and impact of the Futel project over ten years in Portland, Detroit, and other cities.
+The Futel installation at Portland International Airport will exhibit art and artifacts from the Futel project. It will illustrate the philosophy, motivations, aesthetic and impact of the Futel project over ten years in Portland, Detroit, and other cities.
 
 The installation will consist of four payphones and several wall panels. The payphones will provide interactive audio art and services, and will be artistic and functional artifacts in their own right. The wall panels will showcase photographs, essays, and illustrations from ten years of the Futel project and its related publications.
 
@@ -35,13 +35,11 @@ The telephone enclosures can be mounted on pedestals or attached to walls. Pedes
 
 The telephone installations require power and internet connectivity at all times. Power requirements are 12 watts, 0.5 amps total for all installations when in use. The installations require internet connectivity and must be able to access the Futel servers using either a wired or private secure WIFI connection. Bandwidth requirements are 300 KBPS total for all installations when in use. If either power or connectivity are interrupted, the audio installation functionality will be restored when the power or connectivity are.
 
+
 # Artist bio
 
 Karl Anderson is a social practice artist in Portland, Oregon. For 30 years, he has been building, destroying, and rebuilding creative works related to themes of salvage, obsolescence, and public space. Most of his artistic output is experienced in public urban settings and adapts to interactions with unprepared participants or witnesses. He has deployed public payphones in Portland and other cities for ten years as the director of Futel. With the Church of Robotron, he has built a series of traveling post-apocalyptic training facilities, indoctrination centers, and reading rooms based on the tenets of a coin-operated video game. With C.H.U.N.K. 666, he has created amphibious human-powered vehicles out of discarded bicycles and construction debris, often using them to unexpectedly appear in urban situations or destroying them in public spectacles.
 
-# Artist CV
-
-Karl Anderson
 Curriculum Vitae
 October 2023
 
@@ -194,15 +192,17 @@ CHOIR, choir accompaniment for a dance performance by Takahiro Yamamoto, March 2
 CHOIR, choir accompaniment for a dance performance by Takahiro Yamamoto, July 2015.
 Like a Sun That Pours Forth Light but Never Warmth, solo aria for a dance performance by Allie Hankins, Conduit Dance, October 2014.
 
+
 # Website link
 
 https://futel.net
 
+
 # Images
 
-See attachments. Note: examples of essays and other content for panels are available, but the requested submission format is not appropriate for viewing. Examples are avaialable by PDF, text, or on the Futel website.
-- installation1.jpg: photograph of public Futel installation
-- installation2.jpg: photograph of public Futel installation
+See attachments. Note: Full versions of essays and other content for panels are available, but the application asks for existing work only, so I have attached some excerpts of the original printed content in the requested format, which would be adapted for the panel format. Fuller examples are avaialable by PDF, text, or on the Futel website.
+- installation1.jpg: photograph of a public Futel installation
+- installation2.jpg: photograph of a public Futel installation
 - panel1.jpg: excerpt from "Urban Furniture", adapted from Party Line #8, 2023
 - panel2.jpg: excerpt from "2020 Operator Log Excerpts", adapted from Party Line #6, 2021
-- servicemap.jpg: map of Futel installations, January 2023
+- servicemap.jpg: map of Futel installations, from Party Line #8, 2023
