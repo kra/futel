@@ -4,6 +4,12 @@ Wikipedia page:
 https://en.wikipedia.org/wiki/Futel
 (archive: https://web.archive.org/web/20221223234757/https://en.wikipedia.org/wiki/Futel)
 
+"Futel utilizes forgotten payphones with free calls for anyone", Street Roots article, February 7, 2024
+https://www.streetroots.org/news/2024/02/07/futel-upcycles-pay-phones-free-calls
+
+"Futel: for Whom The Dial Tones", Teardown presentation, June 24, 2023
+https://www.crowdsupply.com/teardown/portland-2023/short-talk/futel-for-whom-the-dial-tones
+
 "Futel: the future of the past of telephony", Open Source Bridge presentation, June 5, 2014
 http://opensourcebridge.org/sessions/1322
 (archive: https://web.archive.org/web/20170717014710/http://opensourcebridge.org/sessions/1322)
