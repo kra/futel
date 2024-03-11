@@ -130,15 +130,16 @@ Media by Futel:
 Website:
 https://futel.net/
 Blog:
-https://futelco.tumblr.com/
-Soundcloud:
+https://futel.net/blog
+Wildcard Line on SoundCloud:
 https://soundcloud.com/user-450753077
-Zines:
-https://microcosmpublishing.com/catalog/zines/8068
-https://microcosmpublishing.com/catalog/zines/8067
-https://microcosmpublishing.com/catalog/zines/9975
-https://microcosmpublishing.com/catalog/zines/10920
-https://microcosmpublishing.com/catalog/zines/13070
-https://microcosmpublishing.com/catalog/zines/28431
-https://microcosmpublishing.com/catalog/zines/2861
+Zines published by Microcosm Publishing:
+https://microcosmpublishing.com/catalog/zines/8419
 https://microcosmpublishing.com/catalog/zines/4561
+https://microcosmpublishing.com/catalog/zines/2861
+https://microcosmpublishing.com/catalog/zines/28431
+https://microcosmpublishing.com/catalog/zines/13070
+https://microcosmpublishing.com/catalog/zines/10920
+https://microcosmpublishing.com/catalog/zines/9975
+https://microcosmpublishing.com/catalog/zines/8067
+https://microcosmpublishing.com/catalog/zines/8068
