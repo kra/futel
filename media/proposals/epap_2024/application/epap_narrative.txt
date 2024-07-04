@@ -9,6 +9,7 @@ The installation will be located on the east side NE Brazee St north of NE 108th
 With the East Portland Community Phone project, we aim to help build a more connected, resilient, and creative community, addressing both immediate communication needs and long-term social engagement goals within EPAP's operational framework​​.
 
 Activities and Timeline:
+
 - Before April 2024: Independent of the project, ongoing larger Futel project operates, including outreach and development of IT and network.
 - May 1-7 2024: Site planning with host, estimate time and materials.
 - May 8-31 2024: Purchase hardware and materials, configure IT, finalize site planning. Deploy installation.
