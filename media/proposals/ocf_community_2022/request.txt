@@ -1,9 +1,0 @@
-request budget
-
-service providers 1000
-hardware and maintenance 5000
-outreach 100
-admin 2500
-
-total expenses 9000
-
